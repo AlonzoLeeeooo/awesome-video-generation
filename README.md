@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">A Collection of Text-to-Video Generation Studies</h1>
+  <h1 align="center">A Collection of Video Generation Studies</h1>
 
 This GitHub repository summarizes papers and resources related to the video generation task. 
 
