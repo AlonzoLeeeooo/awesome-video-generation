@@ -6,10 +6,18 @@ This GitHub repository summarizes papers and resources related to the video gene
 In `reference.bib`, bibtex references are summarized with up-to-date video generation papers, as well as widely used datasets and toolkits.
 All refereces are constructed in the form of `author-etal-year-nickname`.
 
-If you have any suggestions about this repository, please feel free to [start a new issue](https://github.com/synlp/T2V-Review/issues/new) or [pull requests](https://github.com/synlp/T2V-Review/pulls).
+If you have any suggestions about this repository, please feel free to [start a new issue](https://github.com/AlonzoLeeeooo/awesome-video-generation/issues/new) or [pull requests](https://github.com/AlonzoLeeeooo/awesome-video-generation/pulls).
 
+<!-- omit in toc -->
+# Contents
+- [Products](#products)
+  - [Year 2023](#product-year-2023)
+- [Papers](#papers)
+  - [Year 2023](#papers-year-2023)
+
+<!-- omit in toc -->
 # Products
-- **Year 2023**
+- <span id="product-year-2023">**Year 2023**</span>
   - Animate Anyone [[paper]](https://arxiv.org/pdf/2311.17117.pdf) [[GitHub]](https://github.com/HumanAIGC/AnimateAnyone) [[website]](https://humanaigc.github.io/animate-anyone/)
   - Emu [[website]](https://emu-video.metademolab.com/)
   - Gen-2 [[website]](https://research.runwayml.com/gen2)
@@ -22,9 +30,9 @@ If you have any suggestions about this repository, please feel free to [start a 
   - Stable Video Diffusion [[paper]](https://arxiv.org/pdf/2311.15127.pdf) [[website]](https://stability.ai/news/stable-video-diffusion-open-ai-video-model)
   - VideoPoet [[website]](https://sites.research.google/videopoet/)
 
-
+<!-- omit in toc -->
 # Papers
-- **Year 2023**
+- <span id="papers-year-2023">**Year 2023**</span>
   - **CVPR**
     - Align your Latents: High-resolution Video Synthesis with Latent Diffusion Models [[paper]](https://arxiv.org/pdf/2304.08818.pdf) [[project]](https://research.nvidia.com/labs/toronto-ai/VideoLDM/) [[reproduced code]](https://github.com/srpkdyy/VideoLDM)
     - Text2Video-Zero: Text-to-image Diffusion Models are Zero-shot Video Generators [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Khachatryan_Text2Video-Zero_Text-to-Image_Diffusion_Models_are_Zero-Shot_Video_Generators_ICCV_2023_paper.pdf) [[code]](https://github.com/Picsart-AI-Research/Text2Video-Zero) [[demo]](https://huggingface.co/spaces/PAIR/Text2Video-Zero) [[project]](https://text2video-zero.github.io/) 
