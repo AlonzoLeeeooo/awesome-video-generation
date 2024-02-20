@@ -16,6 +16,7 @@ If you have any suggestions about this repository, please feel free to [start a 
     - [Year 2024](#text-year-2024)
     - [Year 2023](#text-year-2023)
   - [Image-to-Video Generation](#image-to-video-generation)
+    - [Year 2024](#image-year-2024)
     - [Year 2023](#image-year-2023)
   - [Style Transfer](#style-transfer)
     - [Year 2023](#style-year-2023)
@@ -98,16 +99,20 @@ If you have other demands of reference formats, you may refer to the original re
 
 <!-- omit in toc -->
 ## Image-to-Video Generation
+- <span id="image-year-2024">**Year 2024**</span>
+  - **arXiv** 
+    - ***I2V-Adapter:*** A General Image-to-Video Adapter for Diffusion Models [[Paper]](https://arxiv.org/pdf/2312.16693.pdf) [[Code]](https://github.com/I2V-Adapter/I2V-Adapter-repo)
 - <span id="image-year-2023">**Year 2023**</span>
+  - **CVPR**
+    - Conditional Image-to-Video Generation with Latent Flow Diffusion Models [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Ni_Conditional_Image-to-Video_Generation_With_Latent_Flow_Diffusion_Models_CVPR_2023_paper.pdf) [[Code]](https://github.com/nihaomiao/CVPR23_LFDM)
   - **arXiv**
     - ***I2VGen-XL:*** High-quality Image-to-video Synthesis via Cascaded Diffusion Models [[Paper]](https://arxiv.org/pdf/2311.04145.pdf) [[Code]](https://github.com/ali-vilab/i2vgen-xl) [[Project]](https://i2vgen-xl.github.io/)
-    - Conditional Image-to-Video Generation with Latent Flow Diffusion Models [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Ni_Conditional_Image-to-Video_Generation_With_Latent_Flow_Diffusion_Models_CVPR_2023_paper.pdf) [[Code]](https://github.com/nihaomiao/CVPR23_LFDM)
 
 [<u><small><🎯Back to Top></small></u>](#contents)
 
 <!-- omit in toc -->
 ## Audio-to-Video Generation
-- <span id="image-year-2023">**Year 2023**</span>
+- <span id="audio-year-2023">**Year 2023**</span>
   - **CVPR**
     - ***MM-Diffusion:*** Learning Multi-Modal Diffusion Models for Joint Audio and Video Generation [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Ruan_MM-Diffusion_Learning_Multi-Modal_Diffusion_Models_for_Joint_Audio_and_Video_CVPR_2023_paper.pdf) [[Code]](https://github.com/researchmm/MM-Diffusion)
 
