@@ -15,9 +15,11 @@ If you have any suggestions about this repository, please feel free to [start a 
   - [Text-to-Video Generation](#text-to-video-generation)
     - [Year 2024](#text-year-2024)
     - [Year 2023](#text-year-2023)
+    - [Year 2022](#text-year-2022)
   - [Image-to-Video Generation](#image-to-video-generation)
     - [Year 2024](#image-year-2024)
     - [Year 2023](#image-year-2023)
+    - [Year 2022](#image-year-2022)
   - [Style Transfer](#style-transfer)
     - [Year 2023](#style-year-2023)
 - [Datasets](#datasets)
@@ -65,7 +67,11 @@ If you have other demands of reference formats, you may refer to the original re
 <!-- omit in toc -->
 ## Text-to-Video Generation
 - <span id="text-year-2024">**Year 2024**</span>
-  - Sora: Video Generation Models as World Simulators [[Paper]](https://openai.com/research/video-generation-models-as-world-simulators)
+  - **arXiv**  
+    - ***Lumiere:*** A Space-Time Diffusion Model for Video Generation [[Paper]](https://arxiv.org/pdf/2401.12945.pdf) [[Project]](https://lumiere-video.github.io/)
+    - ***Boximator:*** Generating Rich and Controllable Motions for Video Synthesis [[Paper]](https://arxiv.org/pdf/2402.01566.pdf) [[Project]](https://boximator.github.io/) [[Video]](https://www.youtube.com/watch?v=reto_TYsYyQ)
+  - **Others**
+    - ***Sora:*** Video Generation Models as World Simulators [[Paper]](https://openai.com/research/video-generation-models-as-world-simulators)
 - <span id="text-year-2023">**Year 2023**</span>
   - **CVPR**
     - ***Align your Latents:*** High-resolution Video Synthesis with Latent Diffusion Models [[Paper]](https://arxiv.org/pdf/2304.08818.pdf) [[Project]](https://research.nvidia.com/labs/toronto-ai/VideoLDM/) [[Reproduced code]](https://github.com/srpkdyy/VideoLDM)
@@ -94,6 +100,10 @@ If you have other demands of reference formats, you may refer to the original re
     - ***VideoComposer:*** Compositional Video Synthesis with Motion Controllability [[Paper]](https://arxiv.org/pdf/2306.02018.pdf) [[Code]](https://github.com/ali-vilab/videocomposer) [[Project]](https://videocomposer.github.io/)
     - ***VideoFactory:*** Swap Attention in Spatiotemporal Diffusions for Text-to-video Generation [[Paper]](https://arxiv.org/pdf/2305.10874.pdf)
     - ***VideoGen:*** A Reference-guided Latent Diffusion Approach for High Definition Text-to-video Generation [[Paper]](https://arxiv.org/pdf/2309.00398.pdf) [[Code]](https://videogen.github.io/VideoGen/)
+    - ***InstructVideo:*** Instructing Video Diffusion Models with Human Feedback [[Paper]](https://arxiv.org/pdf/2312.12490.pdf) [[Code]](https://github.com/ali-vilab/i2vgen-xl/blob/main/doc/InstructVideo.md) [[Project]](https://arxiv.org/pdf/2312.12490.pdf)
+- <span id="text-year-2022">**Year 2022**</span>
+  - **CVPR**    
+    - Show Me What and Tell Me How: Video Synthesis via Multimodal Conditioning [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Han_Show_Me_What_and_Tell_Me_How_Video_Synthesis_via_CVPR_2022_paper.pdf) [[Code]](https://github.com/snap-research/MMVID) [[Dataset]](https://github.com/snap-research/MMVID/blob/main/mm_vox_celeb/README.md)
 
 [<u><small><🎯Back to Top></small></u>](#contents)
 
@@ -107,6 +117,9 @@ If you have other demands of reference formats, you may refer to the original re
     - Conditional Image-to-Video Generation with Latent Flow Diffusion Models [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Ni_Conditional_Image-to-Video_Generation_With_Latent_Flow_Diffusion_Models_CVPR_2023_paper.pdf) [[Code]](https://github.com/nihaomiao/CVPR23_LFDM)
   - **arXiv**
     - ***I2VGen-XL:*** High-quality Image-to-video Synthesis via Cascaded Diffusion Models [[Paper]](https://arxiv.org/pdf/2311.04145.pdf) [[Code]](https://github.com/ali-vilab/i2vgen-xl) [[Project]](https://i2vgen-xl.github.io/)
+- <span id="image-year-2022">**Year 2022**</span>
+  - **CVPR**    
+    - ***Make It Move:*** Controllable Image-to-Video Generation with Text Descriptions [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Hu_Make_It_Move_Controllable_Image-to-Video_Generation_With_Text_Descriptions_CVPR_2022_paper.pdf) [[Code]](https://github.com/Youncy-Hu/MAGE)
 
 [<u><small><🎯Back to Top></small></u>](#contents)
 
@@ -130,10 +143,19 @@ If you have other demands of reference formats, you may refer to the original re
 
 <!-- omit in toc -->
 # Datasets
+- [ICCV 2021] ***WebVid-10M:*** Frozen in Time: ️A Joint Video and Image Encoder for End to End Retrieval [[Paper]](https://arxiv.org/pdf/2104.00650.pdf) [[Dataset]](https://maxbain.com/webvid-dataset/) [[GitHub]](https://github.com/m-bain/webvid) [[Project]](https://www.robots.ox.ac.uk/~vgg/research/frozen-in-time/)
+- [ECCV 2022] **ROS:** Learning to Drive by Watching YouTube Videos: Action-Conditioned Contrastive Policy Pretraining [[Paper]](https://arxiv.org/pdf/2204.02393.pdf) [[Code]](https://github.com/metadriverse/ACO) [[Dataset]](https://mycuhk-my.sharepoint.com/personal/1155165194_link_cuhk_edu_hk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2F1155165194%5Flink%5Fcuhk%5Fedu%5Fhk%2FDocuments%2Fytb%5Fdriving%5Fvideos&ga=1)
 
 [<u><small><🎯Back to Top></small></u>](#contents)
 
 <!-- omit in toc -->
 # To-Do Lists
-
+- Published Papers on Conferences
+  - [x] Update CVPR papers
+  - [ ] Update ICCV papers
+  - [ ] Update ECCV papers
+  - [ ] Update ACM MM papers
+  - [ ] Update NeurIPS papers
+  - [ ] Update ICLR papers
+- Regular Maintenance of Preprint arXiv Papers and Missed Papers
 [<u><small><🎯Back to Top></small></u>](#contents)
