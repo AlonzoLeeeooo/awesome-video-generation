@@ -24,6 +24,7 @@ If you have any suggestions about this repository, please feel free to [start a 
     - [Year 2023](#style-year-2023)
 - [Datasets](#datasets)
 - [To-Do Lists](#to-do-lists)
+- [Q&A](#qa)
 
 
 <!-- omit in toc -->
@@ -78,11 +79,11 @@ If you have other demands of reference formats, you may refer to the original re
     - ***Align your Latents:*** High-resolution Video Synthesis with Latent Diffusion Models [[Paper]](https://arxiv.org/pdf/2304.08818.pdf) [[Project]](https://research.nvidia.com/labs/toronto-ai/VideoLDM/) [[Reproduced code]](https://github.com/srpkdyy/VideoLDM)
     - ***Text2Video-Zero:*** Text-to-image Diffusion Models are Zero-shot Video Generators [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Khachatryan_Text2Video-Zero_Text-to-Image_Diffusion_Models_are_Zero-Shot_Video_Generators_ICCV_2023_paper.pdf) [[Code]](https://github.com/Picsart-AI-Research/Text2Video-Zero) [[Demo]](https://huggingface.co/spaces/PAIR/Text2Video-Zero) [[Project]](https://text2video-zero.github.io/) 
     - Video Probabilistic Diffusion Models in Projected Latent Space [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Yu_Video_Probabilistic_Diffusion_Models_in_Projected_Latent_Space_CVPR_2023_paper.pdf) [[Code]](https://github.com/sihyun-yu/PVDM)
-  - **NeurIPS**
-    - Video Diffusion Models [[Paper]](https://arxiv.org/pdf/2204.03458.pdf) [[Project]](https://video-diffusion.github.io/)
   - **ICCV**
     - Preserve Your Own Correlation: A Noise Prior for Video Diffusion Models [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Ge_Preserve_Your_Own_Correlation_A_Noise_Prior_for_Video_Diffusion_ICCV_2023_paper.pdf) [[Project]](https://research.nvidia.com/labs/dir/pyoco/)
     - ***Gen-1:*** Structure and Content-guided Video Synthesis with Diffusion Models [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Esser_Structure_and_Content-Guided_Video_Synthesis_with_Diffusion_Models_ICCV_2023_paper.pdf) [[Project]](https://research.runwayml.com/gen1)
+  - **NeurIPS**
+    - Video Diffusion Models [[Paper]](https://arxiv.org/pdf/2204.03458.pdf) [[Project]](https://video-diffusion.github.io/)
   - **ICLR**
     - ***CogVideo:*** Large-scale Pretraining for Text-to-video Generation via Transformers [[Paper]](https://openreview.net/pdf?id=rB6TpjAuSRy) [[Code]](https://github.com/THUDM/CogVideo) [[Demo]](https://models.aminer.cn/cogvideo/)
     - ***Make-A-Video:*** Text-to-video Generation without Text-video Data [[Paper]](https://arxiv.org/pdf/2209.14792.pdf) [[Project]](https://makeavideo.studio/) [[Reproduced code]](https://github.com/lucidrains/make-a-video-pytorch)
@@ -155,8 +156,26 @@ If you have other demands of reference formats, you may refer to the original re
   - [x] Update CVPR papers
   - [ ] Update ICCV papers
   - [ ] Update ECCV papers
-  - [ ] Update ACM MM papers
   - [ ] Update NeurIPS papers
   - [ ] Update ICLR papers
+  - [ ] Update ACM MM papers
 - Regular Maintenance of Preprint arXiv Papers and Missed Papers
+[<u><small><🎯Back to Top></small></u>](#contents)
+
+<!-- omit in toc -->
+# Q&A
+- **Q: The conference sequence of this paper list?**
+  - This paper list is organized according to the following sequence:
+    - CVPR
+    - ICCV
+    - ECCV
+    - NeurIPS
+    - ICLR
+    - ACM MM
+    - SIGGRAPH
+    - arXiv
+    - Others
+- **Q: What does `Others` refers to?**
+  - Some of the following studies (e.g., `Sora`) does not publish their technical report on arXiv. Instead, they tend to write a blog in their official websites. The `Others` category refers to such kind of studies.
+
 [<u><small><🎯Back to Top></small></u>](#contents)
