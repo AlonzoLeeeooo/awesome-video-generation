@@ -47,11 +47,16 @@ If you have other demands of reference formats, you may refer to the original re
 # Products
 - <span id="product-year-2024">**Year 2024**</span>
   - Sora [Paper](https://openai.com/research/video-generation-models-as-world-simulators) [[Website]](https://openai.com/sora)
+  - Lumiere [[Paper]](https://arxiv.org/pdf/2401.12945.pdf) [[Website]](https://lumiere-video.github.io/)
 - <span id="product-year-2023">**Year 2023**</span>
   - Animate Anyone [[Paper]](https://arxiv.org/pdf/2311.17117.pdf) [[GitHub]](https://github.com/HumanAIGC/AnimateAnyone) [[Website]](https://humanaigc.github.io/animate-anyone/)
+  - DomoAI [[Website]](https://domoai.app/)
   - Emu [[Website]](https://emu-video.metademolab.com/)
   - Gen-2 [[Website]](https://research.runwayml.com/gen2)
   - Gen-1  [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Esser_Structure_and_Content-Guided_Video_Synthesis_with_Diffusion_Models_ICCV_2023_paper.pdf) [[Website]](https://research.runwayml.com/gen1)
+  - NeverEnds [[Website]](https://neverends.life/)
+  - Moonvalley [[Website]](https://moonvalley.ai/)
+  - Pixeling [[Website]](https://hidream.ai/#/Pixeling)
   - Midjourney [[Website]](https://www.midjourney.com/)
   - Morph Studio [[Website]](https://www.morphstudio.com/)
   - Outfit Anyone [[Website]](https://humanaigc.github.io/outfit-anyone/)
@@ -59,6 +64,7 @@ If you have other demands of reference formats, you may refer to the original re
   - PixelDance [[Website]](https://makepixelsdance.github.io/)
   - Stable Video Diffusion [[Paper]](https://arxiv.org/pdf/2311.15127.pdf) [[Website]](https://stability.ai/news/stable-video-diffusion-open-ai-video-model)
   - VideoPoet [[Website]](https://sites.research.google/videopoet/)
+  - W.A.I.T. [[Paper]](https://walt-video-diffusion.github.io/assets/W.A.L.T.pdf) [[Website]](https://walt-video-diffusion.github.io/)
 
 [<u><small><🎯Back to Top></small></u>](#contents)
 
