@@ -54,6 +54,7 @@ If you have other demands of reference formats, you may refer to the original re
   - Emu [[Website]](https://emu-video.metademolab.com/)
   - Gen-2 [[Website]](https://research.runwayml.com/gen2)
   - Gen-1  [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Esser_Structure_and_Content-Guided_Video_Synthesis_with_Diffusion_Models_ICCV_2023_paper.pdf) [[Website]](https://research.runwayml.com/gen1)
+  - Genmo [[Website]](https://www.genmo.ai/)
   - NeverEnds [[Website]](https://neverends.life/)
   - Moonvalley [[Website]](https://moonvalley.ai/)
   - Pixeling [[Website]](https://hidream.ai/#/Pixeling)
@@ -74,6 +75,8 @@ If you have other demands of reference formats, you may refer to the original re
 <!-- omit in toc -->
 ## Text-to-Video Generation
 - <span id="text-year-2024">**Year 2024**</span>
+  - **ICLR**
+    - ***VDT:*** General-purpose Video Diffusion Transformers via Mask Modeling [[Paper]](https://arxiv.org/pdf/2305.13311.pdf) [[Code]](https://github.com/RERV/VDT) [[Project]](https://vdt-2023.github.io/)
   - **arXiv**  
     - ***Lumiere:*** A Space-Time Diffusion Model for Video Generation [[Paper]](https://arxiv.org/pdf/2401.12945.pdf) [[Project]](https://lumiere-video.github.io/)
     - ***Boximator:*** Generating Rich and Controllable Motions for Video Synthesis [[Paper]](https://arxiv.org/pdf/2402.01566.pdf) [[Project]](https://boximator.github.io/) [[Video]](https://www.youtube.com/watch?v=reto_TYsYyQ)
