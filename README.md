@@ -63,7 +63,6 @@ If you have any suggestions about this repository, please feel free to [start a 
 |Morph Studio|Morph|2023|-|[link](https://www.morphstudio.com/)|-|
 |Pika|Pika|2023|-|[link](https://pika.art/)|-|
 |PixelDance|ByteDance|2023|[link](https://arxiv.org/abs/2311.10982)|[link](https://makepixelsdance.github.io/)|-|
-|
 
 
 [<u><small><🎯Back to Top></small></u>](#contents)
