@@ -54,7 +54,7 @@ If you have any suggestions about this repository, please feel free to [start a 
 |Animate Anyone|Alibaba|2023|[link](https://arxiv.org/pdf/2311.17117.pdf)|[link](https://humanaigc.github.io/animate-anyone/)|
 |Outfit Anyone|Alibaba|2023|-|[link](https://outfitanyone.app/)|
 |Stable Video|StabilityAI|2023|[link](https://arxiv.org/pdf/2311.15127.pdf)|[link](https://www.stablevideo.com/)|-|
-|Pixeling|HiDream.ai|2023|[link](https://hidreamai.com/#/)|-|
+|Pixeling|HiDream.ai|2023|-|[link](https://hidreamai.com/#/)|-|
 |DomoAI|DomoAI|2023|-|[link](https://domoai.app/)|-|
 |Emu|Meta|2023|[link](https://arxiv.org/abs/2311.10709)|[link](https://emu-video.metademolab.com/)|-|
 |Genmo|Genmo|2023|-|[link](https://www.genmo.ai/)|-|
