@@ -74,12 +74,15 @@ If you have any suggestions about this repository, please feel free to [start a 
 <!-- omit in toc -->
 ## Text-to-Video Generation
 - <span id="text-year-2024">**Year 2024**</span>
+  - **CVPR**
+    - Vlogger: Make Your Dream A Vlog [[Paper]](https://arxiv.org/pdf/2401.09414.pdf) [[Code]](https://github.com/Vchitect/Vlogger)
   - **ICLR**
     - ***VDT:*** General-purpose Video Diffusion Transformers via Mask Modeling [[Paper]](https://arxiv.org/pdf/2305.13311.pdf) [[Code]](https://github.com/RERV/VDT) [[Project]](https://vdt-2023.github.io/)
   - **arXiv**  
     - ***Lumiere:*** A Space-Time Diffusion Model for Video Generation [[Paper]](https://arxiv.org/pdf/2401.12945.pdf) [[Project]](https://lumiere-video.github.io/)
     - ***Boximator:*** Generating Rich and Controllable Motions for Video Synthesis [[Paper]](https://arxiv.org/pdf/2402.01566.pdf) [[Project]](https://boximator.github.io/) [[Video]](https://www.youtube.com/watch?v=reto_TYsYyQ)
     - World Model on Million-Length Video And Language With RingAttention [[Paper]](https://arxiv.org/abs/2402.08268) [[Code]](https://github.com/LargeWorldModel/LWM) [[Project]](https://largeworldmodel.github.io/)
+    - ***Direct-a-Video:*** Customized Video Generation with User-Directed Camera Movement and Object Motion [[Paper]](https://arxiv.org/pdf/2402.03162.pdf) [[Project]](https://direct-a-video.github.io/)
   - **Others**
     - ***Sora:*** Video Generation Models as World Simulators [[Paper]](https://openai.com/research/video-generation-models-as-world-simulators)
 - <span id="text-year-2023">**Year 2023**</span>
@@ -113,6 +116,7 @@ If you have any suggestions about this repository, please feel free to [start a 
     - ***InstructVideo:*** Instructing Video Diffusion Models with Human Feedback [[Paper]](https://arxiv.org/pdf/2312.12490.pdf) [[Code]](https://github.com/ali-vilab/i2vgen-xl/blob/main/doc/InstructVideo.md) [[Project]](https://arxiv.org/pdf/2312.12490.pdf)
     - ***Emu Video:*** Factorizing Text-to-Video Generation by Explicit Image Conditioning [[Paper]](https://arxiv.org/pdf/2311.10709.pdf) [[Project]](https://ai.meta.com/blog/emu-text-to-video-generation-image-editing-research/)
     - ***Make Pixels Dance:*** High-Dynamic Video Generation [[Paper]](https://arxiv.org/pdf/2311.10982.pdf) [[Project]](https://makepixelsdance.github.io/) [[Demo]](https://makepixelsdance.github.io/demo.html)
+    - ***SEINE:*** Short-to-Long Video Diffusion Model for Generative Transition and Prediction [[Paper]](https://arxiv.org/pdf/2310.20700.pdf) [[Code]](https://github.com/Vchitect/SEINE) [[Project]](https://vchitect.github.io/SEINE-project/)
 - <span id="text-year-2022">**Year 2022**</span>
   - **CVPR**    
     - Show Me What and Tell Me How: Video Synthesis via Multimodal Conditioning [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Han_Show_Me_What_and_Tell_Me_How_Video_Synthesis_via_CVPR_2022_paper.pdf) [[Code]](https://github.com/snap-research/MMVID) [[Dataset]](https://github.com/snap-research/MMVID/blob/main/mm_vox_celeb/README.md)
