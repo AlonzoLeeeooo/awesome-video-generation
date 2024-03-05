@@ -14,6 +14,7 @@ If you have any suggestions about this repository, please feel free to [start a 
     - [Year 2024](#text-year-2024)
     - [Year 2023](#text-year-2023)
     - [Year 2022](#text-year-2022)
+    - [Year 2021](#text-year-2021)
   - [Image-to-Video Generation](#image-to-video-generation)
     - [Year 2024](#image-year-2024)
     - [Year 2023](#image-year-2023)
@@ -120,7 +121,9 @@ If you have any suggestions about this repository, please feel free to [start a 
 - <span id="text-year-2022">**Year 2022**</span>
   - **CVPR**    
     - Show Me What and Tell Me How: Video Synthesis via Multimodal Conditioning [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Han_Show_Me_What_and_Tell_Me_How_Video_Synthesis_via_CVPR_2022_paper.pdf) [[Code]](https://github.com/snap-research/MMVID) [[Dataset]](https://github.com/snap-research/MMVID/blob/main/mm_vox_celeb/README.md)
-
+- <span id="text-year-2021">**Year 2021**</span>
+  - **arXiv**
+      -  ***VideoGPT:*** Video Generation using VQ-VAE and Transformers [[Paper]](https://arxiv.org/pdf/2104.10157.pdf) [[Code]](https://github.com/wilson1yan/VideoGPT) [[Project]](https://wilson1yan.github.io/videogpt/index.html) 
 [<u><small><🎯Back to Top></small></u>](#contents)
 
 <!-- omit in toc -->
