@@ -20,8 +20,8 @@ If you have any suggestions about this repository, please feel free to [start a 
     - [Year 2024](#image-year-2024)
     - [Year 2023](#image-year-2023)
     - [Year 2022](#image-year-2022)
-  - [Style Transfer](#style-transfer)
-    - [Year 2023](#style-year-2023)
+  - [Video Editing](#video-editing)
+    - [Year 2023](#editing-year-2023)
 - [Datasets](#datasets)
 - [Q&A](#qa)
 - [References](#references)
@@ -29,9 +29,11 @@ If you have any suggestions about this repository, please feel free to [start a 
 <!-- omit in toc -->
 # To-Do Lists
 - Latest Papers
-  - [ ] Update AAAI 2024 Papers
-  - [ ] Update ICLR 2024 Papers
   - [ ] Update CVPR 2024 Papers
+  - [ ] Update AAAI 2024 Papers
+    - [ ] Update PDFs and References of ⚠️ Papers
+    - [ ] Update Published Versions of References
+  - [ ] Update ICLR 2024 Papers
 - Previously Published Papers
   - [x] Update Previous CVPR papers
   - [ ] Update Previous ICCV papers
@@ -84,6 +86,21 @@ If you have any suggestions about this repository, please feel free to [start a 
 - <span id="text-year-2024">**Year 2024**</span>
   - **CVPR**
     - Vlogger: Make Your Dream A Vlog [[Paper]](https://arxiv.org/pdf/2401.09414.pdf) [[Code]](https://github.com/Vchitect/Vlogger)
+    - ***Make Pixels Dance:*** High-Dynamic Video Generation [[Paper]](https://arxiv.org/pdf/2311.10982.pdf) [[Project]](https://makepixelsdance.github.io/) [[Demo]](https://makepixelsdance.github.io/demo.html)
+    - ***VGen:*** Hierarchical Spatio-temporal Decoupling for Text-to-Video Generation [[Paper]](https://arxiv.org/pdf/2312.04483) [[Code]](https://github.com/ali-vilab/VGen) [[Project]](https://higen-t2v.github.io/)
+    - ***GenTron:*** Delving Deep into Diffusion Transformers for Image and Video Generation [[Paper]](https://arxiv.org/pdf/2312.04557) [[Project]](https://www.shoufachen.com/gentron_website/)
+    - ***SimDA:*** Simple Diffusion Adapter for Efficient Video Generation [[Paper]](https://arxiv.org/pdf/2308.09710.pdf) [[Code]](https://github.com/ChenHsing/SimDA) [[Project]](https://chenhsing.github.io/SimDA/)
+    - ***MicroCinema:*** A Divide-and-Conquer Approach for Text-to-Video Generation [[Paper]](https://arxiv.org/pdf/2311.18829) [[Project]](https://wangyanhui666.github.io/MicroCinema.github.io/) [[Video]](https://youtube.com/shorts/H7O-Ku_lqPA)
+    - ***Generative Rendering:*** Controllable 4D-Guided Video Generation with 2D Diffusion Models [[Paper]](https://arxiv.org/pdf/2312.01409) [[Project]](https://primecai.github.io/generative_rendering/)
+    - ***PEEKABOO:*** Interactive Video Generation via Masked-Diffusion [[Paper]](https://arxiv.org/pdf/2312.07509) [[Code]](https://github.com/microsoft/Peekaboo) [[Project]](https://jinga-lala.github.io/projects/Peekaboo/) [[Demo]](https://huggingface.co/spaces/anshuln/peekaboo-demo)
+    - ***EvalCrafter:*** Benchmarking and Evaluating Large Video Generation Models [[Paper]](https://arxiv.org/pdf/2310.11440) [[Code]](https://github.com/EvalCrafter/EvalCrafter) [[Project]](https://evalcrafter.github.io/)
+    - A Recipe for Scaling up Text-to-Video Generation with Text-free Videos [[Paper]](https://arxiv.org/pdf/2312.15770) [[Code]](https://github.com/damo-vilab/i2vgen-xl) [[Project]](https://tf-t2v.github.io/)
+    - ***BIVDiff:*** A Training-free Framework for General-Purpose Video Synthesis via Bridging Image and Video Diffusion Models [[Paper]](https://arxiv.org/pdf/2312.02813) [[Project]](https://bivdiff.github.io/)
+    - ***Mind the Time:*** Scaled Spatiotemporal Transformers for Text-to-Video Synthesis [[Paper]](https://arxiv.org/pdf/2402.14797) [[Project]](https://snap-research.github.io/snapvideo/video_ldm.html)
+    - ***Animate Anyone:*** Consistent and Controllable Image-to-video Synthesis for Character Animation [[Paper]](https://arxiv.org/pdf/2311.17117.pdf) [[Code]](https://github.com/HumanAIGC/AnimateAnyone) [[Project]](https://humanaigc.github.io/animate-anyone/)
+    - ⚠️ Simple but Effective Text-to-Video Generation with Grid Diffusion Models [Paper]()
+    - ⚠️ Hierarchical Patch-wise Diffusion Models for High-Resolution Video Generation [Paper]()
+    - ⚠️ DiffPerformer: Iterative Learning of Consistent Latent Guidance for Diffusion-based Human Video Generation [Paper]()
   - **ICLR**
     - ***VDT:*** General-purpose Video Diffusion Transformers via Mask Modeling [[Paper]](https://arxiv.org/pdf/2305.13311.pdf) [[Code]](https://github.com/RERV/VDT) [[Project]](https://vdt-2023.github.io/)
   - **arXiv**  
@@ -108,7 +125,6 @@ If you have any suggestions about this repository, please feel free to [start a 
     - ***Make-A-Video:*** Text-to-video Generation without Text-video Data [[Paper]](https://arxiv.org/pdf/2209.14792.pdf) [[Project]](https://makeavideo.studio/) [[Reproduced code]](https://github.com/lucidrains/make-a-video-pytorch)
     - ***Phenaki:*** Variable Length Video Generation From Open Domain Textual Description [[Paper]](https://openreview.net/pdf/fe8e106a2746992c9c2e658bdc8cb9c89cc5a39a.pdf) [[Code]](https://github.com/lucidrains/phenaki-pytorch)
   - **arXiv**
-    - ***Animate Anyone:*** Consistent and Controllable Image-to-video Synthesis for Character Animation [[Paper]](https://arxiv.org/pdf/2311.17117.pdf) [[Code]](https://github.com/HumanAIGC/AnimateAnyone) [[Project]](https://humanaigc.github.io/animate-anyone/)
     - ***AnimateDiff:*** Animate Your Personalized Text-to-image Diffusion Models without Specific Tuning [[Paper]](https://openreview.net/pdf?id=Fx2SbBgcte) [[Project]](https://animatediff.github.io/)
     - ***Control-A-Video:*** Controllable Text-to-video Generation with Diffusion Models [[Paper]](https://arxiv.org/pdf/2305.13840.pdf) [[Code]](https://github.com/Weifeng-Chen/control-a-video) [[Demo]](https://huggingface.co/spaces/wf-genius/Control-A-Video) [[Project]](https://arxiv.org/pdf/2305.13840.pdf)
     - ***ControlVideo:*** Training-free Controllable Text-to-video Generation [[Paper]](https://arxiv.org/pdf/2305.13077.pdf) [[Code]](https://github.com/YBYBZhang/ControlVideo)
@@ -116,14 +132,12 @@ If you have any suggestions about this repository, please feel free to [start a 
     - ***Latent-Shift:*** Latent Diffusion with Temporal Shift for Efficient Text-to-video Generation [[Paper]](https://arxiv.org/pdf/2304.08477.pdf) [[Project]](https://latent-shift.github.io/)
     - ***LAVIE:*** High-quality Video Generation with Cascaded Latent Diffusion Models [[Paper]](https://arxiv.org/pdf/2309.15103.pdf) [[code]](https://github.com/Vchitect/LaVie) [[Project]](https://vchitect.github.io/LaVie-project/)
     - ***Show-1:*** Marrying Pixel and Latent Diffusion Models for Text-to-video Generation [[Paper]](https://showlab.github.io/Show-1/assets/Show-1.pdf) [[Code]](https://github.com/showlab/Show-1) [[Project]](https://showlab.github.io/Show-1/)
-    - ***SimDA:*** Simple Diffusion Adapter for Efficient Video Generation [[Paper]](https://arxiv.org/pdf/2308.09710.pdf) [[Code]](https://github.com/ChenHsing/SimDA) [[Project]](https://chenhsing.github.io/SimDA/)
     - ***Stable Video Diffusion:*** Scaling Latent Video Diffusion Models to Large Datasets [[Paper]](https://arxiv.org/pdf/2311.15127.pdf) [[Code]](https://github.com/Stability-AI/generative-models) [[Project]](https://stability.ai/news/stable-video-diffusion-open-ai-video-model)
     - ***VideoComposer:*** Compositional Video Synthesis with Motion Controllability [[Paper]](https://arxiv.org/pdf/2306.02018.pdf) [[Code]](https://github.com/ali-vilab/videocomposer) [[Project]](https://videocomposer.github.io/)
     - ***VideoFactory:*** Swap Attention in Spatiotemporal Diffusions for Text-to-video Generation [[Paper]](https://arxiv.org/pdf/2305.10874.pdf)
     - ***VideoGen:*** A Reference-guided Latent Diffusion Approach for High Definition Text-to-video Generation [[Paper]](https://arxiv.org/pdf/2309.00398.pdf) [[Code]](https://videogen.github.io/VideoGen/)
     - ***InstructVideo:*** Instructing Video Diffusion Models with Human Feedback [[Paper]](https://arxiv.org/pdf/2312.12490.pdf) [[Code]](https://github.com/ali-vilab/i2vgen-xl/blob/main/doc/InstructVideo.md) [[Project]](https://arxiv.org/pdf/2312.12490.pdf)
     - ***Emu Video:*** Factorizing Text-to-Video Generation by Explicit Image Conditioning [[Paper]](https://arxiv.org/pdf/2311.10709.pdf) [[Project]](https://ai.meta.com/blog/emu-text-to-video-generation-image-editing-research/)
-    - ***Make Pixels Dance:*** High-Dynamic Video Generation [[Paper]](https://arxiv.org/pdf/2311.10982.pdf) [[Project]](https://makepixelsdance.github.io/) [[Demo]](https://makepixelsdance.github.io/demo.html)
     - ***SEINE:*** Short-to-Long Video Diffusion Model for Generative Transition and Prediction [[Paper]](https://arxiv.org/pdf/2310.20700.pdf) [[Code]](https://github.com/Vchitect/SEINE) [[Project]](https://vchitect.github.io/SEINE-project/)
 - <span id="text-year-2022">**Year 2022**</span>
   - **CVPR**    
@@ -136,6 +150,8 @@ If you have any suggestions about this repository, please feel free to [start a 
 <!-- omit in toc -->
 ## Image-to-Video Generation
 - <span id="image-year-2024">**Year 2024**</span>
+  - **CVPR**
+    - ***VideoBooth:*** Diffusion-based Video Generation with Image Prompts [[Paper]](https://arxiv.org/pdf/2312.00777) [[Code]](https://github.com/Vchitect/VideoBooth) [[Project]](https://vchitect.github.io/VideoBooth-project/) [[Video]](https://www.youtube.com/watch?v=10DxH1JETzI)
   - **arXiv** 
     - ***I2V-Adapter:*** A General Image-to-Video Adapter for Diffusion Models [[Paper]](https://arxiv.org/pdf/2312.16693.pdf) [[Code]](https://github.com/I2V-Adapter/I2V-Adapter-repo)
 - <span id="image-year-2023">**Year 2023**</span>
@@ -155,13 +171,22 @@ If you have any suggestions about this repository, please feel free to [start a 
   - **CVPR**
     - ***MM-Diffusion:*** Learning Multi-Modal Diffusion Models for Joint Audio and Video Generation [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Ruan_MM-Diffusion_Learning_Multi-Modal_Diffusion_Models_for_Joint_Audio_and_Video_CVPR_2023_paper.pdf) [[Code]](https://github.com/researchmm/MM-Diffusion)
 
-
-
 [<u><small><🎯Back to Top></small></u>](#contents)
 
 <!-- omit in toc -->
-## Style Transfer
-- <span id="style-year-2023">**Year 2023**</span>
+## Video Editing
+- <span id="editing-year-2024">**Year 2024**</span>
+  - **CVPR**
+    - ***Fairy:*** Fast Parallellized Instruction-Guided Video-to-Video Synthesis [[Paper]](https://arxiv.org/pdf/2312.13834) [[Project]](https://fairy-video2video.github.io/)
+    - ***CCEdit:*** Creative and Controllable Video Editing via Diffusion Models [[Paper]](https://arxiv.org/pdf/2309.16496) [[Code]](https://github.com/RuoyuFeng/CCEdit) [[Project]](https://ruoyufeng.github.io/CCEdit.github.io/) [[Video]](https://www.youtube.com/watch?v=UQw4jq-igN4)
+    - ***DynVideo-E:*** Harnessing Dynamic NeRF for Large-Scale Motion- and View-Change Human-Centric Video Editing [[Paper]](https://arxiv.org/pdf/2310.10624) [[Project]](https://showlab.github.io/DynVideo-E/) [[Video]](https://www.youtube.com/watch?v=xiRH4Q6B3Yk)
+    - ***Video-P2P:*** Video Editing with Cross-attention Control [[Paper]](https://arxiv.org/pdf/2303.04761) [[Code]](https://github.com/dvlab-research/Video-P2P) [[Project]](https://video-p2p.github.io/)
+    - A Video is Worth 256 Bases: Spatial-Temporal Expectation-Maximization Inversion for Zero-Shot Video Editing [[Paper]](https://arxiv.org/pdf/2312.05856) [[Code]](https://github.com/STEM-Inv/stem-inv) [[Project]](https://stem-inv.github.io/page/)
+    - ***MaskINT:*** Video Editing via Interpolative Non-autoregressive Masked Transformers [[Paper]](https://arxiv.org/pdf/2312.12468) [[Code]](https://maskint.github.io/) [[Project]](https://maskint.github.io/)
+    - ***VidToMe:*** Video Token Merging for Zero-Shot Video Editing [[Paper]](https://arxiv.org/pdf/2312.10656) [[Code]](https://github.com/lixirui142/VidToMe) [[Project]](https://vidtome-diffusion.github.io/) [[Video]](https://youtu.be/cZPtwcRepNY)
+    - Towards Language-Driven Video Inpainting via Multimodal Large Language Models [[Paper]](https://arxiv.org/pdf/2401.10226.pdf) [[Code]](https://github.com/jianzongwu/Language-Driven-Video-Inpainting) [[Project]](https://jianzongwu.github.io/projects/rovi/) [[Dataset]](https://huggingface.co/datasets/jianzongwu/rovi)
+    - ⚠️ ***CAMEL:*** CAusal Motion Enhancement tailored for Lifting Text-driven Video Editing [Paper]
+- <span id="editing-year-2023">**Year 2023**</span>
   - **arXiv**
     - ***Style-A-Video:*** Agile Diffusion for Arbitrary Text-based Video Style Transfer [[Paper]](https://arxiv.org/pdf/2305.05464.pdf)
 
