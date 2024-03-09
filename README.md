@@ -11,6 +11,7 @@ If you have any suggestions about this repository, please feel free to [start a 
 - [Products](#products)
 - [Papers](#papers)
   - [Text-to-Video Generation](#text-to-video-generation)
+  - [Survey Papers](#survey-papers)
     - [Year 2024](#text-year-2024)
     - [Year 2023](#text-year-2023)
     - [Year 2022](#text-year-2022)
@@ -71,6 +72,12 @@ If you have any suggestions about this repository, please feel free to [start a 
 
 <!-- omit in toc -->
 # Papers
+
+<!-- omit in toc -->
+## Survey Papers
+- <span id="survey-year-2023">**Year 2023**</span>
+- **arXiv**
+  - A Survey on Video Diffusion Models [[Paper]]()
 
 <!-- omit in toc -->
 ## Text-to-Video Generation
