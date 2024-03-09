@@ -22,24 +22,29 @@ If you have any suggestions about this repository, please feel free to [start a 
     - [Year 2022](#image-year-2022)
   - [Video Editing](#video-editing)
     - [Year 2023](#editing-year-2023)
+  - [Audio-to-Video Generation](#audio-to-video-generation)
+    - [Year 2024](#audio-year-2024)
+    - [Year 2023](#audio-year-2023)
 - [Datasets](#datasets)
 - [Q&A](#qa)
 - [References](#references)
+- [Star History](#star-history)
 
 <!-- omit in toc -->
 # To-Do Lists
 - Latest Papers
-  - [ ] Update CVPR 2024 Papers
-  - [ ] Update AAAI 2024 Papers
+  - [x] Update CVPR 2024 Papers
+  - [x] Update AAAI 2024 Papers
     - [ ] Update PDFs and References of ⚠️ Papers
     - [ ] Update Published Versions of References
-  - [ ] Update ICLR 2024 Papers
+  - [x] Update ICLR 2024 Papers
 - Previously Published Papers
   - [x] Update Previous CVPR papers
   - [ ] Update Previous ICCV papers
   - [ ] Update Previous ECCV papers
   - [ ] Update Previous NeurIPS papers
   - [ ] Update Previous ICLR papers
+  - [ ] Update Previous AAAI papers
   - [ ] Update Previous ACM MM papers
 - Regular Maintenance of Preprint arXiv Papers and Missed Papers
 
@@ -103,6 +108,12 @@ If you have any suggestions about this repository, please feel free to [start a 
     - ⚠️ DiffPerformer: Iterative Learning of Consistent Latent Guidance for Diffusion-based Human Video Generation [Paper]()
   - **ICLR**
     - ***VDT:*** General-purpose Video Diffusion Transformers via Mask Modeling [[Paper]](https://arxiv.org/pdf/2305.13311.pdf) [[Code]](https://github.com/RERV/VDT) [[Project]](https://vdt-2023.github.io/)
+    - ***VersVideo:*** Leveraging Enhanced Temporal Diffusion Models for Versatile Video Generation [[Paper]](https://openreview.net/pdf?id=K9sVJ17zvB)
+  - **AAAI**
+    - ***Follow Your Pose:*** Pose-Guided Text-to-Video Generation using Pose-Free Videos [[Paper]](https://arxiv.org/pdf/2304.01186) [[Code]](https://github.com/mayuelala/FollowYourPose) [[Project]](https://follow-your-pose.github.io/)
+    - ***E2HQV:*** High-Quality Video Generation from Event Camera via Theory-Inspired Model-Aided Deep Learning [[Paper]](https://arxiv.org/pdf/2401.08117)
+    - ConditionVideo: Training-Free Condition-Guided Text-to-Video Generation [[Paper]](https://arxiv.org/pdf/2310.07697) [[Code]](https://github.com/pengbo807/ConditionVideo) [[Project]](https://pengbo807.github.io/conditionvideo-website/)
+    - ***F3-Pruning:*** A Training-Free and Generalized Pruning Strategy towards Faster and Finer Text to-Video Synthesis [[Paper]](https://arxiv.org/pdf/2312.03459)
   - **arXiv**  
     - ***Lumiere:*** A Space-Time Diffusion Model for Video Generation [[Paper]](https://arxiv.org/pdf/2401.12945.pdf) [[Project]](https://lumiere-video.github.io/)
     - ***Boximator:*** Generating Rich and Controllable Motions for Video Synthesis [[Paper]](https://arxiv.org/pdf/2402.01566.pdf) [[Project]](https://boximator.github.io/) [[Video]](https://www.youtube.com/watch?v=reto_TYsYyQ)
@@ -152,6 +163,8 @@ If you have any suggestions about this repository, please feel free to [start a 
 - <span id="image-year-2024">**Year 2024**</span>
   - **CVPR**
     - ***VideoBooth:*** Diffusion-based Video Generation with Image Prompts [[Paper]](https://arxiv.org/pdf/2312.00777) [[Code]](https://github.com/Vchitect/VideoBooth) [[Project]](https://vchitect.github.io/VideoBooth-project/) [[Video]](https://www.youtube.com/watch?v=10DxH1JETzI)
+  - **AAAI**
+    - Decouple Content and Motion for Conditional Image-to-Video Generation [[Paper]](https://arxiv.org/pdf/2311.14294)
   - **arXiv** 
     - ***I2V-Adapter:*** A General Image-to-Video Adapter for Diffusion Models [[Paper]](https://arxiv.org/pdf/2312.16693.pdf) [[Code]](https://github.com/I2V-Adapter/I2V-Adapter-repo)
 - <span id="image-year-2023">**Year 2023**</span>
@@ -167,6 +180,10 @@ If you have any suggestions about this repository, please feel free to [start a 
 
 <!-- omit in toc -->
 ## Audio-to-Video Generation
+- <span id="audio-year-2024">**Year 2024**</span>  
+  - **AAAI**
+    - Diverse and Aligned Audio-to-Video Generation 
+  via Text-to-Video Model Adaptation [[Paper]](https://arxiv.org/pdf/2309.16429) [[Code]](https://github.com/guyyariv/TempoTokens)
 - <span id="audio-year-2023">**Year 2023**</span>
   - **CVPR**
     - ***MM-Diffusion:*** Learning Multi-Modal Diffusion Models for Joint Audio and Video Generation [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Ruan_MM-Diffusion_Learning_Multi-Modal_Diffusion_Models_for_Joint_Audio_and_Video_CVPR_2023_paper.pdf) [[Code]](https://github.com/researchmm/MM-Diffusion)
@@ -186,6 +203,9 @@ If you have any suggestions about this repository, please feel free to [start a 
     - ***VidToMe:*** Video Token Merging for Zero-Shot Video Editing [[Paper]](https://arxiv.org/pdf/2312.10656) [[Code]](https://github.com/lixirui142/VidToMe) [[Project]](https://vidtome-diffusion.github.io/) [[Video]](https://youtu.be/cZPtwcRepNY)
     - Towards Language-Driven Video Inpainting via Multimodal Large Language Models [[Paper]](https://arxiv.org/pdf/2401.10226.pdf) [[Code]](https://github.com/jianzongwu/Language-Driven-Video-Inpainting) [[Project]](https://jianzongwu.github.io/projects/rovi/) [[Dataset]](https://huggingface.co/datasets/jianzongwu/rovi)
     - ⚠️ ***CAMEL:*** CAusal Motion Enhancement tailored for Lifting Text-driven Video Editing [Paper]
+  - **ICLR**
+    - ***Ground-A-Video:*** Zero-shot Grounded Video Editing using Text-to-image Diffusion Models [[Paper]](https://arxiv.org/pdf/2310.01107) [[Code]](https://github.com/Ground-A-Video/Ground-A-Video) [[Project]](https://ground-a-video.github.io/)
+    - ***TokenFlow:*** Consistent Diffusion Features for Consistent Video Editing [[Paper]](https://arxiv.org/pdf/2307.10373) [[Code]](https://github.com/omerbt/TokenFlow) [[Project]](https://diffusion-tokenflow.github.io/)
 - <span id="editing-year-2023">**Year 2023**</span>
   - **arXiv**
     - ***Style-A-Video:*** Agile Diffusion for Arbitrary Text-based Video Style Transfer [[Paper]](https://arxiv.org/pdf/2305.05464.pdf)
@@ -196,6 +216,7 @@ If you have any suggestions about this repository, please feel free to [start a 
 # Datasets
 - [ICCV 2021] ***WebVid-10M:*** Frozen in Time: ️A Joint Video and Image Encoder for End to End Retrieval [[Paper]](https://arxiv.org/pdf/2104.00650.pdf) [[Dataset]](https://maxbain.com/webvid-dataset/) [[GitHub]](https://github.com/m-bain/webvid) [[Project]](https://www.robots.ox.ac.uk/~vgg/research/frozen-in-time/)
 - [ECCV 2022] **ROS:** Learning to Drive by Watching YouTube Videos: Action-Conditioned Contrastive Policy Pretraining [[Paper]](https://arxiv.org/pdf/2204.02393.pdf) [[Code]](https://github.com/metadriverse/ACO) [[Dataset]](https://mycuhk-my.sharepoint.com/personal/1155165194_link_cuhk_edu_hk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2F1155165194%5Flink%5Fcuhk%5Fedu%5Fhk%2FDocuments%2Fytb%5Fdriving%5Fvideos&ga=1)
+- [ICLR 2024] ***InternVid:*** A Large-scale Video-Text Dataset for Multimodal Understanding and Generation [[Paper]](https://arxiv.org/pdf/2307.06942) [[Dataset]](https://github.com/OpenGVLab/InternVideo/tree/main/Data/InternVid)
 
 [<u><small><🎯Back to Top></small></u>](#contents)
 
@@ -208,6 +229,7 @@ If you have any suggestions about this repository, please feel free to [start a 
     - ECCV
     - NeurIPS
     - ICLR
+    - AAAI
     - ACM MM
     - SIGGRAPH
     - arXiv
@@ -229,5 +251,16 @@ Based on the original references, I have made the following modifications to mak
 - All paper names are in title case. Besides, I have added an additional `{}` to make sure that the title case would also work well in some particular templates. 
 
 If you have other demands of reference formats, you may refer to the original references of papers by searching their names in [DBLP](https://dblp.org/) or [Google Scholar](https://scholar.google.com/).
+
+[<u><small><🎯Back to Top></small></u>](#contents)
+
+<!-- omit in toc -->
+# Star History
+
+<p align="center">
+    <a href="https://api.star-history.com/svg?repos=AlonzoLeeeooo/awesome-video-generation&type=Date" target="_blank">
+        <img width="500" src="https://api.star-history.com/svg?repos=AlonzoLeeeooo/awesome-video-generation&type=Date" alt="Star History Chart">
+    </a>
+<p>
 
 [<u><small><🎯Back to Top></small></u>](#contents)
