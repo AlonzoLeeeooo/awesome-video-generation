@@ -38,6 +38,7 @@ If you have any suggestions about this repository, please feel free to [start a 
     - [ ] Update PDFs and References of ⚠️ Papers
     - [ ] Update Published Versions of References
   - [x] Update ICLR 2024 Papers
+  - [ ] Update NeurIPS 2024 Papers
 - Previously Published Papers
   - [x] Update Previous CVPR papers
   - [ ] Update Previous ICCV papers
