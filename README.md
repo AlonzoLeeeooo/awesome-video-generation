@@ -91,7 +91,7 @@ If you have any suggestions about this repository, please feel free to [start a 
 ## Text-to-Video Generation
 - <span id="text-year-2024">**Year 2024**</span>
   - **CVPR**
-    - Vlogger: Make Your Dream A Vlog [[Paper]](https://arxiv.org/pdf/2401.09414.pdf) [[Code]](https://github.com/Vchitect/Vlogger)
+    - ***Vlogger:*** Make Your Dream A Vlog [[Paper]](https://arxiv.org/pdf/2401.09414.pdf) [[Code]](https://github.com/Vchitect/Vlogger)
     - ***Make Pixels Dance:*** High-Dynamic Video Generation [[Paper]](https://arxiv.org/pdf/2311.10982.pdf) [[Project]](https://makepixelsdance.github.io/) [[Demo]](https://makepixelsdance.github.io/demo.html)
     - ***VGen:*** Hierarchical Spatio-temporal Decoupling for Text-to-Video Generation [[Paper]](https://arxiv.org/pdf/2312.04483) [[Code]](https://github.com/ali-vilab/VGen) [[Project]](https://higen-t2v.github.io/)
     - ***GenTron:*** Delving Deep into Diffusion Transformers for Image and Video Generation [[Paper]](https://arxiv.org/pdf/2312.04557) [[Project]](https://www.shoufachen.com/gentron_website/)
