@@ -218,6 +218,7 @@ If you have any suggestions about this repository, please feel free to [start a 
 - [ICCV 2021] ***WebVid-10M:*** Frozen in Time: ️A Joint Video and Image Encoder for End to End Retrieval [[Paper]](https://arxiv.org/pdf/2104.00650.pdf) [[Dataset]](https://maxbain.com/webvid-dataset/) [[GitHub]](https://github.com/m-bain/webvid) [[Project]](https://www.robots.ox.ac.uk/~vgg/research/frozen-in-time/)
 - [ECCV 2022] **ROS:** Learning to Drive by Watching YouTube Videos: Action-Conditioned Contrastive Policy Pretraining [[Paper]](https://arxiv.org/pdf/2204.02393.pdf) [[Code]](https://github.com/metadriverse/ACO) [[Dataset]](https://mycuhk-my.sharepoint.com/personal/1155165194_link_cuhk_edu_hk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2F1155165194%5Flink%5Fcuhk%5Fedu%5Fhk%2FDocuments%2Fytb%5Fdriving%5Fvideos&ga=1)
 - [ICLR 2024] ***InternVid:*** A Large-scale Video-Text Dataset for Multimodal Understanding and Generation [[Paper]](https://arxiv.org/pdf/2307.06942) [[Dataset]](https://github.com/OpenGVLab/InternVideo/tree/main/Data/InternVid)
+- [arXiv 2024] ***VidProM:*** A Million-scale Real Prompt-Gallery Dataset for Text-to-Video Diffusion Models [[Paper]](https://arxiv.org/pdf/2403.06098.pdf) [[Dataset]](https://github.com/WangWenhao0716/VidProM)
 
 [<u><small><🎯Back to Top></small></u>](#contents)
 
