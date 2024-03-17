@@ -121,6 +121,7 @@ If you have any suggestions about this repository, please feel free to [start a 
     - World Model on Million-Length Video And Language With RingAttention [[Paper]](https://arxiv.org/abs/2402.08268) [[Code]](https://github.com/LargeWorldModel/LWM) [[Project]](https://largeworldmodel.github.io/)
     - ***Direct-a-Video:*** Customized Video Generation with User-Directed Camera Movement and Object Motion [[Paper]](https://arxiv.org/pdf/2402.03162.pdf) [[Project]](https://direct-a-video.github.io/)
     - ***WorldDreamer:*** Towards General World Models for Video Generation via Predicting Masked Tokens [[Paper]](https://arxiv.org/pdf/2401.09985) [[Code]](https://github.com/JeffWang987/WorldDreamer) [[Project]](https://world-dreamer.github.io/)
+    - ***MagicVideo-V2:*** Multi-Stage High-Aesthetic Video Generation [[Paper]](https://arxiv.org/pdf/2401.04468.pdf) [[Project]](https://magicvideov2.github.io/)
   - **Others**
     - ***Sora:*** Video Generation Models as World Simulators [[Paper]](https://openai.com/research/video-generation-models-as-world-simulators)
 - <span id="text-year-2023">**Year 2023**</span>
@@ -152,12 +153,14 @@ If you have any suggestions about this repository, please feel free to [start a 
     - ***InstructVideo:*** Instructing Video Diffusion Models with Human Feedback [[Paper]](https://arxiv.org/pdf/2312.12490.pdf) [[Code]](https://github.com/ali-vilab/i2vgen-xl/blob/main/doc/InstructVideo.md) [[Project]](https://arxiv.org/pdf/2312.12490.pdf)
     - ***Emu Video:*** Factorizing Text-to-Video Generation by Explicit Image Conditioning [[Paper]](https://arxiv.org/pdf/2311.10709.pdf) [[Project]](https://ai.meta.com/blog/emu-text-to-video-generation-image-editing-research/)
     - ***SEINE:*** Short-to-Long Video Diffusion Model for Generative Transition and Prediction [[Paper]](https://arxiv.org/pdf/2310.20700.pdf) [[Code]](https://github.com/Vchitect/SEINE) [[Project]](https://vchitect.github.io/SEINE-project/)
+    - ***VideoLCM:*** Video Latent Consistency Model [[Paper]](https://arxiv.org/pdf/2312.09109.pdf)
 - <span id="text-year-2022">**Year 2022**</span>
   - **CVPR**    
     - Show Me What and Tell Me How: Video Synthesis via Multimodal Conditioning [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Han_Show_Me_What_and_Tell_Me_How_Video_Synthesis_via_CVPR_2022_paper.pdf) [[Code]](https://github.com/snap-research/MMVID) [[Dataset]](https://github.com/snap-research/MMVID/blob/main/mm_vox_celeb/README.md)
 - <span id="text-year-2021">**Year 2021**</span>
   - **arXiv**
-      -  ***VideoGPT:*** Video Generation using VQ-VAE and Transformers [[Paper]](https://arxiv.org/pdf/2104.10157.pdf) [[Code]](https://github.com/wilson1yan/VideoGPT) [[Project]](https://wilson1yan.github.io/videogpt/index.html) 
+      -  ***VideoGPT:*** Video Generation using VQ-VAE and Transformers [[Paper]](https://arxiv.org/pdf/2104.10157.pdf) [[Code]](https://github.com/wilson1yan/VideoGPT) [[Project]](https://wilson1yan.github.io/videogpt/index.html)
+      -  ***MagicVideo:*** Efficient Video Generation With Latent Diffusion Models [[Paper]](https://arxiv.org/pdf/2211.11018)
 [<u><small><🎯Back to Top></small></u>](#contents)
 
 <!-- omit in toc -->
@@ -170,11 +173,14 @@ If you have any suggestions about this repository, please feel free to [start a 
   - **arXiv** 
     - ***I2V-Adapter:*** A General Image-to-Video Adapter for Diffusion Models [[Paper]](https://arxiv.org/pdf/2312.16693.pdf) [[Code]](https://github.com/I2V-Adapter/I2V-Adapter-repo)
     - ***Follow-Your-Click:*** Open-domain Regional Image Animation via Short Prompts [[Paper]](https://arxiv.org/pdf/2403.08268) [[Code]](https://github.com/mayuelala/FollowYourClick) [[Project]](https://follow-your-click.github.io/)
+    - ***AtomoVideo:*** High Fidelity Image-to-Video Generation [[Paper]](https://arxiv.org/pdf/2403.01800.pdf) [[Project]](https://atomo-video.github.io/) [[Video]](https://www.youtube.com/embed/36JIlk-U-vQ)
 - <span id="image-year-2023">**Year 2023**</span>
   - **CVPR**
     - Conditional Image-to-Video Generation with Latent Flow Diffusion Models [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Ni_Conditional_Image-to-Video_Generation_With_Latent_Flow_Diffusion_Models_CVPR_2023_paper.pdf) [[Code]](https://github.com/nihaomiao/CVPR23_LFDM)
   - **arXiv**
     - ***I2VGen-XL:*** High-quality Image-to-video Synthesis via Cascaded Diffusion Models [[Paper]](https://arxiv.org/pdf/2311.04145.pdf) [[Code]](https://github.com/ali-vilab/i2vgen-xl) [[Project]](https://i2vgen-xl.github.io/)
+    - ***DreamVideo:*** High-Fidelity Image-to-Video Generation with Image Retention and Text Guidance [[Paper]](https://arxiv.org/pdf/2312.03018) [[Code]](https://github.com/anonymous0769/DreamVideo) [[Project]](https://anonymous0769.github.io/DreamVideo/)
+    - ***DynamiCrafter:*** Animating Open-domain Images with Video Diffusion Priors [[Paper]](https://arxiv.org/pdf/2310.12190) [[Project]](https://doubiiu.github.io/projects/DynamiCrafter/) [[Code]](https://github.com/Doubiiu/DynamiCrafter) [[Video]](https://www.youtube.com/watch?v=0NfmIsNAg-g) [[Demo]](https://huggingface.co/spaces/Doubiiu/DynamiCrafter)
 - <span id="image-year-2022">**Year 2022**</span>
   - **CVPR**    
     - ***Make It Move:*** Controllable Image-to-Video Generation with Text Descriptions [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Hu_Make_It_Move_Controllable_Image-to-Video_Generation_With_Text_Descriptions_CVPR_2022_paper.pdf) [[Code]](https://github.com/Youncy-Hu/MAGE)
@@ -209,6 +215,10 @@ If you have any suggestions about this repository, please feel free to [start a 
   - **ICLR**
     - ***Ground-A-Video:*** Zero-shot Grounded Video Editing using Text-to-image Diffusion Models [[Paper]](https://arxiv.org/pdf/2310.01107) [[Code]](https://github.com/Ground-A-Video/Ground-A-Video) [[Project]](https://ground-a-video.github.io/)
     - ***TokenFlow:*** Consistent Diffusion Features for Consistent Video Editing [[Paper]](https://arxiv.org/pdf/2307.10373) [[Code]](https://github.com/omerbt/TokenFlow) [[Project]](https://diffusion-tokenflow.github.io/)
+  - **arXiv**
+    - ***UniEdit:*** A Unified Tuning-Free Framework for Video Motion and Appearance Editing [[Paper]](https://arxiv.org/pdf/2402.13185) [[Code]](https://github.com/JianhongBai/UniEdit) [[Project]](https://jianhongbai.github.io/UniEdit/)
+    - ***DragAnything:*** Motion Control for Anything
+using Entity Representation [[Paper]](https://arxiv.org/pdf/2403.07420.pdf) [[Code]](https://github.com/showlab/DragAnything) [[Project]](https://weijiawu.github.io/draganything_page/)
 - <span id="editing-year-2023">**Year 2023**</span>
   - **arXiv**
     - ***Style-A-Video:*** Agile Diffusion for Arbitrary Text-based Video Style Transfer [[Paper]](https://arxiv.org/pdf/2305.05464.pdf)
@@ -220,6 +230,7 @@ If you have any suggestions about this repository, please feel free to [start a 
 - [ICCV 2021] ***WebVid-10M:*** Frozen in Time: ️A Joint Video and Image Encoder for End to End Retrieval [[Paper]](https://arxiv.org/pdf/2104.00650.pdf) [[Dataset]](https://maxbain.com/webvid-dataset/) [[GitHub]](https://github.com/m-bain/webvid) [[Project]](https://www.robots.ox.ac.uk/~vgg/research/frozen-in-time/)
 - [ECCV 2022] **ROS:** Learning to Drive by Watching YouTube Videos: Action-Conditioned Contrastive Policy Pretraining [[Paper]](https://arxiv.org/pdf/2204.02393.pdf) [[Code]](https://github.com/metadriverse/ACO) [[Dataset]](https://mycuhk-my.sharepoint.com/personal/1155165194_link_cuhk_edu_hk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2F1155165194%5Flink%5Fcuhk%5Fedu%5Fhk%2FDocuments%2Fytb%5Fdriving%5Fvideos&ga=1)
 - [ICLR 2024] ***InternVid:*** A Large-scale Video-Text Dataset for Multimodal Understanding and Generation [[Paper]](https://arxiv.org/pdf/2307.06942) [[Dataset]](https://github.com/OpenGVLab/InternVideo/tree/main/Data/InternVid)
+- [CVPR 2024] ***Panda-70M:*** Captioning 70M Videos with Multiple Cross-Modality Teachers [[Paper]](https://arxiv.org/pdf/2402.19479.pdf) [[Dataset]](https://github.com/snap-research/Panda-70M) [[Project]](https://snap-research.github.io/Panda-70M)
 - [arXiv 2024] ***VidProM:*** A Million-scale Real Prompt-Gallery Dataset for Text-to-Video Diffusion Models [[Paper]](https://arxiv.org/pdf/2403.06098.pdf) [[Dataset]](https://github.com/WangWenhao0716/VidProM)
 
 [<u><small><🎯Back to Top></small></u>](#contents)
