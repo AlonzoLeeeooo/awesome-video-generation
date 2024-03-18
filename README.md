@@ -122,6 +122,7 @@ If you have any suggestions about this repository, please feel free to [start a 
     - ***Direct-a-Video:*** Customized Video Generation with User-Directed Camera Movement and Object Motion [[Paper]](https://arxiv.org/pdf/2402.03162.pdf) [[Project]](https://direct-a-video.github.io/)
     - ***WorldDreamer:*** Towards General World Models for Video Generation via Predicting Masked Tokens [[Paper]](https://arxiv.org/pdf/2401.09985) [[Code]](https://github.com/JeffWang987/WorldDreamer) [[Project]](https://world-dreamer.github.io/)
     - ***MagicVideo-V2:*** Multi-Stage High-Aesthetic Video Generation [[Paper]](https://arxiv.org/pdf/2401.04468.pdf) [[Project]](https://magicvideov2.github.io/)
+    - ***Latte:*** Latent Diffusion Transformer for Video Generation [[Paper]](https://arxiv.org/pdf/2401.03048) [[Code]](https://github.com/Vchitect/Latte) [[Project]](https://maxin-cn.github.io/latte_project)
   - **Others**
     - ***Sora:*** Video Generation Models as World Simulators [[Paper]](https://openai.com/research/video-generation-models-as-world-simulators)
 - <span id="text-year-2023">**Year 2023**</span>
