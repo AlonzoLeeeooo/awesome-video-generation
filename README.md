@@ -204,6 +204,7 @@ If you have any suggestions about this repository, please feel free to [start a 
 ## Video Editing
 - <span id="editing-year-2024">**Year 2024**</span>
   - **CVPR**
+    - ***VMC:*** Video Motion Customization using Temporal Attention Adaption for Text-to-Video Diffusion Models [[Paper]](https://arxiv.org/pdf/2312.00845) [[Code]](https://github.com/HyeonHo99/Video-Motion-Customization) [[Project]](https://video-motion-customization.github.io/)
     - ***Fairy:*** Fast Parallellized Instruction-Guided Video-to-Video Synthesis [[Paper]](https://arxiv.org/pdf/2312.13834) [[Project]](https://fairy-video2video.github.io/)
     - ***CCEdit:*** Creative and Controllable Video Editing via Diffusion Models [[Paper]](https://arxiv.org/pdf/2309.16496) [[Code]](https://github.com/RuoyuFeng/CCEdit) [[Project]](https://ruoyufeng.github.io/CCEdit.github.io/) [[Video]](https://www.youtube.com/watch?v=UQw4jq-igN4)
     - ***DynVideo-E:*** Harnessing Dynamic NeRF for Large-Scale Motion- and View-Change Human-Centric Video Editing [[Paper]](https://arxiv.org/pdf/2310.10624) [[Project]](https://showlab.github.io/DynVideo-E/) [[Video]](https://www.youtube.com/watch?v=xiRH4Q6B3Yk)
@@ -217,6 +218,7 @@ If you have any suggestions about this repository, please feel free to [start a 
     - ***Ground-A-Video:*** Zero-shot Grounded Video Editing using Text-to-image Diffusion Models [[Paper]](https://arxiv.org/pdf/2310.01107) [[Code]](https://github.com/Ground-A-Video/Ground-A-Video) [[Project]](https://ground-a-video.github.io/)
     - ***TokenFlow:*** Consistent Diffusion Features for Consistent Video Editing [[Paper]](https://arxiv.org/pdf/2307.10373) [[Code]](https://github.com/omerbt/TokenFlow) [[Project]](https://diffusion-tokenflow.github.io/)
   - **arXiv**
+    - ***DreamMotion:*** Space-Time Self-Similarity Score Distillation for Zero-Shot Video Editing [[Paper]](https://arxiv.org/pdf/2403.12002) [[Project]](https://hyeonho99.github.io/dreammotion/)
     - ***UniEdit:*** A Unified Tuning-Free Framework for Video Motion and Appearance Editing [[Paper]](https://arxiv.org/pdf/2402.13185) [[Code]](https://github.com/JianhongBai/UniEdit) [[Project]](https://jianhongbai.github.io/UniEdit/)
     - ***DragAnything:*** Motion Control for Anything
 using Entity Representation [[Paper]](https://arxiv.org/pdf/2403.07420.pdf) [[Code]](https://github.com/showlab/DragAnything) [[Project]](https://weijiawu.github.io/draganything_page/)
