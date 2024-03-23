@@ -123,6 +123,7 @@ If you have any suggestions about this repository, please feel free to [start a 
     - ***WorldDreamer:*** Towards General World Models for Video Generation via Predicting Masked Tokens [[Paper]](https://arxiv.org/pdf/2401.09985) [[Code]](https://github.com/JeffWang987/WorldDreamer) [[Project]](https://world-dreamer.github.io/)
     - ***MagicVideo-V2:*** Multi-Stage High-Aesthetic Video Generation [[Paper]](https://arxiv.org/pdf/2401.04468.pdf) [[Project]](https://magicvideov2.github.io/)
     - ***Latte:*** Latent Diffusion Transformer for Video Generation [[Paper]](https://arxiv.org/pdf/2401.03048) [[Code]](https://github.com/Vchitect/Latte) [[Project]](https://maxin-cn.github.io/latte_project)
+    - ***Mora:*** Enabling Generalist Video Generation via A Multi-Agent Framework [[Paper]](https://arxiv.org/pdf/2403.13248) [[Code]](https://github.com/lichao-sun/Mora)
   - **Others**
     - ***Sora:*** Video Generation Models as World Simulators [[Paper]](https://openai.com/research/video-generation-models-as-world-simulators)
 - <span id="text-year-2023">**Year 2023**</span>
@@ -175,6 +176,7 @@ If you have any suggestions about this repository, please feel free to [start a 
     - ***I2V-Adapter:*** A General Image-to-Video Adapter for Diffusion Models [[Paper]](https://arxiv.org/pdf/2312.16693.pdf) [[Code]](https://github.com/I2V-Adapter/I2V-Adapter-repo)
     - ***Follow-Your-Click:*** Open-domain Regional Image Animation via Short Prompts [[Paper]](https://arxiv.org/pdf/2403.08268) [[Code]](https://github.com/mayuelala/FollowYourClick) [[Project]](https://follow-your-click.github.io/)
     - ***AtomoVideo:*** High Fidelity Image-to-Video Generation [[Paper]](https://arxiv.org/pdf/2403.01800.pdf) [[Project]](https://atomo-video.github.io/) [[Video]](https://www.youtube.com/embed/36JIlk-U-vQ)
+    - ***Pix2Gif:*** Motion-Guided Diffusion for GIF Generation [[Paper]](https://arxiv.org/pdf/2403.04634) [[Code]](https://hiteshk03.github.io/Pix2Gif/) [[Project]](https://hiteshk03.github.io/Pix2Gif/)
 - <span id="image-year-2023">**Year 2023**</span>
   - **CVPR**
     - Conditional Image-to-Video Generation with Latent Flow Diffusion Models [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Ni_Conditional_Image-to-Video_Generation_With_Latent_Flow_Diffusion_Models_CVPR_2023_paper.pdf) [[Code]](https://github.com/nihaomiao/CVPR23_LFDM)
