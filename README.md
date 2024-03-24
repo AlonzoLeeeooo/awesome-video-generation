@@ -113,7 +113,7 @@ If you have any suggestions about this repository, please feel free to [start a 
   - **AAAI**
     - ***Follow Your Pose:*** Pose-Guided Text-to-Video Generation using Pose-Free Videos [[Paper]](https://arxiv.org/pdf/2304.01186) [[Code]](https://github.com/mayuelala/FollowYourPose) [[Project]](https://follow-your-pose.github.io/)
     - ***E2HQV:*** High-Quality Video Generation from Event Camera via Theory-Inspired Model-Aided Deep Learning [[Paper]](https://arxiv.org/pdf/2401.08117)
-    - ConditionVideo: Training-Free Condition-Guided Text-to-Video Generation [[Paper]](https://arxiv.org/pdf/2310.07697) [[Code]](https://github.com/pengbo807/ConditionVideo) [[Project]](https://pengbo807.github.io/conditionvideo-website/)
+    - ***ConditionVideo:*** Training-Free Condition-Guided Text-to-Video Generation [[Paper]](https://arxiv.org/pdf/2310.07697) [[Code]](https://github.com/pengbo807/ConditionVideo) [[Project]](https://pengbo807.github.io/conditionvideo-website/)
     - ***F3-Pruning:*** A Training-Free and Generalized Pruning Strategy towards Faster and Finer Text to-Video Synthesis [[Paper]](https://arxiv.org/pdf/2312.03459)
   - **arXiv**  
     - ***Lumiere:*** A Space-Time Diffusion Model for Video Generation [[Paper]](https://arxiv.org/pdf/2401.12945.pdf) [[Project]](https://lumiere-video.github.io/)
