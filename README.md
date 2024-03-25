@@ -62,8 +62,8 @@ If you have any suggestions about this repository, please feel free to [start a 
 |W.A.I.T|Google|2023|[link](https://arxiv.org/pdf/2312.06662.pdf)|[link](https://walt-video-diffusion.github.io/)|-|
 |Gen-2|Runaway|2023|-|[link](https://research.runwayml.com/gen2)|-|
 |Gen-1|Runaway|2023|-|[link](https://research.runwayml.com/gen1)|-|
-|Animate Anyone|Alibaba|2023|[link](https://arxiv.org/pdf/2311.17117.pdf)|[link](https://humanaigc.github.io/animate-anyone/)|
-|Outfit Anyone|Alibaba|2023|-|[link](https://outfitanyone.app/)|
+|Animate Anyone|Alibaba|2023|[link](https://arxiv.org/pdf/2311.17117.pdf)|[link](https://humanaigc.github.io/animate-anyone/)|-|
+|Outfit Anyone|Alibaba|2023|-|[link](https://outfitanyone.app/)|-|
 |Stable Video|StabilityAI|2023|[link](https://arxiv.org/pdf/2311.15127.pdf)|[link](https://www.stablevideo.com/)|-|
 |Pixeling|HiDream.ai|2023|-|[link](https://hidreamai.com/#/)|-|
 |DomoAI|DomoAI|2023|-|[link](https://domoai.app/)|-|
@@ -85,7 +85,7 @@ If you have any suggestions about this repository, please feel free to [start a 
 ## Survey Papers
 - <span id="survey-year-2023">**Year 2023**</span>
 - **arXiv**
-  - A Survey on Video Diffusion Models [[Paper]]()
+  - A Survey on Video Diffusion Models [[Paper]](https://arxiv.org/pdf/2310.10647.pdf)
 
 <!-- omit in toc -->
 ## Text-to-Video Generation
@@ -106,7 +106,7 @@ If you have any suggestions about this repository, please feel free to [start a 
     - ***Animate Anyone:*** Consistent and Controllable Image-to-video Synthesis for Character Animation [[Paper]](https://arxiv.org/pdf/2311.17117.pdf) [[Code]](https://github.com/HumanAIGC/AnimateAnyone) [[Project]](https://humanaigc.github.io/animate-anyone/)
     - ⚠️ Simple but Effective Text-to-Video Generation with Grid Diffusion Models [Paper]()
     - ⚠️ Hierarchical Patch-wise Diffusion Models for High-Resolution Video Generation [Paper]()
-    - ⚠️ DiffPerformer: Iterative Learning of Consistent Latent Guidance for Diffusion-based Human Video Generation [Paper]()
+    - ⚠️ ***DiffPerformer:*** Iterative Learning of Consistent Latent Guidance for Diffusion-based Human Video Generation [Paper]()
   - **ICLR**
     - ***VDT:*** General-purpose Video Diffusion Transformers via Mask Modeling [[Paper]](https://arxiv.org/pdf/2305.13311.pdf) [[Code]](https://github.com/RERV/VDT) [[Project]](https://vdt-2023.github.io/)
     - ***VersVideo:*** Leveraging Enhanced Temporal Diffusion Models for Versatile Video Generation [[Paper]](https://openreview.net/pdf?id=K9sVJ17zvB)
@@ -158,7 +158,7 @@ If you have any suggestions about this repository, please feel free to [start a 
     - ***VideoLCM:*** Video Latent Consistency Model [[Paper]](https://arxiv.org/pdf/2312.09109.pdf)
 - <span id="text-year-2022">**Year 2022**</span>
   - **CVPR**    
-    - Show Me What and Tell Me How: Video Synthesis via Multimodal Conditioning [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Han_Show_Me_What_and_Tell_Me_How_Video_Synthesis_via_CVPR_2022_paper.pdf) [[Code]](https://github.com/snap-research/MMVID) [[Dataset]](https://github.com/snap-research/MMVID/blob/main/mm_vox_celeb/README.md)
+    - ***Show Me What and Tell Me How:*** Video Synthesis via Multimodal Conditioning [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Han_Show_Me_What_and_Tell_Me_How_Video_Synthesis_via_CVPR_2022_paper.pdf) [[Code]](https://github.com/snap-research/MMVID) [[Dataset]](https://github.com/snap-research/MMVID/blob/main/mm_vox_celeb/README.md)
 - <span id="text-year-2021">**Year 2021**</span>
   - **arXiv**
       -  ***VideoGPT:*** Video Generation using VQ-VAE and Transformers [[Paper]](https://arxiv.org/pdf/2104.10157.pdf) [[Code]](https://github.com/wilson1yan/VideoGPT) [[Project]](https://wilson1yan.github.io/videogpt/index.html)
@@ -233,7 +233,7 @@ using Entity Representation [[Paper]](https://arxiv.org/pdf/2403.07420.pdf) [[Co
 <!-- omit in toc -->
 # Datasets
 - [ICCV 2021] ***WebVid-10M:*** Frozen in Time: ️A Joint Video and Image Encoder for End to End Retrieval [[Paper]](https://arxiv.org/pdf/2104.00650.pdf) [[Dataset]](https://maxbain.com/webvid-dataset/) [[GitHub]](https://github.com/m-bain/webvid) [[Project]](https://www.robots.ox.ac.uk/~vgg/research/frozen-in-time/)
-- [ECCV 2022] **ROS:** Learning to Drive by Watching YouTube Videos: Action-Conditioned Contrastive Policy Pretraining [[Paper]](https://arxiv.org/pdf/2204.02393.pdf) [[Code]](https://github.com/metadriverse/ACO) [[Dataset]](https://mycuhk-my.sharepoint.com/personal/1155165194_link_cuhk_edu_hk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2F1155165194%5Flink%5Fcuhk%5Fedu%5Fhk%2FDocuments%2Fytb%5Fdriving%5Fvideos&ga=1)
+- [ECCV 2022] ***ROS:*** Learning to Drive by Watching YouTube Videos: Action-Conditioned Contrastive Policy Pretraining [[Paper]](https://arxiv.org/pdf/2204.02393.pdf) [[Code]](https://github.com/metadriverse/ACO) [[Dataset]](https://mycuhk-my.sharepoint.com/personal/1155165194_link_cuhk_edu_hk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2F1155165194%5Flink%5Fcuhk%5Fedu%5Fhk%2FDocuments%2Fytb%5Fdriving%5Fvideos&ga=1)
 - [ICLR 2024] ***InternVid:*** A Large-scale Video-Text Dataset for Multimodal Understanding and Generation [[Paper]](https://arxiv.org/pdf/2307.06942) [[Dataset]](https://github.com/OpenGVLab/InternVideo/tree/main/Data/InternVid)
 - [CVPR 2024] ***Panda-70M:*** Captioning 70M Videos with Multiple Cross-Modality Teachers [[Paper]](https://arxiv.org/pdf/2402.19479.pdf) [[Dataset]](https://github.com/snap-research/Panda-70M) [[Project]](https://snap-research.github.io/Panda-70M)
 - [arXiv 2024] ***VidProM:*** A Million-scale Real Prompt-Gallery Dataset for Text-to-Video Diffusion Models [[Paper]](https://arxiv.org/pdf/2403.06098.pdf) [[Dataset]](https://github.com/WangWenhao0716/VidProM)
