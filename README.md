@@ -5,6 +5,12 @@ This GitHub repository summarizes papers and resources related to the video gene
 
 If you have any suggestions about this repository, please feel free to [start a new issue](https://github.com/AlonzoLeeeooo/awesome-video-generation/issues/new) or [pull requests](https://github.com/AlonzoLeeeooo/awesome-video-generation/pulls).
 
+Recent news of this GitHub repo are listed as follows.
+<details> <summary> 🔥 Click to see more information. </summary>
+
+- [Mar. 28th] The official **AAAI 2024** paper list are released! Official version of PDFs and BibTeX references are updated accordingly.
+</details>
+
 <!-- omit in toc -->
 # <span id="contents">Contents</span>
 - [To-Do Lists](#to-do-lists)
@@ -34,9 +40,11 @@ If you have any suggestions about this repository, please feel free to [start a 
 # To-Do Lists
 - Latest Papers
   - [x] Update CVPR 2024 Papers
-  - [x] Update AAAI 2024 Papers
     - [ ] Update PDFs and References of ⚠️ Papers
     - [ ] Update Published Versions of References
+  - [x] Update AAAI 2024 Papers
+    - [x] Update PDFs and References of ⚠️ Papers
+    - [x] Update Published Versions of References
   - [x] Update ICLR 2024 Papers
   - [ ] Update NeurIPS 2024 Papers
 - Previously Published Papers
