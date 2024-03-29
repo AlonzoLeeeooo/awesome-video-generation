@@ -46,7 +46,7 @@ Recent news of this GitHub repo are listed as follows.
     - [x] Update PDFs and References of ⚠️ Papers
     - [x] Update Published Versions of References
   - [x] Update ICLR 2024 Papers
-  - [ ] Update NeurIPS 2024 Papers
+  - [ ] Update NeurIPS 2023 Papers
 - Previously Published Papers
   - [x] Update Previous CVPR papers
   - [ ] Update Previous ICCV papers
