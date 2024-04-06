@@ -132,6 +132,7 @@ Recent news of this GitHub repo are listed as follows.
     - ***MagicVideo-V2:*** Multi-Stage High-Aesthetic Video Generation [[Paper]](https://arxiv.org/pdf/2401.04468.pdf) [[Project]](https://magicvideov2.github.io/)
     - ***Latte:*** Latent Diffusion Transformer for Video Generation [[Paper]](https://arxiv.org/pdf/2401.03048) [[Code]](https://github.com/Vchitect/Latte) [[Project]](https://maxin-cn.github.io/latte_project)
     - ***Mora:*** Enabling Generalist Video Generation via A Multi-Agent Framework [[Paper]](https://arxiv.org/pdf/2403.13248) [[Code]](https://github.com/lichao-sun/Mora)
+    - ***StreamingT2V:*** Consistent, Dynamic, and Extendable Long Video Generation from Text [[Paper]](https://arxiv.org/pdf/2403.14773) [[Code]](https://github.com/Picsart-AI-Research/StreamingT2V) [[Project]](https://streamingt2v.github.io/) [[Video]](https://twitter.com/i/status/1770909673463390414)
   - **Others**
     - ***Sora:*** Video Generation Models as World Simulators [[Paper]](https://openai.com/research/video-generation-models-as-world-simulators)
 - <span id="text-year-2023">**Year 2023**</span>
