@@ -150,7 +150,6 @@ Recent news of this GitHub repo are listed as follows.
     - ***Make-A-Video:*** Text-to-video Generation without Text-video Data [[Paper]](https://arxiv.org/pdf/2209.14792.pdf) [[Project]](https://makeavideo.studio/) [[Reproduced code]](https://github.com/lucidrains/make-a-video-pytorch)
     - ***Phenaki:*** Variable Length Video Generation From Open Domain Textual Description [[Paper]](https://openreview.net/pdf/fe8e106a2746992c9c2e658bdc8cb9c89cc5a39a.pdf) [[Reproduced Code]](https://github.com/lucidrains/phenaki-pytorch)
   - **arXiv**
-    - ***AnimateDiff:*** Animate Your Personalized Text-to-image Diffusion Models without Specific Tuning [[Paper]](https://openreview.net/pdf?id=Fx2SbBgcte) [[Project]](https://animatediff.github.io/)
     - ***Control-A-Video:*** Controllable Text-to-video Generation with Diffusion Models [[Paper]](https://arxiv.org/pdf/2305.13840.pdf) [[Code]](https://github.com/Weifeng-Chen/control-a-video) [[Demo]](https://huggingface.co/spaces/wf-genius/Control-A-Video) [[Project]](https://arxiv.org/pdf/2305.13840.pdf)
     - ***ControlVideo:*** Training-free Controllable Text-to-video Generation [[Paper]](https://arxiv.org/pdf/2305.13077.pdf) [[Code]](https://github.com/YBYBZhang/ControlVideo)
     - ***Imagen Video:*** High Definition Video Generation with Diffusion Models [[Paper]](https://arxiv.org/pdf/2210.02303.pdf) 
@@ -194,6 +193,7 @@ Recent news of this GitHub repo are listed as follows.
     - ***I2VGen-XL:*** High-quality Image-to-video Synthesis via Cascaded Diffusion Models [[Paper]](https://arxiv.org/pdf/2311.04145.pdf) [[Code]](https://github.com/ali-vilab/i2vgen-xl) [[Project]](https://i2vgen-xl.github.io/)
     - ***DreamVideo:*** High-Fidelity Image-to-Video Generation with Image Retention and Text Guidance [[Paper]](https://arxiv.org/pdf/2312.03018) [[Code]](https://github.com/anonymous0769/DreamVideo) [[Project]](https://anonymous0769.github.io/DreamVideo/)
     - ***DynamiCrafter:*** Animating Open-domain Images with Video Diffusion Priors [[Paper]](https://arxiv.org/pdf/2310.12190) [[Project]](https://doubiiu.github.io/projects/DynamiCrafter/) [[Code]](https://github.com/Doubiiu/DynamiCrafter) [[Video]](https://www.youtube.com/watch?v=0NfmIsNAg-g) [[Demo]](https://huggingface.co/spaces/Doubiiu/DynamiCrafter)
+    - ***AnimateDiff:*** Animate Your Personalized Text-to-image Diffusion Models without Specific Tuning [[Paper]](https://openreview.net/pdf?id=Fx2SbBgcte) [[Project]](https://animatediff.github.io/)
 - <span id="image-year-2022">**Year 2022**</span>
   - **CVPR**    
     - ***Make It Move:*** Controllable Image-to-Video Generation with Text Descriptions [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Hu_Make_It_Move_Controllable_Image-to-Video_Generation_With_Text_Descriptions_CVPR_2022_paper.pdf) [[Code]](https://github.com/Youncy-Hu/MAGE)
