@@ -186,6 +186,8 @@ Recent news of this GitHub repo are listed as follows.
     - ***Follow-Your-Click:*** Open-domain Regional Image Animation via Short Prompts [[Paper]](https://arxiv.org/pdf/2403.08268) [[Code]](https://github.com/mayuelala/FollowYourClick) [[Project]](https://follow-your-click.github.io/)
     - ***AtomoVideo:*** High Fidelity Image-to-Video Generation [[Paper]](https://arxiv.org/pdf/2403.01800.pdf) [[Project]](https://atomo-video.github.io/) [[Video]](https://www.youtube.com/embed/36JIlk-U-vQ)
     - ***Pix2Gif:*** Motion-Guided Diffusion for GIF Generation [[Paper]](https://arxiv.org/pdf/2403.04634) [[Code]](https://hiteshk03.github.io/Pix2Gif/) [[Project]](https://hiteshk03.github.io/Pix2Gif/)
+    - ***ID-Animator:*** Zero-Shot Identity-Preserving Human Video Generation [[Paper]](https://arxiv.org/pdf/2404.15275.pdf) [[Code]](https://id-animator.github.io/) [[Project]](https://id-animator.github.io/)
+
 - <span id="image-year-2023">**Year 2023**</span>
   - **CVPR**
     - Conditional Image-to-Video Generation with Latent Flow Diffusion Models [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Ni_Conditional_Image-to-Video_Generation_With_Latent_Flow_Diffusion_Models_CVPR_2023_paper.pdf) [[Code]](https://github.com/nihaomiao/CVPR23_LFDM)
