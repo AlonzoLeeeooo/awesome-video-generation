@@ -227,6 +227,7 @@ Recent news of this GitHub repo are listed as follows.
     - ***MaskINT:*** Video Editing via Interpolative Non-autoregressive Masked Transformers [[Paper]](https://arxiv.org/pdf/2312.12468) [[Code]](https://maskint.github.io/) [[Project]](https://maskint.github.io/)
     - ***VidToMe:*** Video Token Merging for Zero-Shot Video Editing [[Paper]](https://arxiv.org/pdf/2312.10656) [[Code]](https://github.com/lixirui142/VidToMe) [[Project]](https://vidtome-diffusion.github.io/) [[Video]](https://youtu.be/cZPtwcRepNY)
     - Towards Language-Driven Video Inpainting via Multimodal Large Language Models [[Paper]](https://arxiv.org/pdf/2401.10226.pdf) [[Code]](https://github.com/jianzongwu/Language-Driven-Video-Inpainting) [[Project]](https://jianzongwu.github.io/projects/rovi/) [[Dataset]](https://huggingface.co/datasets/jianzongwu/rovi)
+    - ***AVID:*** Any-Length Video Inpainting with Diffusion Model [[Paper]](https://arxiv.org/pdf/2312.03816.pdf) [[Code]](https://zhang-zx.github.io/AVID/) [[Project]](https://zhang-zx.github.io/AVID/)
     - ⚠️ ***CAMEL:*** CAusal Motion Enhancement tailored for Lifting Text-driven Video Editing [Paper]
   - **ICLR**
     - ***Ground-A-Video:*** Zero-shot Grounded Video Editing using Text-to-image Diffusion Models [[Paper]](https://arxiv.org/pdf/2310.01107) [[Code]](https://github.com/Ground-A-Video/Ground-A-Video) [[Project]](https://ground-a-video.github.io/)
@@ -235,8 +236,7 @@ Recent news of this GitHub repo are listed as follows.
     - Spectral Motion Alignment for Video Motion Transfer using Diffusion Models [[Paper]](https://arxiv.org/abs/2403.15249) [[Code]](https://github.com/geonyeong-park/Spectral-Motion-Alignment) [[Project]](https://geonyeong-park.github.io/spectral-motion-alignment/)
     - ***DreamMotion:*** Space-Time Self-Similarity Score Distillation for Zero-Shot Video Editing [[Paper]](https://arxiv.org/pdf/2403.12002) [[Project]](https://hyeonho99.github.io/dreammotion/)
     - ***UniEdit:*** A Unified Tuning-Free Framework for Video Motion and Appearance Editing [[Paper]](https://arxiv.org/pdf/2402.13185) [[Code]](https://github.com/JianhongBai/UniEdit) [[Project]](https://jianhongbai.github.io/UniEdit/)
-    - ***DragAnything:*** Motion Control for Anything
-using Entity Representation [[Paper]](https://arxiv.org/pdf/2403.07420.pdf) [[Code]](https://github.com/showlab/DragAnything) [[Project]](https://weijiawu.github.io/draganything_page/)
+    - ***DragAnything:*** Motion Control for Anything using Entity Representation [[Paper]](https://arxiv.org/pdf/2403.07420.pdf) [[Code]](https://github.com/showlab/DragAnything) [[Project]](https://weijiawu.github.io/draganything_page/)
 - <span id="editing-year-2023">**Year 2023**</span>
   - **arXiv**
     - ***Style-A-Video:*** Agile Diffusion for Arbitrary Text-based Video Style Transfer [[Paper]](https://arxiv.org/pdf/2305.05464.pdf)
