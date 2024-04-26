@@ -8,6 +8,7 @@ If you have any suggestions about this repository, please feel free to [start a 
 Recent news of this GitHub repo are listed as follows.
 <details> <summary> 🔥 Click to see more information. </summary>
 
+- [Apr. 26th] Update a new direction: [Personalized Video Generation](#personalized-video-generation).
 - [Mar. 28th] The official **AAAI 2024** paper list are released! Official version of PDFs and BibTeX references are updated accordingly.
 </details>
 
@@ -26,6 +27,9 @@ Recent news of this GitHub repo are listed as follows.
     - [Year 2024](#image-year-2024)
     - [Year 2023](#image-year-2023)
     - [Year 2022](#image-year-2022)
+  - [Personalized Video Generation](#personalized-video-generation)
+    - [Year 2024](#personalized-year-2024)
+    - [Year 2023](#personalized-year-2023)
   - [Video Editing](#video-editing)
     - [Year 2023](#editing-year-2023)
   - [Audio-to-Video Generation](#audio-to-video-generation)
@@ -213,6 +217,18 @@ Recent news of this GitHub repo are listed as follows.
     - ***MM-Diffusion:*** Learning Multi-Modal Diffusion Models for Joint Audio and Video Generation [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Ruan_MM-Diffusion_Learning_Multi-Modal_Diffusion_Models_for_Joint_Audio_and_Video_CVPR_2023_paper.pdf) [[Code]](https://github.com/researchmm/MM-Diffusion)
 
 [<u><small><🎯Back to Top></small></u>](#contents)
+
+<!-- omit in toc -->
+## Personalized Video Generation
+- <span id="personalized-year-2024">**Year 2024**</span>
+  - **CVPR**
+    - High-fidelity Person-centric Subject-to-Image Synthesis [[Paper]](https://arxiv.org/pdf/2311.10329) [[Code]](https://github.com/CodeGoat24/Face-diffuser)
+- <span id="personalized-year-2023">**Year 2023**</span>
+  - **arXiv**
+    - ***FastComposer:*** Tuning-Free Multi-Subject Image Generation with Localized Attention [[Paper]](https://arxiv.org/pdf/2305.10431) [[Code]](https://github.com/mit-han-lab/fastcomposer?tab=readme-ov-file) [[Demo]](https://fastcomposer.hanlab.ai/)
+
+[<u><small><🎯Back to Top></small></u>](#contents)
+
 
 <!-- omit in toc -->
 ## Video Editing
