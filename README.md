@@ -116,6 +116,7 @@ Recent news of this GitHub repo are listed as follows.
     - ***BIVDiff:*** A Training-free Framework for General-Purpose Video Synthesis via Bridging Image and Video Diffusion Models [[Paper]](https://arxiv.org/pdf/2312.02813) [[Project]](https://bivdiff.github.io/)
     - ***Mind the Time:*** Scaled Spatiotemporal Transformers for Text-to-Video Synthesis [[Paper]](https://arxiv.org/pdf/2402.14797) [[Project]](https://snap-research.github.io/snapvideo/video_ldm.html)
     - ***Animate Anyone:*** Consistent and Controllable Image-to-video Synthesis for Character Animation [[Paper]](https://arxiv.org/pdf/2311.17117.pdf) [[Code]](https://github.com/HumanAIGC/AnimateAnyone) [[Project]](https://humanaigc.github.io/animate-anyone/)
+    - ***MotionDirector:*** Motion Customization of Text-to-Video Diffusion Models [[Paper]](https://arxiv.org/pdf/2310.08465) [[Code]](https://github.com/showlab/MotionDirector)
     - ⚠️ Simple but Effective Text-to-Video Generation with Grid Diffusion Models [Paper]()
     - ⚠️ Hierarchical Patch-wise Diffusion Models for High-Resolution Video Generation [Paper]()
     - ⚠️ ***DiffPerformer:*** Iterative Learning of Consistent Latent Guidance for Diffusion-based Human Video Generation [Paper]()
