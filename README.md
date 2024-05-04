@@ -204,6 +204,10 @@ Recent news of this GitHub repo are listed as follows.
 - <span id="image-year-2022">**Year 2022**</span>
   - **CVPR**    
     - ***Make It Move:*** Controllable Image-to-Video Generation with Text Descriptions [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Hu_Make_It_Move_Controllable_Image-to-Video_Generation_With_Text_Descriptions_CVPR_2022_paper.pdf) [[Code]](https://github.com/Youncy-Hu/MAGE)
+- <span id="image-year-2021">**Year 2021**</span>
+  - **ICCV**
+    - ***Click to Move:*** Controlling Video Generation with Sparse Motion [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Ardino_Click_To_Move_Controlling_Video_Generation_With_Sparse_Motion_ICCV_2021_paper.pdf) [[Code]](https://github.com/PierfrancescoArdino/C2M)
+
 
 [<u><small><🎯Back to Top></small></u>](#contents)
 
