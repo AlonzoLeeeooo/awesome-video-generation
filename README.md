@@ -95,6 +95,9 @@ Recent news of this GitHub repo are listed as follows.
 
 <!-- omit in toc -->
 ## Survey Papers
+- <span id="survey-year-2023">**Year 2024**</span>
+- **arXiv**
+  - Video Diffusion Models: A Survey [[Paper]](https://arxiv.org/pdf/2405.03150.pdf)
 - <span id="survey-year-2023">**Year 2023**</span>
 - **arXiv**
   - A Survey on Video Diffusion Models [[Paper]](https://arxiv.org/pdf/2310.10647.pdf)
@@ -187,7 +190,8 @@ Recent news of this GitHub repo are listed as follows.
     - ***VideoBooth:*** Diffusion-based Video Generation with Image Prompts [[Paper]](https://arxiv.org/pdf/2312.00777) [[Code]](https://github.com/Vchitect/VideoBooth) [[Project]](https://vchitect.github.io/VideoBooth-project/) [[Video]](https://www.youtube.com/watch?v=10DxH1JETzI)
   - **AAAI**
     - Decouple Content and Motion for Conditional Image-to-Video Generation [[Paper]](https://arxiv.org/pdf/2311.14294)
-  - **arXiv** 
+  - **arXiv**
+    -  ***ConsistI2V:*** Enhancing Visual Consistency for Image-to-Video Generation [[Paper]](https://arxiv.org/pdf/2402.04324.pdf) [[Code]](https://github.com/TIGER-AI-Lab/ConsistI2V) [[Project]](https://tiger-ai-lab.github.io/ConsistI2V/)
     - ***I2V-Adapter:*** A General Image-to-Video Adapter for Diffusion Models [[Paper]](https://arxiv.org/pdf/2312.16693.pdf) [[Code]](https://github.com/I2V-Adapter/I2V-Adapter-repo)
     - ***Follow-Your-Click:*** Open-domain Regional Image Animation via Short Prompts [[Paper]](https://arxiv.org/pdf/2403.08268) [[Code]](https://github.com/mayuelala/FollowYourClick) [[Project]](https://follow-your-click.github.io/)
     - ***AtomoVideo:*** High Fidelity Image-to-Video Generation [[Paper]](https://arxiv.org/pdf/2403.01800.pdf) [[Project]](https://atomo-video.github.io/) [[Video]](https://www.youtube.com/embed/36JIlk-U-vQ)
@@ -257,6 +261,7 @@ Recent news of this GitHub repo are listed as follows.
     - ***Ground-A-Video:*** Zero-shot Grounded Video Editing using Text-to-image Diffusion Models [[Paper]](https://arxiv.org/pdf/2310.01107) [[Code]](https://github.com/Ground-A-Video/Ground-A-Video) [[Project]](https://ground-a-video.github.io/)
     - ***TokenFlow:*** Consistent Diffusion Features for Consistent Video Editing [[Paper]](https://arxiv.org/pdf/2307.10373) [[Code]](https://github.com/omerbt/TokenFlow) [[Project]](https://diffusion-tokenflow.github.io/)
   - **arXiv**
+    - **AnyV2V:** A Plug-and-Play Framework For Any Video-to-Video Editing Tasks [[Paper]](https://arxiv.org/pdf/2403.14468) [[Code]](https://github.com/TIGER-AI-Lab/AnyV2V) [[Project]](https://tiger-ai-lab.github.io/AnyV2V/)
     - Spectral Motion Alignment for Video Motion Transfer using Diffusion Models [[Paper]](https://arxiv.org/abs/2403.15249) [[Code]](https://github.com/geonyeong-park/Spectral-Motion-Alignment) [[Project]](https://geonyeong-park.github.io/spectral-motion-alignment/)
     - ***DreamMotion:*** Space-Time Self-Similarity Score Distillation for Zero-Shot Video Editing [[Paper]](https://arxiv.org/pdf/2403.12002) [[Project]](https://hyeonho99.github.io/dreammotion/)
     - ***UniEdit:*** A Unified Tuning-Free Framework for Video Motion and Appearance Editing [[Paper]](https://arxiv.org/pdf/2402.13185) [[Code]](https://github.com/JianhongBai/UniEdit) [[Project]](https://jianhongbai.github.io/UniEdit/)
