@@ -142,6 +142,7 @@ Recent news of this GitHub repo are listed as follows.
     - ***Mora:*** Enabling Generalist Video Generation via A Multi-Agent Framework [[Paper]](https://arxiv.org/pdf/2403.13248) [[Code]](https://github.com/lichao-sun/Mora)
     - ***StreamingT2V:*** Consistent, Dynamic, and Extendable Long Video Generation from Text [[Paper]](https://arxiv.org/pdf/2403.14773) [[Code]](https://github.com/Picsart-AI-Research/StreamingT2V) [[Project]](https://streamingt2v.github.io/) [[Video]](https://twitter.com/i/status/1770909673463390414)
     - ***VIDiff:*** Translating Videos via Multi-Modal Instructions with Diffusion Models [[Paper]](https://arxiv.org/pdf/2311.18837)
+    - ***StoryDiffusion:*** Consistent Self-Attention for Long-Range Image and Video Generation [[Paper]](https://arxiv.org/pdf/2405.01434) [[Code]](https://github.com/HVision-NKU/StoryDiffusion) [[Project]](https://storydiffusion.github.io/) [[Demo]](https://huggingface.co/spaces/YupengZhou/StoryDiffusion)
   - **Others**
     - ***Sora:*** Video Generation Models as World Simulators [[Paper]](https://openai.com/research/video-generation-models-as-world-simulators)
 - <span id="text-year-2023">**Year 2023**</span>
