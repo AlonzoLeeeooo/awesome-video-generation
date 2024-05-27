@@ -175,6 +175,7 @@ Recent news of this GitHub repo are listed as follows.
     - ***SEINE:*** Short-to-Long Video Diffusion Model for Generative Transition and Prediction [[Paper]](https://arxiv.org/pdf/2310.20700.pdf) [[Code]](https://github.com/Vchitect/SEINE) [[Project]](https://vchitect.github.io/SEINE-project/)
     - ***VideoLCM:*** Video Latent Consistency Model [[Paper]](https://arxiv.org/pdf/2312.09109.pdf)
     - ModelScope Text-to-Video Technical Report [[Paper]](https://arxiv.org/pdf/2308.06571.pdf) [[Code]](https://github.com/ExponentialML/Text-To-Video-Finetuning)
+    - ***LAMP:*** Learn A Motion Pattern for Few-Shot-Based Video Generation [[Paper]](https://arxiv.org/pdf/2310.10769) [[Code]](https://rq-wu.github.io/projects/LAMP) [[Project]](https://rq-wu.github.io/projects/LAMP)
 - <span id="text-year-2022">**Year 2022**</span>
   - **CVPR**    
     - ***Show Me What and Tell Me How:*** Video Synthesis via Multimodal Conditioning [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Han_Show_Me_What_and_Tell_Me_How_Video_Synthesis_via_CVPR_2022_paper.pdf) [[Code]](https://github.com/snap-research/MMVID) [[Dataset]](https://github.com/snap-research/MMVID/blob/main/mm_vox_celeb/README.md)
@@ -198,6 +199,7 @@ Recent news of this GitHub repo are listed as follows.
     - ***AtomoVideo:*** High Fidelity Image-to-Video Generation [[Paper]](https://arxiv.org/pdf/2403.01800.pdf) [[Project]](https://atomo-video.github.io/) [[Video]](https://www.youtube.com/embed/36JIlk-U-vQ)
     - ***Pix2Gif:*** Motion-Guided Diffusion for GIF Generation [[Paper]](https://arxiv.org/pdf/2403.04634) [[Code]](https://hiteshk03.github.io/Pix2Gif/) [[Project]](https://hiteshk03.github.io/Pix2Gif/)
     - ***ID-Animator:*** Zero-Shot Identity-Preserving Human Video Generation [[Paper]](https://arxiv.org/pdf/2404.15275.pdf) [[Code]](https://id-animator.github.io/) [[Project]](https://id-animator.github.io/)
+    - Tuning-Free Noise Rectification for High Fidelity Image-to-Video Generation [[Paper]](https://arxiv.org/pdf/2403.02827) [[Project]](https://noise-rectification.github.io/)
 
 - <span id="image-year-2023">**Year 2023**</span>
   - **CVPR**
@@ -235,10 +237,11 @@ Recent news of this GitHub repo are listed as follows.
   - **CVPR**
     - High-fidelity Person-centric Subject-to-Image Synthesis [[Paper]](https://arxiv.org/pdf/2311.10329) [[Code]](https://github.com/CodeGoat24/Face-diffuser)
   - **arXiv**
-    - Magic-Me: Identity-Specific Video Customized Diffusion [[Paper]](https://arxiv.org/pdf/2402.09368) [[Code]](https://github.com/Zhen-Dong/Magic-Me) [[Project]](https://magic-me-webpage.github.io/) [[Demo]](https://huggingface.co/spaces/visionMaze/Magic-Me)
+    - ***Magic-Me:*** Identity-Specific Video Customized Diffusion [[Paper]](https://arxiv.org/pdf/2402.09368) [[Code]](https://github.com/Zhen-Dong/Magic-Me) [[Project]](https://magic-me-webpage.github.io/) [[Demo]](https://huggingface.co/spaces/visionMaze/Magic-Me)
 - <span id="personalized-year-2023">**Year 2023**</span>
   - **arXiv**
     - ***FastComposer:*** Tuning-Free Multi-Subject Image Generation with Localized Attention [[Paper]](https://arxiv.org/pdf/2305.10431) [[Code]](https://github.com/mit-han-lab/fastcomposer?tab=readme-ov-file) [[Demo]](https://fastcomposer.hanlab.ai/)
+    - ***Make-Your-Video:*** Customized Video Generation Using Textual and Structural Guidance [[Paper]](https://arxiv.org/pdf/2306.00943) [[Project]](https://doubiiu.github.io/projects/Make-Your-Video/)
 
 [<u><small><🎯Back to Top></small></u>](#contents)
 
@@ -268,8 +271,11 @@ Recent news of this GitHub repo are listed as follows.
     - ***UniEdit:*** A Unified Tuning-Free Framework for Video Motion and Appearance Editing [[Paper]](https://arxiv.org/pdf/2402.13185) [[Code]](https://github.com/JianhongBai/UniEdit) [[Project]](https://jianhongbai.github.io/UniEdit/)
     - ***DragAnything:*** Motion Control for Anything using Entity Representation [[Paper]](https://arxiv.org/pdf/2403.07420.pdf) [[Code]](https://github.com/showlab/DragAnything) [[Project]](https://weijiawu.github.io/draganything_page/)
 - <span id="editing-year-2023">**Year 2023**</span>
+  - **NeurIPS**
+    - Towards Consistent Video Editing with Text-to-Image Diffusion Models [[Paper]](https://openreview.net/pdf?id=RNVwm4BzXO)
   - **arXiv**
     - ***Style-A-Video:*** Agile Diffusion for Arbitrary Text-based Video Style Transfer [[Paper]](https://arxiv.org/pdf/2305.05464.pdf)
+    - ***SAVE:*** Spectral-Shift-Aware Adaptation of Image Diffusion Models for Text-guided Video Editing [[Paper]](https://arxiv.org/pdf/2305.18670) [[Code]](https://github.com/nazmul-karim170/SAVE-Text2Video-Diffusion) [[Project]](https://save-textguidedvideoediting.github.io/)
 
 [<u><small><🎯Back to Top></small></u>](#contents)
 
