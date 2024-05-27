@@ -271,6 +271,8 @@ Recent news of this GitHub repo are listed as follows.
     - ***UniEdit:*** A Unified Tuning-Free Framework for Video Motion and Appearance Editing [[Paper]](https://arxiv.org/pdf/2402.13185) [[Code]](https://github.com/JianhongBai/UniEdit) [[Project]](https://jianhongbai.github.io/UniEdit/)
     - ***DragAnything:*** Motion Control for Anything using Entity Representation [[Paper]](https://arxiv.org/pdf/2403.07420.pdf) [[Code]](https://github.com/showlab/DragAnything) [[Project]](https://weijiawu.github.io/draganything_page/)
 - <span id="editing-year-2023">**Year 2023**</span>
+  - **ICCV**
+    - ***Pix2Video:*** Video Editing using Image Diffusion [[Paper]](https://arxiv.org/pdf/2303.12688) [[Code]](https://github.com/duyguceylan/pix2video)
   - **NeurIPS**
     - Towards Consistent Video Editing with Text-to-Image Diffusion Models [[Paper]](https://openreview.net/pdf?id=RNVwm4BzXO)
   - **arXiv**
