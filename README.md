@@ -238,6 +238,7 @@ Recent news of this GitHub repo are listed as follows.
     - High-fidelity Person-centric Subject-to-Image Synthesis [[Paper]](https://arxiv.org/pdf/2311.10329) [[Code]](https://github.com/CodeGoat24/Face-diffuser)
   - **arXiv**
     - ***Magic-Me:*** Identity-Specific Video Customized Diffusion [[Paper]](https://arxiv.org/pdf/2402.09368) [[Code]](https://github.com/Zhen-Dong/Magic-Me) [[Project]](https://magic-me-webpage.github.io/) [[Demo]](https://huggingface.co/spaces/visionMaze/Magic-Me)
+    - ***ReVideo:*** Remake a Video with Motion and Content Control [[Paper]](https://arxiv.org/pdf/2405.13865) [[Code]](https://github.com/MC-E/ReVideo) [[Project]](https://mc-e.github.io/project/ReVideo/)
 - <span id="personalized-year-2023">**Year 2023**</span>
   - **arXiv**
     - ***FastComposer:*** Tuning-Free Multi-Subject Image Generation with Localized Attention [[Paper]](https://arxiv.org/pdf/2305.10431) [[Code]](https://github.com/mit-han-lab/fastcomposer?tab=readme-ov-file) [[Demo]](https://fastcomposer.hanlab.ai/)
