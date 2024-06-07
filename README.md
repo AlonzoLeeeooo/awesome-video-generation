@@ -265,13 +265,13 @@ Recent news of this GitHub repo are listed as follows.
   - **ICLR**
     - ***Ground-A-Video:*** Zero-shot Grounded Video Editing using Text-to-image Diffusion Models [[Paper]](https://arxiv.org/pdf/2310.01107) [[Code]](https://github.com/Ground-A-Video/Ground-A-Video) [[Project]](https://ground-a-video.github.io/)
     - ***TokenFlow:*** Consistent Diffusion Features for Consistent Video Editing [[Paper]](https://arxiv.org/pdf/2307.10373) [[Code]](https://github.com/omerbt/TokenFlow) [[Project]](https://diffusion-tokenflow.github.io/)
+    - Consistent Video-to-Video Transfer Using Synthetic Dataset [[Paper]](https://openreview.net/pdf?id=IoKRezZMxF) [[Code]](https://github.com/amazon-science/instruct-video-to-video/tree/main)
   - **arXiv**
-    - **AnyV2V:** A Plug-and-Play Framework For Any Video-to-Video Editing Tasks [[Paper]](https://arxiv.org/pdf/2403.14468) [[Code]](https://github.com/TIGER-AI-Lab/AnyV2V) [[Project]](https://tiger-ai-lab.github.io/AnyV2V/)
     - Spectral Motion Alignment for Video Motion Transfer using Diffusion Models [[Paper]](https://arxiv.org/abs/2403.15249) [[Code]](https://github.com/geonyeong-park/Spectral-Motion-Alignment) [[Project]](https://geonyeong-park.github.io/spectral-motion-alignment/)
     - ***DreamMotion:*** Space-Time Self-Similarity Score Distillation for Zero-Shot Video Editing [[Paper]](https://arxiv.org/pdf/2403.12002) [[Project]](https://hyeonho99.github.io/dreammotion/)
     - ***UniEdit:*** A Unified Tuning-Free Framework for Video Motion and Appearance Editing [[Paper]](https://arxiv.org/pdf/2402.13185) [[Code]](https://github.com/JianhongBai/UniEdit) [[Project]](https://jianhongbai.github.io/UniEdit/)
     - ***DragAnything:*** Motion Control for Anything using Entity Representation [[Paper]](https://arxiv.org/pdf/2403.07420.pdf) [[Code]](https://github.com/showlab/DragAnything) [[Project]](https://weijiawu.github.io/draganything_page/)
-    - ***AnyV2V:*** A Plug-and-Play Framework for Any Video-to-Video Editing Tasks [[Paper]]() [[Code]](https://github.com/TIGER-AI-Lab/AnyV2V) [[Project]](https://tiger-ai-lab.github.io/AnyV2V/)
+    - ***AnyV2V:*** A Plug-and-Play Framework for Any Video-to-Video Editing Tasks [[Paper]](https://arxiv.org/pdf/2403.14468) [[Code]](https://github.com/TIGER-AI-Lab/AnyV2V) [[Project]](https://tiger-ai-lab.github.io/AnyV2V/)
 - <span id="editing-year-2023">**Year 2023**</span>
   - **ICCV**
     - ***Pix2Video:*** Video Editing using Image Diffusion [[Paper]](https://arxiv.org/pdf/2303.12688) [[Code]](https://github.com/duyguceylan/pix2video)
