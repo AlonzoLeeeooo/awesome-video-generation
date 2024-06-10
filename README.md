@@ -183,6 +183,7 @@ Recent news of this GitHub repo are listed as follows.
   - **arXiv**
       -  ***VideoGPT:*** Video Generation using VQ-VAE and Transformers [[Paper]](https://arxiv.org/pdf/2104.10157.pdf) [[Code]](https://github.com/wilson1yan/VideoGPT) [[Project]](https://wilson1yan.github.io/videogpt/index.html)
       -  ***MagicVideo:*** Efficient Video Generation With Latent Diffusion Models [[Paper]](https://arxiv.org/pdf/2211.11018)
+      -  ***EasyAnimate:*** A High-Performance Long Video Generation Method based on Transformer Architecture [[Paper]](https://arxiv.org/pdf/2405.18991) [[Code]](https://arxiv.org/pdf/2405.18991)
 [<u><small><🎯Back to Top></small></u>](#contents)
 
 <!-- omit in toc -->
