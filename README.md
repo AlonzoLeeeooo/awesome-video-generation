@@ -44,7 +44,7 @@ Recent news of this GitHub repo are listed as follows.
 # To-Do Lists
 - Latest Papers
   - [x] Update CVPR 2024 Papers
-    - [ ] Update PDFs and References of ⚠️ Papers
+    - [x] Update PDFs and References of ⚠️ Papers
     - [ ] Update Published Versions of References
   - [x] Update AAAI 2024 Papers
     - [x] Update PDFs and References of ⚠️ Papers
@@ -120,9 +120,9 @@ Recent news of this GitHub repo are listed as follows.
     - ***Mind the Time:*** Scaled Spatiotemporal Transformers for Text-to-Video Synthesis [[Paper]](https://arxiv.org/pdf/2402.14797) [[Project]](https://snap-research.github.io/snapvideo/video_ldm.html)
     - ***Animate Anyone:*** Consistent and Controllable Image-to-video Synthesis for Character Animation [[Paper]](https://arxiv.org/pdf/2311.17117.pdf) [[Code]](https://github.com/HumanAIGC/AnimateAnyone) [[Project]](https://humanaigc.github.io/animate-anyone/)
     - ***MotionDirector:*** Motion Customization of Text-to-Video Diffusion Models [[Paper]](https://arxiv.org/pdf/2310.08465) [[Code]](https://github.com/showlab/MotionDirector)
-    - ⚠️ Simple but Effective Text-to-Video Generation with Grid Diffusion Models [Paper]()
-    - ⚠️ Hierarchical Patch-wise Diffusion Models for High-Resolution Video Generation [Paper]()
-    - ⚠️ ***DiffPerformer:*** Iterative Learning of Consistent Latent Guidance for Diffusion-based Human Video Generation [Paper]()
+    - Hierarchical Patch-wise Diffusion Models for High-Resolution Video Generation [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Skorokhodov_Hierarchical_Patch_Diffusion_Models_for_High-Resolution_Video_Generation_CVPR_2024_paper.pdf) [[Project]](https://snap-research.github.io/hpdm/)
+    - ***DiffPerformer:*** Iterative Learning of Consistent Latent Guidance for Diffusion-based Human Video Generation [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_DiffPerformer_Iterative_Learning_of_Consistent_Latent_Guidance_for_Diffusion-based_Human_CVPR_2024_paper.pdf) [[Code]](https://github.com/aipixel/)
+    - Grid Diffusion Models for Text-to-Video Generation [[Paper]](https://arxiv.org/pdf/2404.00234.pdf) [[Code]](https://github.com/taegyeong-lee/Grid-Diffusion-Models-for-Text-to-Video-Generation) [[Video]](https://taegyeong-lee.github.io/text2video)
   - **ICLR**
     - ***VDT:*** General-purpose Video Diffusion Transformers via Mask Modeling [[Paper]](https://arxiv.org/pdf/2305.13311.pdf) [[Code]](https://github.com/RERV/VDT) [[Project]](https://vdt-2023.github.io/)
     - ***VersVideo:*** Leveraging Enhanced Temporal Diffusion Models for Versatile Video Generation [[Paper]](https://openreview.net/pdf?id=K9sVJ17zvB)
@@ -263,7 +263,7 @@ Recent news of this GitHub repo are listed as follows.
     - ***VidToMe:*** Video Token Merging for Zero-Shot Video Editing [[Paper]](https://arxiv.org/pdf/2312.10656) [[Code]](https://github.com/lixirui142/VidToMe) [[Project]](https://vidtome-diffusion.github.io/) [[Video]](https://youtu.be/cZPtwcRepNY)
     - Towards Language-Driven Video Inpainting via Multimodal Large Language Models [[Paper]](https://arxiv.org/pdf/2401.10226.pdf) [[Code]](https://github.com/jianzongwu/Language-Driven-Video-Inpainting) [[Project]](https://jianzongwu.github.io/projects/rovi/) [[Dataset]](https://huggingface.co/datasets/jianzongwu/rovi)
     - ***AVID:*** Any-Length Video Inpainting with Diffusion Model [[Paper]](https://arxiv.org/pdf/2312.03816.pdf) [[Code]](https://zhang-zx.github.io/AVID/) [[Project]](https://zhang-zx.github.io/AVID/)
-    - ⚠️ ***CAMEL:*** CAusal Motion Enhancement tailored for Lifting Text-driven Video Editing [Paper]
+    - ***CAMEL:*** CAusal Motion Enhancement tailored for Lifting Text-driven Video Editing [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_CAMEL_CAusal_Motion_Enhancement_Tailored_for_Lifting_Text-driven_Video_Editing_CVPR_2024_paper.pdf) [[Code]](https://github.com/zhangguiwei610/CAMEL)
   - **ICLR**
     - ***Ground-A-Video:*** Zero-shot Grounded Video Editing using Text-to-image Diffusion Models [[Paper]](https://arxiv.org/pdf/2310.01107) [[Code]](https://github.com/Ground-A-Video/Ground-A-Video) [[Project]](https://ground-a-video.github.io/)
     - ***TokenFlow:*** Consistent Diffusion Features for Consistent Video Editing [[Paper]](https://arxiv.org/pdf/2307.10373) [[Code]](https://github.com/omerbt/TokenFlow) [[Project]](https://diffusion-tokenflow.github.io/)
