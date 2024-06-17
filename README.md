@@ -8,6 +8,7 @@ If you have any suggestions about this repository, please feel free to [start a 
 Recent news of this GitHub repo are listed as follows.
 <details> <summary> 🔥 Click to see more information. </summary>
 
+- [Jun. 17th] All **NeurIPS 2023** papers and references are updated.
 - [Apr. 26th] Update a new direction: [Personalized Video Generation](#personalized-video-generation).
 - [Mar. 28th] The official **AAAI 2024** paper list are released! Official version of PDFs and BibTeX references are updated accordingly.
 </details>
@@ -50,7 +51,7 @@ Recent news of this GitHub repo are listed as follows.
     - [x] Update PDFs and References of ⚠️ Papers
     - [x] Update Published Versions of References
   - [x] Update ICLR 2024 Papers
-  - [ ] Update NeurIPS 2023 Papers
+  - [x] Update NeurIPS 2023 Papers
 - Previously Published Papers
   - [x] Update Previous CVPR papers
   - [ ] Update Previous ICCV papers
@@ -156,6 +157,8 @@ Recent news of this GitHub repo are listed as follows.
     - ***Gen-1:*** Structure and Content-guided Video Synthesis with Diffusion Models [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Esser_Structure_and_Content-Guided_Video_Synthesis_with_Diffusion_Models_ICCV_2023_paper.pdf) [[Project]](https://research.runwayml.com/gen1)
   - **NeurIPS**
     - Video Diffusion Models [[Paper]](https://arxiv.org/pdf/2204.03458.pdf) [[Project]](https://video-diffusion.github.io/)
+    - Learning Universal Policies via Text-Guided Video Generation [[Paper]](https://papers.nips.cc/paper_files/paper/2023/file/1d5b9233ad716a43be5c0d3023cb82d0-Paper-Conference.pdf) [[Project]](https://universal-policy.github.io/unipi/) [[Code]](https://github.com/flow-diffusion/AVDC)
+    - ***VideoComposer:*** Compositional Video Synthesis with Motion Controllability [[Paper]](https://arxiv.org/pdf/2306.02018.pdf) [[Code]](https://github.com/ali-vilab/videocomposer) [[Project]](https://videocomposer.github.io/)
   - **ICLR**
     - ***CogVideo:*** Large-scale Pretraining for Text-to-video Generation via Transformers [[Paper]](https://openreview.net/pdf?id=rB6TpjAuSRy) [[Code]](https://github.com/THUDM/CogVideo) [[Demo]](https://models.aminer.cn/cogvideo/)
     - ***Make-A-Video:*** Text-to-video Generation without Text-video Data [[Paper]](https://arxiv.org/pdf/2209.14792.pdf) [[Project]](https://makeavideo.studio/) [[Reproduced code]](https://github.com/lucidrains/make-a-video-pytorch)
@@ -168,7 +171,6 @@ Recent news of this GitHub repo are listed as follows.
     - ***LAVIE:*** High-quality Video Generation with Cascaded Latent Diffusion Models [[Paper]](https://arxiv.org/pdf/2309.15103.pdf) [[Code]](https://github.com/Vchitect/LaVie) [[Project]](https://vchitect.github.io/LaVie-project/)
     - ***Show-1:*** Marrying Pixel and Latent Diffusion Models for Text-to-video Generation [[Paper]](https://showlab.github.io/Show-1/assets/Show-1.pdf) [[Code]](https://github.com/showlab/Show-1) [[Project]](https://showlab.github.io/Show-1/)
     - ***Stable Video Diffusion:*** Scaling Latent Video Diffusion Models to Large Datasets [[Paper]](https://arxiv.org/pdf/2311.15127.pdf) [[Code]](https://github.com/Stability-AI/generative-models) [[Project]](https://stability.ai/news/stable-video-diffusion-open-ai-video-model)
-    - ***VideoComposer:*** Compositional Video Synthesis with Motion Controllability [[Paper]](https://arxiv.org/pdf/2306.02018.pdf) [[Code]](https://github.com/ali-vilab/videocomposer) [[Project]](https://videocomposer.github.io/)
     - ***VideoFactory:*** Swap Attention in Spatiotemporal Diffusions for Text-to-video Generation [[Paper]](https://arxiv.org/pdf/2305.10874.pdf) [[Dataset]](https://github.com/daooshee/HD-VG-130M)
     - ***VideoGen:*** A Reference-guided Latent Diffusion Approach for High Definition Text-to-video Generation [[Paper]](https://arxiv.org/pdf/2309.00398.pdf) [[Code]](https://videogen.github.io/VideoGen/)
     - ***InstructVideo:*** Instructing Video Diffusion Models with Human Feedback [[Paper]](https://arxiv.org/pdf/2312.12490.pdf) [[Code]](https://github.com/ali-vilab/i2vgen-xl/blob/main/doc/InstructVideo.md) [[Project]](https://arxiv.org/pdf/2312.12490.pdf)
@@ -296,6 +298,7 @@ Generation via Single Still Image [[Paper]](https://www.ecva.net/papers/eccv_202
 - [ICCV 2021] ***WebVid-10M:*** Frozen in Time: A Joint Video and Image Encoder for End-to-End Retrieval [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Bain_Frozen_in_Time_A_Joint_Video_and_Image_Encoder_for_ICCV_2021_paper.pdf) [[Dataset]](https://github.com/m-bain/webvid) [[Project]](https://www.robots.ox.ac.uk/~vgg/research/frozen-in-time/)
 - [ECCV 2022] ***ROS:*** Learning to Drive by Watching YouTube Videos: Action-Conditioned Contrastive Policy Pretraining [[Paper]](https://arxiv.org/pdf/2204.02393.pdf) [[Code]](https://github.com/metadriverse/ACO) [[Dataset]](https://mycuhk-my.sharepoint.com/personal/1155165194_link_cuhk_edu_hk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2F1155165194%5Flink%5Fcuhk%5Fedu%5Fhk%2FDocuments%2Fytb%5Fdriving%5Fvideos&ga=1)
 - [arXiv 2023] ***HD-VG-130M:*** VideoFactory: Swap Attention in Spatiotemporal Diffusions for Text-to-video Generation [[Paper]](https://arxiv.org/pdf/2305.10874.pdf) [[Dataset]](https://github.com/daooshee/HD-VG-130M)
+- [NeurIPS 2023] ***FETV:*** A Benchmark for Fine-Grained Evaluation of Open-Domain Text-to-Video Generation [[Paper]](https://papers.nips.cc/paper_files/paper/2023/file/c481049f7410f38e788f67c171c64ad5-Paper-Datasets_and_Benchmarks.pdf) [[Code]](https://github.com/llyx97/FETV)
 - [ICLR 2024] ***InternVid:*** A Large-scale Video-Text Dataset for Multimodal Understanding and Generation [[Paper]](https://arxiv.org/pdf/2307.06942) [[Dataset]](https://github.com/OpenGVLab/InternVideo/tree/main/Data/InternVid)
 - [CVPR 2024] ***Panda-70M:*** Captioning 70M Videos with Multiple Cross-Modality Teachers [[Paper]](https://arxiv.org/pdf/2402.19479.pdf) [[Dataset]](https://github.com/snap-research/Panda-70M) [[Project]](https://snap-research.github.io/Panda-70M)
 - [arXiv 2024] ***VidProM:*** A Million-scale Real Prompt-Gallery Dataset for Text-to-Video Diffusion Models [[Paper]](https://arxiv.org/pdf/2403.06098.pdf) [[Dataset]](https://github.com/WangWenhao0716/VidProM)
