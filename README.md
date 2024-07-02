@@ -44,6 +44,7 @@ Recent news of this GitHub repo are listed as follows.
 <!-- omit in toc -->
 # To-Do Lists
 - Latest Papers
+  - [ ] Update ECCV 2024 Papers
   - [x] Update CVPR 2024 Papers
     - [x] Update PDFs and References of ⚠️ Papers
     - [ ] Update Published Versions of References
