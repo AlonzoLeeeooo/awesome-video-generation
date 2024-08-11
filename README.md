@@ -281,6 +281,7 @@ Recent news of this GitHub repo are listed as follows.
     - ***UniEdit:*** A Unified Tuning-Free Framework for Video Motion and Appearance Editing [[Paper]](https://arxiv.org/pdf/2402.13185) [[Code]](https://github.com/JianhongBai/UniEdit) [[Project]](https://jianhongbai.github.io/UniEdit/)
     - ***DragAnything:*** Motion Control for Anything using Entity Representation [[Paper]](https://arxiv.org/pdf/2403.07420.pdf) [[Code]](https://github.com/showlab/DragAnything) [[Project]](https://weijiawu.github.io/draganything_page/)
     - ***AnyV2V:*** A Plug-and-Play Framework for Any Video-to-Video Editing Tasks [[Paper]](https://arxiv.org/pdf/2403.14468) [[Code]](https://github.com/TIGER-AI-Lab/AnyV2V) [[Project]](https://tiger-ai-lab.github.io/AnyV2V/)
+    - ***CoCoCo:*** Improving Text-Guided Video Inpainting for Better Consistency, Controllability and Compatibility [[Paper]](https://arxiv.org/pdf/2403.12035) [[Code]](https://github.com/zibojia/COCOCO) [[Project]](https://cococozibojia.github.io/)
 - <span id="editing-year-2023">**Year 2023**</span>
   - **ICCV**
     - ***Pix2Video:*** Video Editing using Image Diffusion [[Paper]](https://arxiv.org/pdf/2303.12688) [[Code]](https://github.com/duyguceylan/pix2video)
