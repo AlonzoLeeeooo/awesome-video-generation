@@ -271,6 +271,7 @@ Recent news of this GitHub repo are listed as follows.
     - ***CAMEL:*** CAusal Motion Enhancement tailored for Lifting Text-driven Video Editing [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_CAMEL_CAusal_Motion_Enhancement_Tailored_for_Lifting_Text-driven_Video_Editing_CVPR_2024_paper.pdf) [[Code]](https://github.com/zhangguiwei610/CAMEL)
   - **ECCV**
     - ***DragVideo:*** Interactive Drag-style Video Editing [[Paper]](https://arxiv.org/pdf/2312.02216)
+    - Video Editing via Factorized Diffusion Distillation [[Paper]](https://arxiv.org/pdf/2403.09334)
   - **ICLR**
     - ***Ground-A-Video:*** Zero-shot Grounded Video Editing using Text-to-image Diffusion Models [[Paper]](https://arxiv.org/pdf/2310.01107) [[Code]](https://github.com/Ground-A-Video/Ground-A-Video) [[Project]](https://ground-a-video.github.io/)
     - ***TokenFlow:*** Consistent Diffusion Features for Consistent Video Editing [[Paper]](https://arxiv.org/pdf/2307.10373) [[Code]](https://github.com/omerbt/TokenFlow) [[Project]](https://diffusion-tokenflow.github.io/)
