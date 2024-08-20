@@ -147,6 +147,7 @@ Recent news of this GitHub repo are listed as follows.
     - ***StoryDiffusion:*** Consistent Self-Attention for Long-Range Image and Video Generation [[Paper]](https://arxiv.org/pdf/2405.01434) [[Code]](https://github.com/HVision-NKU/StoryDiffusion) [[Project]](https://storydiffusion.github.io/) [[Demo]](https://huggingface.co/spaces/YupengZhou/StoryDiffusion)
     - ***Ctrl-Adapter:*** An Efficient and Versatile Framework for Adapting Diverse Controls to Any Diffusion Model [[Paper]](https://arxiv.org/pdf/2404.09967) [[Code]](https://github.com/HL-hanlin/Ctrl-Adapter) [[Project]](https://ctrl-adapter.github.io/)
     - ***ControlNeXt:*** Powerful and Efficient Control for Image and Video Generation [[Paper]](https://arxiv.org/pdf/2408.06070) [[Code]](https://github.com/dvlab-research/ControlNeXt) [[Project]](https://pbihao.github.io/projects/controlnext/index.html)
+    - ***FancyVideo:*** Towards Dynamic and Consistent Video Generation via Cross-frame Textual Guidance [[Paper]](https://arxiv.org/pdf/2408.08189v1) [[Project]](https://fancyvideo.github.io/)
   - **Others**
     - ***Sora:*** Video Generation Models as World Simulators [[Paper]](https://openai.com/research/video-generation-models-as-world-simulators)
 - <span id="text-year-2023">**Year 2023**</span>
