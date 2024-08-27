@@ -149,6 +149,7 @@ Recent news of this GitHub repo are listed as follows.
     - ***ControlNeXt:*** Powerful and Efficient Control for Image and Video Generation [[Paper]](https://arxiv.org/pdf/2408.06070) [[Code]](https://github.com/dvlab-research/ControlNeXt) [[Project]](https://pbihao.github.io/projects/controlnext/index.html)
     - ***FancyVideo:*** Towards Dynamic and Consistent Video Generation via Cross-frame Textual Guidance [[Paper]](https://arxiv.org/pdf/2408.08189v1) [[Project]](https://fancyvideo.github.io/)
     - ***Factorized-Dreamer:*** Training A High-Quality Video Generator with Limited and Low-Quality Data [[Paper]](https://arxiv.org/pdf/2408.10119v1) [[Code]](https://github.com/yangxy/Factorized-Dreamer/)
+    - Fine-gained Zero-shot Video Sampling [[Paper]](https://arxiv.org/pdf/2407.21475) [[Project]](https://densechen.github.io/zss/)
   - **Others**
     - ***Sora:*** Video Generation Models as World Simulators [[Paper]](https://openai.com/research/video-generation-models-as-world-simulators)
 - <span id="text-year-2023">**Year 2023**</span>
