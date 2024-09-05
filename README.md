@@ -213,6 +213,7 @@ Recent news of this GitHub repo are listed as follows.
     - ***Pix2Gif:*** Motion-Guided Diffusion for GIF Generation [[Paper]](https://arxiv.org/pdf/2403.04634) [[Code]](https://hiteshk03.github.io/Pix2Gif/) [[Project]](https://hiteshk03.github.io/Pix2Gif/)
     - ***ID-Animator:*** Zero-Shot Identity-Preserving Human Video Generation [[Paper]](https://arxiv.org/pdf/2404.15275.pdf) [[Code]](https://id-animator.github.io/) [[Project]](https://id-animator.github.io/)
     - Tuning-Free Noise Rectification for High Fidelity Image-to-Video Generation [[Paper]](https://arxiv.org/pdf/2403.02827) [[Project]](https://noise-rectification.github.io/)
+    - ***MegActor-Σ:*** Unlocking Flexible Mixed-Modal Control in Portrait Animation with Diffusion Transformer [[Paper]](https://arxiv.org/abs/2408.14975) [[Code]](https://github.com/megvii-research/megactor)
 
 - <span id="image-year-2023">**Year 2023**</span>
   - **CVPR**
