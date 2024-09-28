@@ -277,6 +277,7 @@ Recent news of this GitHub repo are listed as follows.
     - Towards Language-Driven Video Inpainting via Multimodal Large Language Models [[Paper]](https://arxiv.org/pdf/2401.10226.pdf) [[Code]](https://github.com/jianzongwu/Language-Driven-Video-Inpainting) [[Project]](https://jianzongwu.github.io/projects/rovi/) [[Dataset]](https://huggingface.co/datasets/jianzongwu/rovi)
     - ***AVID:*** Any-Length Video Inpainting with Diffusion Model [[Paper]](https://arxiv.org/pdf/2312.03816.pdf) [[Code]](https://zhang-zx.github.io/AVID/) [[Project]](https://zhang-zx.github.io/AVID/)
     - ***CAMEL:*** CAusal Motion Enhancement tailored for Lifting Text-driven Video Editing [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_CAMEL_CAusal_Motion_Enhancement_Tailored_for_Lifting_Text-driven_Video_Editing_CVPR_2024_paper.pdf) [[Code]](https://github.com/zhangguiwei610/CAMEL)
+    - Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Yatim_Space-Time_Diffusion_Features_for_Zero-Shot_Text-Driven_Motion_Transfer_CVPR_2024_paper.pdf) [[Code]](https://github.com/diffusion-motion-transfer/diffusion-motion-transfer) [[Project]](https://diffusion-motion-transfer.github.io/)
   - **ECCV**
     - ***DragVideo:*** Interactive Drag-style Video Editing [[Paper]](https://arxiv.org/pdf/2312.02216)
     - Video Editing via Factorized Diffusion Distillation [[Paper]](https://arxiv.org/pdf/2403.09334)
