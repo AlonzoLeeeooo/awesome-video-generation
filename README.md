@@ -285,6 +285,7 @@ Recent news of this GitHub repo are listed as follows.
     - ***Ground-A-Video:*** Zero-shot Grounded Video Editing using Text-to-image Diffusion Models [[Paper]](https://arxiv.org/pdf/2310.01107) [[Code]](https://github.com/Ground-A-Video/Ground-A-Video) [[Project]](https://ground-a-video.github.io/)
     - ***TokenFlow:*** Consistent Diffusion Features for Consistent Video Editing [[Paper]](https://arxiv.org/pdf/2307.10373) [[Code]](https://github.com/omerbt/TokenFlow) [[Project]](https://diffusion-tokenflow.github.io/)
     - Consistent Video-to-Video Transfer Using Synthetic Dataset [[Paper]](https://openreview.net/pdf?id=IoKRezZMxF) [[Code]](https://github.com/amazon-science/instruct-video-to-video/tree/main)
+    - ***FLATTEN:*** Optical FLow-guided ATTENtion for Consistent Text-to-Video Editing [[Paper]](https://openreview.net/pdf?id=JgqftqZQZ7) [[Code]](https://github.com/yrcong/flatten) [[Project]](https://flatten-video-editing.github.io/)
   - **arXiv**
     - Spectral Motion Alignment for Video Motion Transfer using Diffusion Models [[Paper]](https://arxiv.org/abs/2403.15249) [[Code]](https://github.com/geonyeong-park/Spectral-Motion-Alignment) [[Project]](https://geonyeong-park.github.io/spectral-motion-alignment/)
     - ***DreamMotion:*** Space-Time Self-Similarity Score Distillation for Zero-Shot Video Editing [[Paper]](https://arxiv.org/pdf/2403.12002) [[Project]](https://hyeonho99.github.io/dreammotion/)
@@ -292,20 +293,28 @@ Recent news of this GitHub repo are listed as follows.
     - ***DragAnything:*** Motion Control for Anything using Entity Representation [[Paper]](https://arxiv.org/pdf/2403.07420.pdf) [[Code]](https://github.com/showlab/DragAnything) [[Project]](https://weijiawu.github.io/draganything_page/)
     - ***AnyV2V:*** A Plug-and-Play Framework for Any Video-to-Video Editing Tasks [[Paper]](https://arxiv.org/pdf/2403.14468) [[Code]](https://github.com/TIGER-AI-Lab/AnyV2V) [[Project]](https://tiger-ai-lab.github.io/AnyV2V/)
     - ***CoCoCo:*** Improving Text-Guided Video Inpainting for Better Consistency, Controllability and Compatibility [[Paper]](https://arxiv.org/pdf/2403.12035) [[Code]](https://github.com/zibojia/COCOCO) [[Project]](https://cococozibojia.github.io/)
+    - ***VASE:*** Object-Centric Appearance and Shape Manipulation of Real Videos [[Paper]](https://arxiv.org/pdf/2401.02473)
 - <span id="editing-year-2023">**Year 2023**</span>
+  - **CVPR**
+    - Shape-aware Text-driven Layered Video Editing [[Paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136750705.pdf) [[Code]](https://github.com/text-video-edit/shape-aware-text-driven-layered-video-editing-release) [[Project]](https://text-video-edit.github.io/)
   - **ICCV**
     - ***Pix2Video:*** Video Editing using Image Diffusion [[Paper]](https://arxiv.org/pdf/2303.12688) [[Code]](https://github.com/duyguceylan/pix2video)
+    - ***Tune-A-Video:*** One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_Tune-A-Video_One-Shot_Tuning_of_Image_Diffusion_Models_for_Text-to-Video_Generation_ICCV_2023_paper.pdf) [[Code]](https://github.com/showlab/Tune-A-Video) [[Project]](https://tuneavideo.github.io/)
   - **NeurIPS**
     - Towards Consistent Video Editing with Text-to-Image Diffusion Models [[Paper]](https://openreview.net/pdf?id=RNVwm4BzXO)
   - **arXiv**
     - ***Style-A-Video:*** Agile Diffusion for Arbitrary Text-based Video Style Transfer [[Paper]](https://arxiv.org/pdf/2305.05464.pdf)
     - ***SAVE:*** Spectral-Shift-Aware Adaptation of Image Diffusion Models for Text-guided Video Editing [[Paper]](https://arxiv.org/pdf/2305.18670) [[Code]](https://github.com/nazmul-karim170/SAVE-Text2Video-Diffusion) [[Project]](https://save-textguidedvideoediting.github.io/)
+- <span id="editing-year-2022">**Year 2022**</span>
+  - **ECCV**
+    - ***Text2LIVE:*** Text-Driven Layered Image and Video Editing [[Paper]](https://arxiv.org/pdf/2204.02491) [[Code]](https://github.com/omerbt/Text2LIVE) [[Project]](https://text2live.github.io/)
 
 [<u><small><🎯Back to Top></small></u>](#contents)
 
 <!-- omit in toc -->
 # Datasets
 - [arXiv 2012] ***UCF101:*** A Dataset of 101 Human Actions Classes From Videos in The Wild [[Paper]](https://arxiv.org/pdf/1212.0402.pdf) [[Dataset]](https://www.crcv.ucf.edu/data/UCF101.php)
+- [arXiv 2017] ***DAVIS:*** The 2017 DAVIS Challenge on Video Object Segmentation [[Paper]](https://arxiv.org/pdf/1704.00675.pdf) [[Dataset]](https://davischallenge.org/)
 - [ICCV 2019] ***FaceForensics++:*** Learning to Detect Manipulated Facial Images [[Paper]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Rossler_FaceForensics_Learning_to_Detect_Manipulated_Facial_Images_ICCV_2019_paper.pdf) [[Code]](https://github.com/ondyari/FaceForensics)
 - [NeurIPS 2019] ***TaiChi-HD:*** First Order Motion Model for Image Animation [[Paper]](https://papers.nips.cc/paper_files/paper/2019/file/31c0b36aef265d9221af80872ceb62f9-Paper.pdf) [[Dataset]](https://github.com/AliaksandrSiarohin/first-order-model)
 - [ECCV 2020] ***SkyTimeLapse:*** DTVNet: Dynamic Time-lapse Video
@@ -320,6 +329,11 @@ Generation via Single Still Image [[Paper]](https://www.ecva.net/papers/eccv_202
 - [arXiv 2024] ***VidProM:*** A Million-scale Real Prompt-Gallery Dataset for Text-to-Video Diffusion Models [[Paper]](https://arxiv.org/pdf/2403.06098.pdf) [[Dataset]](https://github.com/WangWenhao0716/VidProM)
 
 [<u><small><🎯Back to Top></small></u>](#contents)
+
+<!-- omit in toc -->
+# Evaluation Metrics
+- [ICCV 2023] **DOVER:** Exploring Video Quality Assessment on User Generated Contents from Aesthetic and Technical Perspectives [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_Exploring_Video_Quality_Assessment_on_User_Generated_Contents_from_Aesthetic_ICCV_2023_paper.pdf) [[Code]](https://github.com/VQAssessment/DOVER)
+- [ICLR 2019] ***FVD:*** A New Metric for Video Generation [[Paper]](https://openreview.net/pdf?id=rylgEULtdN) [[Code]](https://github.com/google-research/google-research/blob/master/frechet_video_distance/frechet_video_distance.py)
 
 <!-- omit in toc -->
 # Q&A
