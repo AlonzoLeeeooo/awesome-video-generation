@@ -204,6 +204,7 @@ Recent news of this GitHub repo are listed as follows.
     - ***VideoBooth:*** Diffusion-based Video Generation with Image Prompts [[Paper]](https://arxiv.org/pdf/2312.00777) [[Code]](https://github.com/Vchitect/VideoBooth) [[Project]](https://vchitect.github.io/VideoBooth-project/) [[Video]](https://www.youtube.com/watch?v=10DxH1JETzI)
   - **ECCV**
     - Rethinking Image-to-Video Adaptation: An Object-centric Perspective [[Paper]](http://arxiv.org/pdf/2407.06871v1)
+    - ***PhysGen:*** Rigid-Body Physics-Grounded Image-to-Video Generation [[Paper]](https://arxiv.org/pdf/2409.18964) [[Code]](https://github.com/stevenlsw/physgen) [[Project]](https://stevenlsw.github.io/physgen/)
   - **AAAI**
     - Decouple Content and Motion for Conditional Image-to-Video Generation [[Paper]](https://arxiv.org/pdf/2311.14294)
   - **arXiv**
