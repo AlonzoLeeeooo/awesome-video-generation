@@ -259,6 +259,7 @@ Recent news of this GitHub repo are listed as follows.
   - **arXiv**
     - ***FastComposer:*** Tuning-Free Multi-Subject Image Generation with Localized Attention [[Paper]](https://arxiv.org/pdf/2305.10431) [[Code]](https://github.com/mit-han-lab/fastcomposer?tab=readme-ov-file) [[Demo]](https://fastcomposer.hanlab.ai/)
     - ***Make-Your-Video:*** Customized Video Generation Using Textual and Structural Guidance [[Paper]](https://arxiv.org/pdf/2306.00943) [[Project]](https://doubiiu.github.io/projects/Make-Your-Video/)
+    - ***DreamVideo-2:*** Zero-Shot Subject-Driven Video Customization with Precise Motion Control [[Paper]](https://arxiv.org/pdf/2410.13830) [[Project]](https://dreamvideo2.github.io/)
 
 [<u><small><🎯Back to Top></small></u>](#contents)
 
