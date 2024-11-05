@@ -44,7 +44,7 @@ Recent news of this GitHub repo are listed as follows.
 <!-- omit in toc -->
 # To-Do Lists
 - Latest Papers
-  - [ ] Update ECCV 2024 Papers
+  - [x] Update ECCV 2024 Papers
   - [x] Update CVPR 2024 Papers
     - [x] Update PDFs and References of ⚠️ Papers
     - [ ] Update Published Versions of References
@@ -125,6 +125,16 @@ Recent news of this GitHub repo are listed as follows.
     - Hierarchical Patch-wise Diffusion Models for High-Resolution Video Generation [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Skorokhodov_Hierarchical_Patch_Diffusion_Models_for_High-Resolution_Video_Generation_CVPR_2024_paper.pdf) [[Project]](https://snap-research.github.io/hpdm/)
     - ***DiffPerformer:*** Iterative Learning of Consistent Latent Guidance for Diffusion-based Human Video Generation [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_DiffPerformer_Iterative_Learning_of_Consistent_Latent_Guidance_for_Diffusion-based_Human_CVPR_2024_paper.pdf) [[Code]](https://github.com/aipixel/)
     - Grid Diffusion Models for Text-to-Video Generation [[Paper]](https://arxiv.org/pdf/2404.00234.pdf) [[Code]](https://github.com/taegyeong-lee/Grid-Diffusion-Models-for-Text-to-Video-Generation) [[Video]](https://taegyeong-lee.github.io/text2video)
+  - **ECCV**
+    - ***Emu Video:*** Factorizing Text-to-Video Generation by Explicit Image Conditioning [[Paper]](https://arxiv.org/pdf/2311.10709.pdf) [[Project]](https://ai.meta.com/blog/emu-text-to-video-generation-image-editing-research/)
+    - ***W.A.L.T.:*** Photorealistic Video Generation with Diffusion Models [[Paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/10270.pdf) [[Project]](https://walt-video-diffusion.github.io/)
+    - ***MoVideo:*** Motion-Aware Video Generation with Diffusion Models [[Paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06030.pdf)
+    - ***DrivingDiffusion:*** Layout-Guided Multi-View Driving Scenarios Video Generation with Latent Diffusion Model [[Paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/10097.pdf) [[Code]](https://github.com/shalfun/DrivingDiffusion) [[Project]](https://drivingdiffusion.github.io/)
+    - ***MagDiff:*** Multi-Alignment Diffusion for High-Fidelity Video Generation and Editing [[Paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02738.pdf)
+    - ***HARIVO:*** Harnessing Text-to-Image Models for Video Generation [[Paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06938.pdf) [[Project]](https://kwonminki.github.io/HARIVO/)
+    - ***MEVG:*** Multi-event Video Generation with Text-to-Video Models [[Paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06012.pdf) [[Project]](https://kuai-lab.github.io/eccv2024mevg/)
+    - ***DeCo:*** Decoupled Human-Centered Diffusion Video Editing with Motion Consistency [[Paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06071.pdf)
+    - SAVE: Protagonist Diversification with Structure Agnostic Video Editing
   - **ICLR**
     - ***VDT:*** General-purpose Video Diffusion Transformers via Mask Modeling [[Paper]](https://arxiv.org/pdf/2305.13311.pdf) [[Code]](https://github.com/RERV/VDT) [[Project]](https://vdt-2023.github.io/)
     - ***VersVideo:*** Leveraging Enhanced Temporal Diffusion Models for Versatile Video Generation [[Paper]](https://openreview.net/pdf?id=K9sVJ17zvB)
@@ -182,7 +192,6 @@ Recent news of this GitHub repo are listed as follows.
     - ***VideoFactory:*** Swap Attention in Spatiotemporal Diffusions for Text-to-video Generation [[Paper]](https://arxiv.org/pdf/2305.10874.pdf) [[Dataset]](https://github.com/daooshee/HD-VG-130M)
     - ***VideoGen:*** A Reference-guided Latent Diffusion Approach for High Definition Text-to-video Generation [[Paper]](https://arxiv.org/pdf/2309.00398.pdf) [[Code]](https://videogen.github.io/VideoGen/)
     - ***InstructVideo:*** Instructing Video Diffusion Models with Human Feedback [[Paper]](https://arxiv.org/pdf/2312.12490.pdf) [[Code]](https://github.com/ali-vilab/i2vgen-xl/blob/main/doc/InstructVideo.md) [[Project]](https://arxiv.org/pdf/2312.12490.pdf)
-    - ***Emu Video:*** Factorizing Text-to-Video Generation by Explicit Image Conditioning [[Paper]](https://arxiv.org/pdf/2311.10709.pdf) [[Project]](https://ai.meta.com/blog/emu-text-to-video-generation-image-editing-research/)
     - ***SEINE:*** Short-to-Long Video Diffusion Model for Generative Transition and Prediction [[Paper]](https://arxiv.org/pdf/2310.20700.pdf) [[Code]](https://github.com/Vchitect/SEINE) [[Project]](https://vchitect.github.io/SEINE-project/)
     - ***VideoLCM:*** Video Latent Consistency Model [[Paper]](https://arxiv.org/pdf/2312.09109.pdf)
     - ModelScope Text-to-Video Technical Report [[Paper]](https://arxiv.org/pdf/2308.06571.pdf) [[Code]](https://github.com/ExponentialML/Text-To-Video-Finetuning)
@@ -252,6 +261,8 @@ Recent news of this GitHub repo are listed as follows.
 - <span id="personalized-year-2024">**Year 2024**</span>
   - **CVPR**
     - High-fidelity Person-centric Subject-to-Image Synthesis [[Paper]](https://arxiv.org/pdf/2311.10329) [[Code]](https://github.com/CodeGoat24/Face-diffuser)
+  - **ECCV**
+    - ***PoseCrafter:*** One-Shot Personalized Video Synthesis Following Flexible Pose Control [[Paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06050.pdf) [[Project]](https://ml-gsai.github.io/PoseCrafter-demo/)
   - **arXiv**
     - ***Magic-Me:*** Identity-Specific Video Customized Diffusion [[Paper]](https://arxiv.org/pdf/2402.09368) [[Code]](https://github.com/Zhen-Dong/Magic-Me) [[Project]](https://magic-me-webpage.github.io/) [[Demo]](https://huggingface.co/spaces/visionMaze/Magic-Me)
     - ***ReVideo:*** Remake a Video with Motion and Content Control [[Paper]](https://arxiv.org/pdf/2405.13865) [[Code]](https://github.com/MC-E/ReVideo) [[Project]](https://mc-e.github.io/project/ReVideo/)
@@ -283,6 +294,10 @@ Recent news of this GitHub repo are listed as follows.
   - **ECCV**
     - ***DragVideo:*** Interactive Drag-style Video Editing [[Paper]](https://arxiv.org/pdf/2312.02216)
     - Video Editing via Factorized Diffusion Distillation [[Paper]](https://arxiv.org/pdf/2403.09334)
+    - ***OCD:*** Object-Centric Diffusion for Efficient Video Editing [[Paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07396.pdf) [[Project]](https://qualcomm-ai-research.github.io/object-centric-diffusion/)
+    - ***DreamMotion:*** Space-Time Self-Similarity Score Distillation for Zero-Shot Video Editing [[Paper]](https://arxiv.org/pdf/2403.12002) [[Project]](https://hyeonho99.github.io/dreammotion/)
+    - ***WAVE:*** Warping DDIM Inversion Features for Zero-shot Text-to-Video Editing [[Paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/09682.pdf) [[Project]](https://ree1s.github.io/wave/)
+    - ***Videoshop:*** Localized Semantic Video Editing with Noise-Extrapolated Diffusion Inversion [[Paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/01890.pdf) [[Code]](https://github.com/sfanxiang/videoshop) [[Project]](https://videoshop-editing.github.io/)
   - **ICLR**
     - ***Ground-A-Video:*** Zero-shot Grounded Video Editing using Text-to-image Diffusion Models [[Paper]](https://arxiv.org/pdf/2310.01107) [[Code]](https://github.com/Ground-A-Video/Ground-A-Video) [[Project]](https://ground-a-video.github.io/)
     - ***TokenFlow:*** Consistent Diffusion Features for Consistent Video Editing [[Paper]](https://arxiv.org/pdf/2307.10373) [[Code]](https://github.com/omerbt/TokenFlow) [[Project]](https://diffusion-tokenflow.github.io/)
@@ -290,7 +305,6 @@ Recent news of this GitHub repo are listed as follows.
     - ***FLATTEN:*** Optical FLow-guided ATTENtion for Consistent Text-to-Video Editing [[Paper]](https://openreview.net/pdf?id=JgqftqZQZ7) [[Code]](https://github.com/yrcong/flatten) [[Project]](https://flatten-video-editing.github.io/)
   - **arXiv**
     - Spectral Motion Alignment for Video Motion Transfer using Diffusion Models [[Paper]](https://arxiv.org/abs/2403.15249) [[Code]](https://github.com/geonyeong-park/Spectral-Motion-Alignment) [[Project]](https://geonyeong-park.github.io/spectral-motion-alignment/)
-    - ***DreamMotion:*** Space-Time Self-Similarity Score Distillation for Zero-Shot Video Editing [[Paper]](https://arxiv.org/pdf/2403.12002) [[Project]](https://hyeonho99.github.io/dreammotion/)
     - ***UniEdit:*** A Unified Tuning-Free Framework for Video Motion and Appearance Editing [[Paper]](https://arxiv.org/pdf/2402.13185) [[Code]](https://github.com/JianhongBai/UniEdit) [[Project]](https://jianhongbai.github.io/UniEdit/)
     - ***DragAnything:*** Motion Control for Anything using Entity Representation [[Paper]](https://arxiv.org/pdf/2403.07420.pdf) [[Code]](https://github.com/showlab/DragAnything) [[Project]](https://weijiawu.github.io/draganything_page/)
     - ***AnyV2V:*** A Plug-and-Play Framework for Any Video-to-Video Editing Tasks [[Paper]](https://arxiv.org/pdf/2403.14468) [[Code]](https://github.com/TIGER-AI-Lab/AnyV2V) [[Project]](https://tiger-ai-lab.github.io/AnyV2V/)
