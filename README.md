@@ -55,12 +55,12 @@ Recent news of this GitHub repo are listed as follows.
   - [x] Update NeurIPS 2023 Papers
 - Previously Published Papers
   - [x] Update Previous CVPR papers
-  - [ ] Update Previous ICCV papers
-  - [ ] Update Previous ECCV papers
-  - [ ] Update Previous NeurIPS papers
-  - [ ] Update Previous ICLR papers
-  - [ ] Update Previous AAAI papers
-  - [ ] Update Previous ACM MM papers
+  - [x] Update Previous ICCV papers
+  - [x] Update Previous ECCV papers
+  - [x] Update Previous NeurIPS papers
+  - [x] Update Previous ICLR papers
+  - [x] Update Previous AAAI papers
+  - [x] Update Previous ACM MM papers
 - Regular Maintenance of Preprint arXiv Papers and Missed Papers
 
 [<u><small><🎯Back to Top></small></u>](#contents)
