@@ -348,6 +348,7 @@ Generation via Single Still Image [[Paper]](https://www.ecva.net/papers/eccv_202
 
 <!-- omit in toc -->
 # Evaluation Metrics
+- [CVPR 2024] **VBench:** Comprehensive Benchmark Suite for Video Generative Models [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Huang_VBench_Comprehensive_Benchmark_Suite_for_Video_Generative_Models_CVPR_2024_paper.pdf) [[Code]](https://github.com/Vchitect/VBench)
 - [ICCV 2023] **DOVER:** Exploring Video Quality Assessment on User Generated Contents from Aesthetic and Technical Perspectives [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_Exploring_Video_Quality_Assessment_on_User_Generated_Contents_from_Aesthetic_ICCV_2023_paper.pdf) [[Code]](https://github.com/VQAssessment/DOVER)
 - [ICLR 2019] ***FVD:*** A New Metric for Video Generation [[Paper]](https://openreview.net/pdf?id=rylgEULtdN) [[Code]](https://github.com/google-research/google-research/blob/master/frechet_video_distance/frechet_video_distance.py)
 
