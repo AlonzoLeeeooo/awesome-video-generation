@@ -312,6 +312,7 @@ Recent news of this GitHub repo are listed as follows.
     - ***AnyV2V:*** A Plug-and-Play Framework for Any Video-to-Video Editing Tasks [[Paper]](https://arxiv.org/pdf/2403.14468) [[Code]](https://github.com/TIGER-AI-Lab/AnyV2V) [[Project]](https://tiger-ai-lab.github.io/AnyV2V/)
     - ***CoCoCo:*** Improving Text-Guided Video Inpainting for Better Consistency, Controllability and Compatibility [[Paper]](https://arxiv.org/pdf/2403.12035) [[Code]](https://github.com/zibojia/COCOCO) [[Project]](https://cococozibojia.github.io/)
     - ***VASE:*** Object-Centric Appearance and Shape Manipulation of Real Videos [[Paper]](https://arxiv.org/pdf/2401.02473)
+    - ***StableV2V:*** Stablizing Shape Consistency in Video-to-Video Editing [[Paper]](https://arxiv.org/pdf/2411.11045) [[Code]](https://github.com/AlonzoLeeeooo/StableV2V) [[Project]](https://alonzoleeeooo.github.io/StableV2V) [[Dataset]](https://huggingface.co/datasets/AlonzoLeeeooo/DAVIS-Edit)
 - <span id="editing-year-2023">**Year 2023**</span>
   - **CVPR**
     - Shape-aware Text-driven Layered Video Editing [[Paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136750705.pdf) [[Code]](https://github.com/text-video-edit/shape-aware-text-driven-layered-video-editing-release) [[Project]](https://text-video-edit.github.io/)
