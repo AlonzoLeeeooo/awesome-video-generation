@@ -198,6 +198,7 @@ Recent news of this GitHub repo are listed as follows.
     - ***VideoLCM:*** Video Latent Consistency Model [[Paper]](https://arxiv.org/pdf/2312.09109.pdf)
     - ModelScope Text-to-Video Technical Report [[Paper]](https://arxiv.org/pdf/2308.06571.pdf) [[Code]](https://github.com/ExponentialML/Text-To-Video-Finetuning)
     - ***LAMP:*** Learn A Motion Pattern for Few-Shot-Based Video Generation [[Paper]](https://arxiv.org/pdf/2310.10769) [[Code]](https://rq-wu.github.io/projects/LAMP) [[Project]](https://rq-wu.github.io/projects/LAMP)
+    - ***STG:*** Spatiotemporal Skip Guidance for Enhanced Video Diffusion Sampling [[Paper]](https://arxiv.org/pdf/2411.18664) [[Code]](https://github.com/junhahyung/STGuidance) [[Project]](https://junhahyung.github.io/STGuidance/)
 - <span id="text-year-2022">**Year 2022**</span>
   - **CVPR**    
     - ***Show Me What and Tell Me How:*** Video Synthesis via Multimodal Conditioning [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Han_Show_Me_What_and_Tell_Me_How_Video_Synthesis_via_CVPR_2022_paper.pdf) [[Code]](https://github.com/snap-research/MMVID) [[Dataset]](https://github.com/snap-research/MMVID/blob/main/mm_vox_celeb/README.md)
