@@ -295,6 +295,7 @@ Recent news of this GitHub repo are listed as follows.
     - ***AVID:*** Any-Length Video Inpainting with Diffusion Model [[Paper]](https://arxiv.org/pdf/2312.03816.pdf) [[Code]](https://zhang-zx.github.io/AVID/) [[Project]](https://zhang-zx.github.io/AVID/)
     - ***CAMEL:*** CAusal Motion Enhancement tailored for Lifting Text-driven Video Editing [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_CAMEL_CAusal_Motion_Enhancement_Tailored_for_Lifting_Text-driven_Video_Editing_CVPR_2024_paper.pdf) [[Code]](https://github.com/zhangguiwei610/CAMEL)
     - Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Yatim_Space-Time_Diffusion_Features_for_Zero-Shot_Text-Driven_Motion_Transfer_CVPR_2024_paper.pdf) [[Code]](https://github.com/diffusion-motion-transfer/diffusion-motion-transfer) [[Project]](https://diffusion-motion-transfer.github.io/)
+    - Spatial-Temporal Correspondence for Zero-Shot Video Translation [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_FRESCO_Spatial-Temporal_Correspondence_for_Zero-Shot_Video_Translation_CVPR_2024_paper.pdf) [[Code]](https://github.com/williamyang1991/FRESCO) [[Project]](https://www.mmlab-ntu.com/project/fresco/)
   - **ECCV**
     - ***DragVideo:*** Interactive Drag-style Video Editing [[Paper]](https://arxiv.org/pdf/2312.02216)
     - Video Editing via Factorized Diffusion Distillation [[Paper]](https://arxiv.org/pdf/2403.09334)
@@ -323,6 +324,8 @@ Recent news of this GitHub repo are listed as follows.
     - ***Tune-A-Video:*** One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_Tune-A-Video_One-Shot_Tuning_of_Image_Diffusion_Models_for_Text-to-Video_Generation_ICCV_2023_paper.pdf) [[Code]](https://github.com/showlab/Tune-A-Video) [[Project]](https://tuneavideo.github.io/)
   - **NeurIPS**
     - Towards Consistent Video Editing with Text-to-Image Diffusion Models [[Paper]](https://openreview.net/pdf?id=RNVwm4BzXO)
+  - **SIGGRAPH**
+    - ***Rerender A Video:*** Zero-Shot Text-Guided Video-to-Video Translation [[Paper]](https://arxiv.org/pdf/2306.07954) [[Code]](https://github.com/williamyang1991/Rerender_A_Video) [[Project]](https://www.mmlab-ntu.com/project/rerender/)
   - **arXiv**
     - ***Style-A-Video:*** Agile Diffusion for Arbitrary Text-based Video Style Transfer [[Paper]](https://arxiv.org/pdf/2305.05464.pdf)
     - ***SAVE:*** Spectral-Shift-Aware Adaptation of Image Diffusion Models for Text-guided Video Editing [[Paper]](https://arxiv.org/pdf/2305.18670) [[Code]](https://github.com/nazmul-karim170/SAVE-Text2Video-Diffusion) [[Project]](https://save-textguidedvideoediting.github.io/)
