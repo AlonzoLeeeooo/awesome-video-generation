@@ -166,6 +166,7 @@ Recent news of this GitHub repo are listed as follows.
     - Training-free Long Video Generation with Chain of Diffusion Model Experts [[Paper]](https://www.arxiv.org/pdf/2408.13423)
     - ***ReconX:*** Reconstruct Any Scene from Sparse Views with Video Diffusion Model [[Paper]](https://arxiv.org/pdf/2408.16767) [[Code]](https://github.com/liuff19/ReconX) [[Project]](https://liuff19.github.io/ReconX/) [[Video]](https://www.youtube.com/watch?v=UuL2nP5rJcI)
     - ConFiner: Training-free Long Video Generation with Chain of Diffusion Model Experts [[Paper]](https://arxiv.org/pdf/2408.13423) [[Code]](https://github.com/Confiner2025/Confiner2025)
+    - ***3DTrajMaster:*** Mastering 3D Trajectory for Multi-Entity Motion in Video Generation [[Paper]](https://arxiv.org/pdf/2412.07759) [[Code]](https://github.com/KwaiVGI/3DTrajMaster) [[Project]](https://fuxiao0719.github.io/projects/3dtrajmaster/)
   - **Others**
     - ***Sora:*** Video Generation Models as World Simulators [[Paper]](https://openai.com/research/video-generation-models-as-world-simulators)
 - <span id="text-year-2023">**Year 2023**</span>
@@ -308,6 +309,8 @@ Recent news of this GitHub repo are listed as follows.
     - ***TokenFlow:*** Consistent Diffusion Features for Consistent Video Editing [[Paper]](https://arxiv.org/pdf/2307.10373) [[Code]](https://github.com/omerbt/TokenFlow) [[Project]](https://diffusion-tokenflow.github.io/)
     - Consistent Video-to-Video Transfer Using Synthetic Dataset [[Paper]](https://openreview.net/pdf?id=IoKRezZMxF) [[Code]](https://github.com/amazon-science/instruct-video-to-video/tree/main)
     - ***FLATTEN:*** Optical FLow-guided ATTENtion for Consistent Text-to-Video Editing [[Paper]](https://openreview.net/pdf?id=JgqftqZQZ7) [[Code]](https://github.com/yrcong/flatten) [[Project]](https://flatten-video-editing.github.io/)
+  - **SIGGRAPH**
+    - ***MotionCtrl:*** A Unified and Flexible Motion Controller for Video Generation [[Paper]](https://arxiv.org/pdf/2312.03641.pdf) [[Code]](https://github.com/TencentARC/MotionCtrl) [[Project]](https://wzhouxiff.github.io/projects/MotionCtrl/) [[Demo]](https://huggingface.co/spaces/TencentARC/MotionCtrl)
   - **arXiv**
     - Spectral Motion Alignment for Video Motion Transfer using Diffusion Models [[Paper]](https://arxiv.org/abs/2403.15249) [[Code]](https://github.com/geonyeong-park/Spectral-Motion-Alignment) [[Project]](https://geonyeong-park.github.io/spectral-motion-alignment/)
     - ***UniEdit:*** A Unified Tuning-Free Framework for Video Motion and Appearance Editing [[Paper]](https://arxiv.org/pdf/2402.13185) [[Code]](https://github.com/JianhongBai/UniEdit) [[Project]](https://jianhongbai.github.io/UniEdit/)
