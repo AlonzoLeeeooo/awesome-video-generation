@@ -231,6 +231,7 @@ Recent news of this GitHub repo are listed as follows.
     - ***ID-Animator:*** Zero-Shot Identity-Preserving Human Video Generation [[Paper]](https://arxiv.org/pdf/2404.15275.pdf) [[Code]](https://id-animator.github.io/) [[Project]](https://id-animator.github.io/)
     - Tuning-Free Noise Rectification for High Fidelity Image-to-Video Generation [[Paper]](https://arxiv.org/pdf/2403.02827) [[Project]](https://noise-rectification.github.io/)
     - ***MegActor-Σ:*** Unlocking Flexible Mixed-Modal Control in Portrait Animation with Diffusion Transformer [[Paper]](https://arxiv.org/abs/2408.14975) [[Code]](https://github.com/megvii-research/megactor)
+    - ***LeviTor:*** 3D Trajectory Oriented Image-to-Video Synthesis [[Paper]](https://arxiv.org/pdf/2412.15214) [[Code]](https://github.com/qiuyu96/LeviTor) [[Project]](https://ppetrichor.github.io/levitor.github.io/) [[Demo]](https://huggingface.co/hlwang06/LeviTor/tree/main)
 
 - <span id="image-year-2023">**Year 2023**</span>
   - **CVPR**
