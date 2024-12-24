@@ -220,6 +220,7 @@ Recent news of this GitHub repo are listed as follows.
   - **ECCV**
     - Rethinking Image-to-Video Adaptation: An Object-centric Perspective [[Paper]](http://arxiv.org/pdf/2407.06871v1)
     - ***PhysGen:*** Rigid-Body Physics-Grounded Image-to-Video Generation [[Paper]](https://arxiv.org/pdf/2409.18964) [[Code]](https://github.com/stevenlsw/physgen) [[Project]](https://stevenlsw.github.io/physgen/)
+    - ***MOFA-Video:*** Controllable Image Animation via Generative Motion Field Adaptions in Frozen Image-to-Video Diffusion Model [[Paper]](https://arxiv.org/pdf/2405.20222) [[Code]](https://github.com/MyNiuuu/MOFA-Video) [[Project]](https://myniuuu.github.io/MOFA_Video/)
   - **AAAI**
     - Decouple Content and Motion for Conditional Image-to-Video Generation [[Paper]](https://arxiv.org/pdf/2311.14294)
   - **arXiv**
