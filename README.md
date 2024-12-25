@@ -167,6 +167,7 @@ Recent news of this GitHub repo are listed as follows.
     - ***ReconX:*** Reconstruct Any Scene from Sparse Views with Video Diffusion Model [[Paper]](https://arxiv.org/pdf/2408.16767) [[Code]](https://github.com/liuff19/ReconX) [[Project]](https://liuff19.github.io/ReconX/) [[Video]](https://www.youtube.com/watch?v=UuL2nP5rJcI)
     - ConFiner: Training-free Long Video Generation with Chain of Diffusion Model Experts [[Paper]](https://arxiv.org/pdf/2408.13423) [[Code]](https://github.com/Confiner2025/Confiner2025)
     - ***3DTrajMaster:*** Mastering 3D Trajectory for Multi-Entity Motion in Video Generation [[Paper]](https://arxiv.org/pdf/2412.07759) [[Code]](https://github.com/KwaiVGI/3DTrajMaster) [[Project]](https://fuxiao0719.github.io/projects/3dtrajmaster/)
+    - ***DiTCtrl:*** Exploring Attention Control in Multi-Modal Diffusion Transformer for Tuning-Free Multi-Prompt Longer Video Generation [[Paper]](https://arxiv.org/pdf/2412.18597) [[Code]](https://github.com/TencentARC/DiTCtrl) [[Project]](https://onevfall.github.io/project_page/ditctrl/)
   - **Others**
     - ***Sora:*** Video Generation Models as World Simulators [[Paper]](https://openai.com/research/video-generation-models-as-world-simulators)
 - <span id="text-year-2023">**Year 2023**</span>
