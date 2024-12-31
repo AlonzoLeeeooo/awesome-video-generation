@@ -101,11 +101,11 @@ Recent news of this GitHub repo are listed as follows.
 <!-- omit in toc -->
 ## Survey Papers
 - <span id="survey-year-2023">**Year 2024**</span>
-- **arXiv**
-  - Video Diffusion Models: A Survey [[Paper]](https://arxiv.org/pdf/2405.03150.pdf)
+  - **arXiv**
+    - Video Diffusion Models: A Survey [[Paper]](https://arxiv.org/pdf/2405.03150.pdf)
 - <span id="survey-year-2023">**Year 2023**</span>
-- **arXiv**
-  - A Survey on Video Diffusion Models [[Paper]](https://arxiv.org/pdf/2310.10647.pdf)
+  - **arXiv**
+    - A Survey on Video Diffusion Models [[Paper]](https://arxiv.org/pdf/2310.10647.pdf)
 
 <!-- omit in toc -->
 ## Text-to-Video Generation
