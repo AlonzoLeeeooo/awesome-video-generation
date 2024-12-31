@@ -137,7 +137,7 @@ Recent news of this GitHub repo are listed as follows.
     - ***HARIVO:*** Harnessing Text-to-Image Models for Video Generation [[Paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06938.pdf) [[Project]](https://kwonminki.github.io/HARIVO/)
     - ***MEVG:*** Multi-event Video Generation with Text-to-Video Models [[Paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06012.pdf) [[Project]](https://kuai-lab.github.io/eccv2024mevg/)
     - ***DeCo:*** Decoupled Human-Centered Diffusion Video Editing with Motion Consistency [[Paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06071.pdf)
-    - SAVE: Protagonist Diversification with Structure Agnostic Video Editing
+    - ***SAVE:*** Protagonist Diversification with Structure Agnostic Video Editing [[Paper]](https://arxiv.org/pdf/2312.02503) [[Code]](https://github.com/ldynx/SAVE)
   - **ICLR**
     - ***VDT:*** General-purpose Video Diffusion Transformers via Mask Modeling [[Paper]](https://arxiv.org/pdf/2305.13311.pdf) [[Code]](https://github.com/RERV/VDT) [[Project]](https://vdt-2023.github.io/)
     - ***VersVideo:*** Leveraging Enhanced Temporal Diffusion Models for Versatile Video Generation [[Paper]](https://openreview.net/pdf?id=K9sVJ17zvB)
