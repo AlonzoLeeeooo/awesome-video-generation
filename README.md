@@ -136,8 +136,6 @@ Recent news of this GitHub repo are listed as follows.
     - ***MagDiff:*** Multi-Alignment Diffusion for High-Fidelity Video Generation and Editing [[Paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02738.pdf)
     - ***HARIVO:*** Harnessing Text-to-Image Models for Video Generation [[Paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06938.pdf) [[Project]](https://kwonminki.github.io/HARIVO/)
     - ***MEVG:*** Multi-event Video Generation with Text-to-Video Models [[Paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06012.pdf) [[Project]](https://kuai-lab.github.io/eccv2024mevg/)
-    - ***DeCo:*** Decoupled Human-Centered Diffusion Video Editing with Motion Consistency [[Paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06071.pdf)
-    - ***SAVE:*** Protagonist Diversification with Structure Agnostic Video Editing [[Paper]](https://arxiv.org/pdf/2312.02503) [[Code]](https://github.com/ldynx/SAVE)
   - **ICLR**
     - ***VDT:*** General-purpose Video Diffusion Transformers via Mask Modeling [[Paper]](https://arxiv.org/pdf/2305.13311.pdf) [[Code]](https://github.com/RERV/VDT) [[Project]](https://vdt-2023.github.io/)
     - ***VersVideo:*** Leveraging Enhanced Temporal Diffusion Models for Versatile Video Generation [[Paper]](https://openreview.net/pdf?id=K9sVJ17zvB)
@@ -309,6 +307,8 @@ Recent news of this GitHub repo are listed as follows.
     - ***OCD:*** Object-Centric Diffusion for Efficient Video Editing [[Paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07396.pdf) [[Project]](https://qualcomm-ai-research.github.io/object-centric-diffusion/)
     - ***DreamMotion:*** Space-Time Self-Similarity Score Distillation for Zero-Shot Video Editing [[Paper]](https://arxiv.org/pdf/2403.12002) [[Project]](https://hyeonho99.github.io/dreammotion/)
     - ***WAVE:*** Warping DDIM Inversion Features for Zero-shot Text-to-Video Editing [[Paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/09682.pdf) [[Project]](https://ree1s.github.io/wave/)
+    - ***DeCo:*** Decoupled Human-Centered Diffusion Video Editing with Motion Consistency [[Paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06071.pdf)
+    - ***SAVE:*** Protagonist Diversification with Structure Agnostic Video Editing [[Paper]](https://arxiv.org/pdf/2312.02503) [[Code]](https://github.com/ldynx/SAVE)
     - ***Videoshop:*** Localized Semantic Video Editing with Noise-Extrapolated Diffusion Inversion [[Paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/01890.pdf) [[Code]](https://github.com/sfanxiang/videoshop) [[Project]](https://videoshop-editing.github.io/)
   - **ICLR**
     - ***Ground-A-Video:*** Zero-shot Grounded Video Editing using Text-to-image Diffusion Models [[Paper]](https://arxiv.org/pdf/2310.01107) [[Code]](https://github.com/Ground-A-Video/Ground-A-Video) [[Project]](https://ground-a-video.github.io/)
