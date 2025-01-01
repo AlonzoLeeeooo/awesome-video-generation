@@ -339,6 +339,7 @@ Recent news of this GitHub repo are listed as follows.
   - **arXiv**
     - ***Style-A-Video:*** Agile Diffusion for Arbitrary Text-based Video Style Transfer [[Paper]](https://arxiv.org/pdf/2305.05464.pdf)
     - ***SAVE:*** Spectral-Shift-Aware Adaptation of Image Diffusion Models for Text-guided Video Editing [[Paper]](https://arxiv.org/pdf/2305.18670) [[Code]](https://github.com/nazmul-karim170/SAVE-Text2Video-Diffusion) [[Project]](https://save-textguidedvideoediting.github.io/)
+    - ***MagicProp:*** Diffusion-based Video Editing via Motion-aware Appearance Propagation [[Paper]](https://arxiv.org/pdf/2309.00908)
 - <span id="editing-year-2022">**Year 2022**</span>
   - **ECCV**
     - ***Text2LIVE:*** Text-Driven Layered Image and Video Editing [[Paper]](https://arxiv.org/pdf/2204.02491) [[Code]](https://github.com/omerbt/Text2LIVE) [[Project]](https://text2live.github.io/)
