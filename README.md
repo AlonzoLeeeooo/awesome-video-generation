@@ -225,7 +225,7 @@ Recent news of this GitHub repo are listed as follows.
 - <span id="image-year-2025">**Year 2025**</span>
   - **CVPR**
     - ***MotionStone:*** Decoupled Motion Intensity Modulation with Diffusion Transformer for Image-to-Video Generation [[Paper]](https://arxiv.org/pdf/2412.05848)
-    - ***MotionPro:*** A Precise Motion Controller for Image-to-Video Generation [[Paper]](https://arxiv.org/pdf/2503.00948)
+    - ***MotionPro:*** A Precise Motion Controller for Image-to-Video Generation [[Paper]](https://arxiv.org/pdf/2503.00948) [[Code]](https://github.com/HiDream-ai/MotionPro)
     - ***Through-The-Mask:*** Mask-based Motion Trajectories for Image-to-Video Generation [[Paper]](https://arxiv.org/pdf/2501.03059)
     - Extrapolating and Decoupling Image-to-Video Generation Models: Motion Modeling is Easier Than You Think [[Paper]](https://arxiv.org/pdf/2503.00948)
 - <span id="image-year-2024">**Year 2024**</span>
