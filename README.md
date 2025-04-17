@@ -35,6 +35,7 @@ Recent news of this GitHub repo are listed as follows.
     - [Year 2024](#personalized-year-2024)
     - [Year 2023](#personalized-year-2023)
   - [Video Editing](#video-editing)
+    - [Year 2025](#editing-year-2025)
     - [Year 2024](#editing-year-2024)
     - [Year 2023](#editing-year-2023)
   - [Audio-to-Video Generation](#audio-to-video-generation)
@@ -221,6 +222,12 @@ Recent news of this GitHub repo are listed as follows.
 
 <!-- omit in toc -->
 ## Image-to-Video Generation
+- <span id="image-year-2025">**Year 2025**</span>
+  - **CVPR**
+    - ***MotionStone:*** Decoupled Motion Intensity Modulation with Diffusion Transformer for Image-to-Video Generation [[Paper]](https://arxiv.org/pdf/2412.05848)
+    - ***MotionPro:*** A Precise Motion Controller for Image-to-Video Generation [[Paper]](https://arxiv.org/pdf/2503.00948)
+    - ***Through-The-Mask:*** Mask-based Motion Trajectories for Image-to-Video Generation [[Paper]](https://arxiv.org/pdf/2501.03059)
+    - Extrapolating and Decoupling Image-to-Video Generation Models: Motion Modeling is Easier Than You Think [[Paper]](https://arxiv.org/pdf/2503.00948)
 - <span id="image-year-2024">**Year 2024**</span>
   - **CVPR**
     - ***VideoBooth:*** Diffusion-based Video Generation with Image Prompts [[Paper]](https://arxiv.org/pdf/2312.00777) [[Code]](https://github.com/Vchitect/VideoBooth) [[Project]](https://vchitect.github.io/VideoBooth-project/) [[Video]](https://www.youtube.com/watch?v=10DxH1JETzI)
