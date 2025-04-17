@@ -22,6 +22,7 @@ Recent news of this GitHub repo are listed as follows.
 - [Papers](#papers)
   - [Survey Papers](#survey-papers)
   - [Text-to-Video Generation](#text-to-video-generation)
+    - [Year 2025](#text-year-2025)
     - [Year 2024](#text-year-2024)
     - [Year 2023](#text-year-2023)
     - [Year 2022](#text-year-2022)
@@ -112,6 +113,9 @@ Recent news of this GitHub repo are listed as follows.
 
 <!-- omit in toc -->
 ## Text-to-Video Generation
+- <span id="text-year-2025">**Year 2025**</span>
+  - **CVPR**
+    - ***ByTheWay:*** Boost Your Text-to-Video Generation Model to Higher Quality in a Training-free Way [[Paper]](https://arxiv.org/pdf/2410.06241) [[Code]](https://github.com/Bujiazi/ByTheWay)
 - <span id="text-year-2024">**Year 2024**</span>
   - **CVPR**
     - ***Vlogger:*** Make Your Dream A Vlog [[Paper]](https://arxiv.org/pdf/2401.09414.pdf) [[Code]](https://github.com/Vchitect/Vlogger)
@@ -289,6 +293,14 @@ Recent news of this GitHub repo are listed as follows.
 
 <!-- omit in toc -->
 ## Video Editing
+- <span id="editing-year-2025">**Year 2025**</span>
+  - **CVPR**
+    - ***VideoDirector:*** Precise Video Editing via Text-to-Video Models [[Paper]](https://arxiv.org/pdf/2411.17592) [[Code]](https://github.com/Yukun66/Video_Director)
+    - ⚠️ Visual Prompting for One-shot Controllable Video Editing without Inversion [[Paper]]
+    - ⚠️ ***FADE:*** Frequency-Aware Diffusion Model Factorization for Video Editing [[Paper]]() [[Code]](https://github.com/EternalEvan/FADE)
+    - ⚠️ Align-A-Video: Deterministic Reward Tuning of Image Diffusion Models for Consistent Video Editing
+    - ⚠️ Unity in Diversity: Video Editing via Gradient-Latent Purification
+    - ⚠️ ***VEU-Bench:*** Towards Comprehensive Understanding of Video Editing [[Paper]]
 - <span id="editing-year-2024">**Year 2024**</span>
   - **CVPR**
     - ***VMC:*** Video Motion Customization using Temporal Attention Adaption for Text-to-Video Diffusion Models [[Paper]](https://arxiv.org/pdf/2312.00845) [[Code]](https://github.com/HyeonHo99/Video-Motion-Customization) [[Project]](https://video-motion-customization.github.io/)
