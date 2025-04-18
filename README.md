@@ -354,6 +354,7 @@ Recent news of this GitHub repo are listed as follows.
   - **CVPR**
     - Shape-aware Text-driven Layered Video Editing [[Paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136750705.pdf) [[Code]](https://github.com/text-video-edit/shape-aware-text-driven-layered-video-editing-release) [[Project]](https://text-video-edit.github.io/)
   - **ICCV**
+    - ***StableVideo*** Video Editing using Layered Representation and Image Diffusion [[Paper]](https://arxiv.org/abs/2308.09592) [[Code]](https://github.com/rese1f/StableVideo)
     - ***Pix2Video:*** Video Editing using Image Diffusion [[Paper]](https://arxiv.org/pdf/2303.12688) [[Code]](https://github.com/duyguceylan/pix2video)
     - ***Tune-A-Video:*** One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_Tune-A-Video_One-Shot_Tuning_of_Image_Diffusion_Models_for_Text-to-Video_Generation_ICCV_2023_paper.pdf) [[Code]](https://github.com/showlab/Tune-A-Video) [[Project]](https://tuneavideo.github.io/)
   - **NeurIPS**
