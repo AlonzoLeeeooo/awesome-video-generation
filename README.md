@@ -10,6 +10,7 @@ Recent news of this GitHub repo are listed as follows.
 🔥 [Nov. 19th] We have released our latest paper titled ["StableV2V: Stablizing Shape Consistency in Video-to-Video Editing"](https://arxiv.org/abs/2411.11045), with the correponding [code](https://github.com/AlonzoLeeeooo/StableV2V), [model weights](https://huggingface.co/AlonzoLeeeooo/StableV2V), and [a testing benchmark `DAVIS-Edit`](https://huggingface.co/datasets/AlonzoLeeeooo/DAVIS-Edit) open-sourced. Feel free to check them out from the links!
 <details> <summary> Click to see more information. </summary>
 
+- 💃 [2025 May 13th] Update a new sub-task named [Human Image Animation](#human-image-animation).
 - [Jun. 17th] All **NeurIPS 2023** papers and references are updated.
 - [Apr. 26th] Update a new direction: [Personalized Video Generation](#personalized-video-generation).
 - [Mar. 28th] The official **AAAI 2024** paper list are released! Official version of PDFs and BibTeX references are updated accordingly.
@@ -41,6 +42,9 @@ Recent news of this GitHub repo are listed as follows.
   - [Audio-to-Video Generation](#audio-to-video-generation)
     - [Year 2024](#audio-year-2024)
     - [Year 2023](#audio-year-2023)
+  - [Human Image Animation](#human-image-animation)
+    - [Year 2025](#human-year-2025)
+    - [Year 2024](#human-year-2023)
 - [Datasets](#datasets)
 - [Q&A](#qa)
 - [References](#references)
@@ -370,6 +374,42 @@ Recent news of this GitHub repo are listed as follows.
     - ***Text2LIVE:*** Text-Driven Layered Image and Video Editing [[Paper]](https://arxiv.org/pdf/2204.02491) [[Code]](https://github.com/omerbt/Text2LIVE) [[Project]](https://text2live.github.io/)
 
 [<u><small><🎯Back to Top></small></u>](#contents)
+
+<!-- omit in toc -->
+# Human Image Animation
+- <span id="human-year-2025">**Year 2025**</span>
+  - **CVPR**
+    - ***X-Dyna:*** Expressive Dynamic Human Image Animation [[Paper]](https://arxiv.org/pdf/2501.10021) [[Code]](https://github.com/bytedance/X-Dyna)
+    - ***StableAnimator:*** High-Quality Identity-Preserving Human Image Animation [[Paper]](https://arxiv.org/pdf/2411.17697) [[Project]](https://francis-rings.github.io/StableAnimator/) [[Code]](https://github.com/Francis-Rings/StableAnimator)
+  - **ICLR**
+    - ***Animate-X:*** Universal Character Image Animation with Enhanced Motion Representation [[Paper]](https://arxiv.org/pdf/2411.17697) [[Project]](https://lucaria-academy.github.io/Animate-X/) [[Code]](https://github.com/antgroup/animate-x)
+  - **arXiv**
+    - ***UniAnimate-DiT:*** Human Image Animation with Large-Scale Video Diffusion Transformer [[Paper]](https://arxiv.org/pdf/2504.11289) [[Project]](https://unianimate.github.io/) [[Code]](https://github.com/ali-vilab/UniAnimate-DiT)
+    - ***DreamActor-M1:*** Holistic, Expressive and Robust Human Image Animation with Hybrid Guidance [[Paper]](https://arxiv.org/pdf/2504.01724) [[Project]](https://dreamactor-m1.com/)
+    - ***Animate Anyone 2:*** High-Fidelity Character Image Animation with Environment Affordance [[Paper]](https://arxiv.org/pdf/2502.06145) [[Project]](https://humanaigc.github.io/animate-anyone-2/)
+- <span id="human-year-2024">**Year 2024**</span>
+  - **CVPR**
+    - ***MotionFollower:*** Editing Video Motion via Lightweight Score-Guided Diffusion [[Paper]](https://arxiv.org/pdf/2405.20325) [[Project]](https://francis-rings.github.io/MotionFollower/) [[Code]](https://github.com/Francis-Rings/MotionFollower)
+    - ***MotionEditor:*** Editing Video Motion via Content-Aware Diffusion [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Tu_MotionEditor_Editing_Video_Motion_via_Content-Aware_Diffusion_CVPR_2024_paper.pdf) [[Project]](https://francis-rings.github.io/MotionEditor/) [[Code]](https://github.com/Francis-Rings/MotionEditor)
+  - **arXiv**
+    - ***MikuDance:*** Animating Character Art with Mixed Motion Dynamics [[Paper]](https://arxiv.org/pdf/2411.08656) [[Project]](https://kebii.github.io/MikuDance/) [[Code]](https://github.com/Kebii/MikuDance)
+    - ***MimicMotion:*** High Quality Human Image Animation using Regional Supervision and Motion Blur Condition [[Paper]](https://arxiv.org/pdf/2406.19680) [[Code]](https://github.com/tencent/MimicMotion) [[Project]](https://tencent.github.io/MimicMotion/)
+    - ***VividPose:*** Advancing Stable Video Diffusion for Realistic Human Image Animation [[Paper]](https://arxiv.org/pdf/2405.18156) [[Project]](https://kelu007.github.io/vivid-pose/) [[Code]](https://github.com/Kelu007/VividPose)
+    - ***MIMO:*** Controllable Character Video Synthesis with Spatial Decomposed Modeling [[Paper]](https://arxiv.org/pdf/2409.16160) [[Project]](https://menyifang.github.io/projects/MIMO/index.html) [[Code]](https://github.com/menyifang/MIMO)
+    - ***DynamicCtrl:*** Rethinking the Basic Structure and the Role of Text for High-quality Human Image Animation [[Paper]](https://arxiv.org/pdf/2503.21246) [[Project]](https://gulucaptain.github.io/DynamiCtrl/) [[Code]](https://github.com/gulucaptain/DynamiCtrl)
+    - ***HumanDiT:*** Pose-Guided Diffusion Transformer for Long-form Human Motion Video Generation [[Paper]](https://arxiv.org/pdf/2502.04847) [[Project]](https://agnjason.github.io/HumanDiT-page/)
+    - ***Disentangling Foreground and Background Motion for Enhanced Realism in Human Video Generation:*** [[Paper]](https://arxiv.org/pdf/2405.16393) [[Project]](https://liujl09.github.io/humanvideo_movingbackground/)
+    - ***DreamDance:*** Animating Human Images by Enriching 3D Geometry Cues from 2D Poses [[Paper]](https://arxiv.org/abs/2412.00397) [[Project]](https://liujl09.github.io/humanvideo_movingbackground/) [[Code]](https://github.com/PKU-YuanGroup/DreamDance)
+
+
+
+
+
+
+
+[<u><small><🎯Back to Top></small></u>](#contents)
+
+
 
 <!-- omit in toc -->
 # Datasets
