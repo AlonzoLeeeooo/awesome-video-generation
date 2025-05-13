@@ -10,7 +10,7 @@ Recent news of this GitHub repo are listed as follows.
 🔥 [Nov. 19th] We have released our latest paper titled ["StableV2V: Stablizing Shape Consistency in Video-to-Video Editing"](https://arxiv.org/abs/2411.11045), with the correponding [code](https://github.com/AlonzoLeeeooo/StableV2V), [model weights](https://huggingface.co/AlonzoLeeeooo/StableV2V), and [a testing benchmark `DAVIS-Edit`](https://huggingface.co/datasets/AlonzoLeeeooo/DAVIS-Edit) open-sourced. Feel free to check them out from the links!
 <details> <summary> Click to see more information. </summary>
 
-- 💃 [2025 May 13th] Update a new sub-task named [Human Image Animation](#human-image-animation).
+- 💃 [2025 May 13th] Update a new sub-task named [Human Image Animation](#human-image-animation). All **CVPR 2025** papers and references are updated.
 - [Jun. 17th] All **NeurIPS 2023** papers and references are updated.
 - [Apr. 26th] Update a new direction: [Personalized Video Generation](#personalized-video-generation).
 - [Mar. 28th] The official **AAAI 2024** paper list are released! Official version of PDFs and BibTeX references are updated accordingly.
@@ -53,7 +53,7 @@ Recent news of this GitHub repo are listed as follows.
 <!-- omit in toc -->
 # To-Do Lists
 - Latest Papers
-  - [ ] Update CVPR 2025 Papers
+  - [x] Update CVPR 2025 Papers
   - [ ] Update ICLR 2025 Papers
   - [ ] Update NeurIPS 2024 Papers
   - [x] Update ECCV 2024 Papers
@@ -121,6 +121,15 @@ Recent news of this GitHub repo are listed as follows.
 - <span id="text-year-2025">**Year 2025**</span>
   - **CVPR**
     - ***ByTheWay:*** Boost Your Text-to-Video Generation Model to Higher Quality in a Training-free Way [[Paper]](https://arxiv.org/pdf/2410.06241) [[Code]](https://github.com/Bujiazi/ByTheWay)
+    - ***The Devil is in the Prompts:*** Retrieval-Augmented Prompt Optimization for Text-to-Video Generation [[Paper]](https://arxiv.org/pdf/2405.15579) [[Project]](https://whynothaha.github.io/Prompt_optimizer/RAPO.html) [[Code]](https://github.com/Vchitect/RAPO)
+    - ***ConsistID:*** Identity-Preserving Text-to-Video Generation by Frequency Decomposition [[Paper]](https://arxiv.org/pdf/2411.17440) [[Code]](https://github.com/PKU-YuanGroup/ConsisID) [[Project]](https://pku-yuangroup.github.io/ConsisID/)
+    - ***EIDT-V:*** Exploiting Intersections in Diffusion Trajectories for Model-Agnostic, Zero-Shot, Training-Free Text-to-Video Generation [[Paper]](https://arxiv.org/pdf/2504.06861) [[Code]](https://github.com/djagpal02/EIDT-V) [[Project]](https://djagpal02.github.io/EIDT-V/)
+    - ***TransPixeler:*** Advancing Text-to-Video Generation with Transparency [[Paper]](https://arxiv.org/pdf/2501.03006) [[Project]](https://wileewang.github.io/TransPixar/) [[Code]](https://github.com/wileewang/TransPixeler)
+    - ***PhyT2V:*** LLM-Guided Iterative Self-Refinement for Physics-Grounded Text-to-Video Generation [[Paper]](https://arxiv.org/pdf/2412.00596) [[Code]](https://github.com/pittisl/PhyT2V)
+    - ***InstanceCap:*** Improving Text-to-Video Generation via Instance-aware Structured Caption [[Paper]](https://arxiv.org/pdf/2412.09283) [[Code]](https://github.com/NJU-PCALab/InstanceCap)
+    - ***BlobGEN-Vid:*** Compositional Text-to-Video Generation with Blob Video Representations [[Paper]](https://arxiv.org/pdf/2501.07647) [[Project]](https://blobgen-vid2.github.io/)
+    - ***LinGen:*** Towards High-Resolution Minute-Length Text-to-Video Generation with Linear Computational Complexity [[Paper]](https://arxiv.org/abs/2412.09856) [[Project]](https://lineargen.github.io/)
+    - ⚠️ Encapsulated Composition of Text-to-Image and Text-to-Video Models for High-Quality Video Synthesis 
 - <span id="text-year-2024">**Year 2024**</span>
   - **CVPR**
     - ***Vlogger:*** Make Your Dream A Vlog [[Paper]](https://arxiv.org/pdf/2401.09414.pdf) [[Code]](https://github.com/Vchitect/Vlogger)
@@ -307,6 +316,7 @@ Recent news of this GitHub repo are listed as follows.
 - <span id="editing-year-2025">**Year 2025**</span>
   - **CVPR**
     - ***VideoDirector:*** Precise Video Editing via Text-to-Video Models [[Paper]](https://arxiv.org/pdf/2411.17592) [[Code]](https://github.com/Yukun66/Video_Director)
+    - ***VideoMage:*** Multi-Subject and Motion Customization of Text-to-Video Diffusion Models [[Paper]](https://arxiv.org/pdf/2503.21781) [[Project]](https://jasper0314-huang.github.io/videomage-customization/)
     - ⚠️ Visual Prompting for One-shot Controllable Video Editing without Inversion [[Paper]]
     - ⚠️ ***FADE:*** Frequency-Aware Diffusion Model Factorization for Video Editing [[Paper]]() [[Code]](https://github.com/EternalEvan/FADE)
     - ⚠️ Align-A-Video: Deterministic Reward Tuning of Image Diffusion Models for Consistent Video Editing
@@ -432,6 +442,8 @@ Generation via Single Still Image [[Paper]](https://www.ecva.net/papers/eccv_202
 
 <!-- omit in toc -->
 # Evaluation Metrics
+- [CVPR 2025] **T2V-CompBench:*** A Comprehensive Benchmark for Compositional Text-to-video Generation [[Paper]](https://arxiv.org/pdf/2407.14505) [[Project]](https://github.com/KaiyueSun98/T2V-CompBench/tree/V2) [[Code]](https://github.com/KaiyueSun98/T2V-CompBench/tree/V2)
+- [arXiv 2024] ***Davis-Edit:*** Stablizing Shape Consistency in Video-to-Video Editing [[Paper]](https://arxiv.org/pdf/2411.11045) [[Project]](https://alonzoleeeooo.github.io/StableV2V/) [[Code]](https://github.com/AlonzoLeeeooo/StableV2V)
 - [CVPR 2024] **VBench:** Comprehensive Benchmark Suite for Video Generative Models [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Huang_VBench_Comprehensive_Benchmark_Suite_for_Video_Generative_Models_CVPR_2024_paper.pdf) [[Code]](https://github.com/Vchitect/VBench)
 - [ICCV 2023] **DOVER:** Exploring Video Quality Assessment on User Generated Contents from Aesthetic and Technical Perspectives [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_Exploring_Video_Quality_Assessment_on_User_Generated_Contents_from_Aesthetic_ICCV_2023_paper.pdf) [[Code]](https://github.com/VQAssessment/DOVER)
 - [ICLR 2019] ***FVD:*** A New Metric for Video Generation [[Paper]](https://openreview.net/pdf?id=rylgEULtdN) [[Code]](https://github.com/google-research/google-research/blob/master/frechet_video_distance/frechet_video_distance.py)
