@@ -54,8 +54,8 @@ Recent news of this GitHub repo are listed as follows.
 # To-Do Lists
 - Latest Papers
   - [x] Update CVPR 2025 Papers
-  - [ ] Update ICLR 2025 Papers
-  - [ ] Update NeurIPS 2024 Papers
+  - [x] Update ICLR 2025 Papers
+  - [x] Update NeurIPS 2024 Papers
   - [x] Update ECCV 2024 Papers
   - [x] Update CVPR 2024 Papers
     - [x] Update PDFs and References of ⚠️ Papers
@@ -157,6 +157,8 @@ Recent news of this GitHub repo are listed as follows.
     - ***MagDiff:*** Multi-Alignment Diffusion for High-Fidelity Video Generation and Editing [[Paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02738.pdf)
     - ***HARIVO:*** Harnessing Text-to-Image Models for Video Generation [[Paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06938.pdf) [[Project]](https://kwonminki.github.io/HARIVO/)
     - ***MEVG:*** Multi-event Video Generation with Text-to-Video Models [[Paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06012.pdf) [[Project]](https://kuai-lab.github.io/eccv2024mevg/)
+  - **NeurIPS**
+    - Enhancing Motion in Text-to-Video Generation with Decomposed Encoding and Conditioning [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2024/file/81f19c0e9f3e06c831630ab6662fd8ea-Paper-Conference.pdf) [[Code]](https://github.com/PR-Ryan/DEMO)
   - **ICLR**
     - ***VDT:*** General-purpose Video Diffusion Transformers via Mask Modeling [[Paper]](https://arxiv.org/pdf/2305.13311.pdf) [[Code]](https://github.com/RERV/VDT) [[Project]](https://vdt-2023.github.io/)
     - ***VersVideo:*** Leveraging Enhanced Temporal Diffusion Models for Versatile Video Generation [[Paper]](https://openreview.net/pdf?id=K9sVJ17zvB)
@@ -250,6 +252,8 @@ Recent news of this GitHub repo are listed as follows.
     - ***MOFA-Video:*** Controllable Image Animation via Generative Motion Field Adaptions in Frozen Image-to-Video Diffusion Model [[Paper]](https://arxiv.org/pdf/2405.20222) [[Code]](https://github.com/MyNiuuu/MOFA-Video) [[Project]](https://myniuuu.github.io/MOFA_Video/)
   - **AAAI**
     - Decouple Content and Motion for Conditional Image-to-Video Generation [[Paper]](https://arxiv.org/pdf/2311.14294)
+  - **NeurIPS**
+    - Identifying and Solving Conditional Image Leakage in Image-to-Video Diffusion Model [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2024/file/35cb54b887e7aafe74829677cce6c5c6-Paper-Conference.pdf) [[Code]](https://github.com/thu-ml/cond-image-leakage)
   - **arXiv**
     -  ***ConsistI2V:*** Enhancing Visual Consistency for Image-to-Video Generation [[Paper]](https://arxiv.org/pdf/2402.04324.pdf) [[Code]](https://github.com/TIGER-AI-Lab/ConsistI2V) [[Project]](https://tiger-ai-lab.github.io/ConsistI2V/)
     - ***I2V-Adapter:*** A General Image-to-Video Adapter for Diffusion Models [[Paper]](https://arxiv.org/pdf/2312.16693.pdf) [[Code]](https://github.com/I2V-Adapter/I2V-Adapter-repo)
@@ -322,6 +326,8 @@ Recent news of this GitHub repo are listed as follows.
     - ⚠️ Align-A-Video: Deterministic Reward Tuning of Image Diffusion Models for Consistent Video Editing
     - ⚠️ Unity in Diversity: Video Editing via Gradient-Latent Purification
     - ⚠️ ***VEU-Bench:*** Towards Comprehensive Understanding of Video Editing [[Paper]]
+  - **ICLR**
+    - ***VideoGrain:*** Modulating Space-Time Attention for Multi-Grained Video Editing [[Paper]](https://arxiv.org/pdf/2502.17258) [[Project]](https://knightyxp.github.io/VideoGrain_project_page/) [[Code]](https://github.com/knightyxp/VideoGrain)
 - <span id="editing-year-2024">**Year 2024**</span>
   - **CVPR**
     - ***VMC:*** Video Motion Customization using Temporal Attention Adaption for Text-to-Video Diffusion Models [[Paper]](https://arxiv.org/pdf/2312.00845) [[Code]](https://github.com/HyeonHo99/Video-Motion-Customization) [[Project]](https://video-motion-customization.github.io/)
