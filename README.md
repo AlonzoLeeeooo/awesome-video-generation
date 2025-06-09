@@ -129,7 +129,9 @@ Recent news of this GitHub repo are listed as follows.
     - ***InstanceCap:*** Improving Text-to-Video Generation via Instance-aware Structured Caption [[Paper]](https://arxiv.org/pdf/2412.09283) [[Code]](https://github.com/NJU-PCALab/InstanceCap)
     - ***BlobGEN-Vid:*** Compositional Text-to-Video Generation with Blob Video Representations [[Paper]](https://arxiv.org/pdf/2501.07647) [[Project]](https://blobgen-vid2.github.io/)
     - ***LinGen:*** Towards High-Resolution Minute-Length Text-to-Video Generation with Linear Computational Complexity [[Paper]](https://arxiv.org/abs/2412.09856) [[Project]](https://lineargen.github.io/)
-    - ⚠️ Encapsulated Composition of Text-to-Image and Text-to-Video Models for High-Quality Video Synthesis 
+    - ⚠️ Encapsulated Composition of Text-to-Image and Text-to-Video Models for High-Quality Video Synthesis
+  - **arXiv**
+    - ***FEAT:*** Full-Dimensional Efficient Attention Transformer for Medical Video Generation [[Paper]](https://www.arxiv.org/pdf/2506.04956) [[Code]](https://github.com/Yaziwel/FEAT)
 - <span id="text-year-2024">**Year 2024**</span>
   - **CVPR**
     - ***Vlogger:*** Make Your Dream A Vlog [[Paper]](https://arxiv.org/pdf/2401.09414.pdf) [[Code]](https://github.com/Vchitect/Vlogger)
