@@ -323,11 +323,16 @@ Recent news of this GitHub repo are listed as follows.
   - **CVPR**
     - ***VideoDirector:*** Precise Video Editing via Text-to-Video Models [[Paper]](https://arxiv.org/pdf/2411.17592) [[Code]](https://github.com/Yukun66/Video_Director)
     - ***VideoMage:*** Multi-Subject and Motion Customization of Text-to-Video Diffusion Models [[Paper]](https://arxiv.org/pdf/2503.21781) [[Project]](https://jasper0314-huang.github.io/videomage-customization/)
-    - ⚠️ Visual Prompting for One-shot Controllable Video Editing without Inversion [[Paper]]
+    - Visual Prompting for One-shot Controllable Video Editing without Inversion [[Paper]](https://arxiv.org/abs/2504.14335) [[Project]](https://www.zhengbozhang.com/)
+    - ***SketchVideo:*** Sketch-based Video Generation and Editing [[Paper]](https://arxiv.org/abs/2503.23284) [[Code]](https://github.com/IGLICT/SketchVideo) [[Project]](http://geometrylearning.com/SketchVideo/)
+    - h-***Edit:*** Effective and Flexible Diffusion-Based Editing via Doob's h-Transform [[Paper]](https://arxiv.org/abs/2503.02187) [[Code]](https://github.com/nktoan/h-edit) [[Project]](https://nktoan.github.io/h-Edit-cvpr25/)
+    - ***ObjectMover:*** Generative Object Movement with Video Prior [[Paper]](https://arxiv.org/abs/2503.08037) [[Project]](https://xinyu-andy.github.io/ObjMover/)
+    - ***MatAnyone:*** Stable Video Matting with Consistent Memory Propagation [[Paper]](https://arxiv.org/abs/2501.14677) [[Code]](https://github.com/pq-yang/MatAnyone) [[Project]](https://pq-yang.github.io/projects/MatAnyone/)
+    - ***StyleMaster:*** Stylize Your Video with Artistic Generation and Translation [[Paper]](https://arxiv.org/abs/2412.07744) [[Code]](https://github.com/KwaiVGI/StyleMaster) [[Project]](https://zixuan-ye.github.io/stylemaster/)
+    - ***AudCast:*** Audio-Driven Human Video Generation by Cascaded Diffusion Transformers [[Paper]](https://arxiv.org/abs/2503.19824) [[Project]](https://guanjz20.github.io/projects/AudCast/)
     - ⚠️ ***FADE:*** Frequency-Aware Diffusion Model Factorization for Video Editing [[Paper]]() [[Code]](https://github.com/EternalEvan/FADE)
     - ⚠️ Align-A-Video: Deterministic Reward Tuning of Image Diffusion Models for Consistent Video Editing
     - ⚠️ Unity in Diversity: Video Editing via Gradient-Latent Purification
-    - ⚠️ ***VEU-Bench:*** Towards Comprehensive Understanding of Video Editing [[Paper]]
   - **ICLR**
     - ***VideoGrain:*** Modulating Space-Time Attention for Multi-Grained Video Editing [[Paper]](https://arxiv.org/pdf/2502.17258) [[Project]](https://knightyxp.github.io/VideoGrain_project_page/) [[Code]](https://github.com/knightyxp/VideoGrain)
 - <span id="editing-year-2024">**Year 2024**</span>
@@ -446,6 +451,7 @@ Generation via Single Still Image [[Paper]](https://www.ecva.net/papers/eccv_202
 - [CVPR 2024] ***Panda-70M:*** Captioning 70M Videos with Multiple Cross-Modality Teachers [[Paper]](https://arxiv.org/pdf/2402.19479.pdf) [[Dataset]](https://github.com/snap-research/Panda-70M) [[Project]](https://snap-research.github.io/Panda-70M)
 - [arXiv 2024] ***VidProM:*** A Million-scale Real Prompt-Gallery Dataset for Text-to-Video Diffusion Models [[Paper]](https://arxiv.org/pdf/2403.06098.pdf) [[Dataset]](https://github.com/WangWenhao0716/VidProM)
 - [CVPR 2025] ***HOIGen-1M:*** A Large-scale Dataset for Human-Object Interaction Video Generation [[Paper]](https://arxiv.org/pdf/2503.23715) [[Dataset]](https://huggingface.co/datasets/HOIGen/HOIGen-1M)
+- [CVPR 2025] ***VEU-Bench:*** Towards Comprehensive Understanding of Video Editing [[Paper]](https://arxiv.org/abs/2504.17828)
 
 [<u><small><🎯Back to Top></small></u>](#contents)
 
