@@ -130,6 +130,9 @@ Recent news of this GitHub repo are listed as follows.
     - ***BlobGEN-Vid:*** Compositional Text-to-Video Generation with Blob Video Representations [[Paper]](https://arxiv.org/pdf/2501.07647) [[Project]](https://blobgen-vid2.github.io/)
     - ***LinGen:*** Towards High-Resolution Minute-Length Text-to-Video Generation with Linear Computational Complexity [[Paper]](https://arxiv.org/abs/2412.09856) [[Project]](https://lineargen.github.io/)
     - ⚠️ Encapsulated Composition of Text-to-Image and Text-to-Video Models for High-Quality Video Synthesis
+  - **ICLR**
+    - ***OpenVid-1M:*** A Large-Scale High-Quality Dataset for Text-to-video Generation [[Paper]](https://openreview.net/forum?id=j7kdXSrISM) [[Project]](https://nju-pcalab.github.io/projects/openvid/) [[Code]](https://github.com/NJU-PCALab/OpenVid-1M) [[Dataset]](https://huggingface.co/datasets/nkp37/OpenVid-1M)
+    - ***CogVideoX:*** Text-to-Video Diffusion Models with An Expert Transformer [[Paper]](https://openreview.net/forum?id=LQzN6TRFg9)
   - **arXiv**
     - ***FEAT:*** Full-Dimensional Efficient Attention Transformer for Medical Video Generation [[Paper]](https://www.arxiv.org/pdf/2506.04956) [[Code]](https://github.com/Yaziwel/FEAT)
 - <span id="text-year-2024">**Year 2024**</span>
@@ -245,6 +248,9 @@ Recent news of this GitHub repo are listed as follows.
     - ***MotionPro:*** A Precise Motion Controller for Image-to-Video Generation [[Paper]](https://arxiv.org/pdf/2503.00948) [[Code]](https://github.com/HiDream-ai/MotionPro)
     - ***Through-The-Mask:*** Mask-based Motion Trajectories for Image-to-Video Generation [[Paper]](https://arxiv.org/pdf/2501.03059)
     - Extrapolating and Decoupling Image-to-Video Generation Models: Motion Modeling is Easier Than You Think [[Paper]](https://arxiv.org/pdf/2503.00948)
+  - **ICLR**
+    - ***SG-I2V:*** Self-Guided Trajectory Control in Image-to-Video Generation [[Paper]](https://openreview.net/forum?id=uQjySppU9x) [[Project]](https://kmcode1.github.io/Projects/SG-I2V/) [[Code]](https://github.com/Kmcode1/SG-I2V)
+    - Generative Inbetweening: Adapting Image-to-Video Models for Keyframe Interpolation [[Paper]](https://openreview.net/forum?id=ykD8a9gJvy)
 - <span id="image-year-2024">**Year 2024**</span>
   - **CVPR**
     - ***VideoBooth:*** Diffusion-based Video Generation with Image Prompts [[Paper]](https://arxiv.org/pdf/2312.00777) [[Code]](https://github.com/Vchitect/VideoBooth) [[Project]](https://vchitect.github.io/VideoBooth-project/) [[Video]](https://www.youtube.com/watch?v=10DxH1JETzI)
@@ -414,6 +420,8 @@ Recent news of this GitHub repo are listed as follows.
   - **CVPR**
     - ***MotionFollower:*** Editing Video Motion via Lightweight Score-Guided Diffusion [[Paper]](https://arxiv.org/pdf/2405.20325) [[Project]](https://francis-rings.github.io/MotionFollower/) [[Code]](https://github.com/Francis-Rings/MotionFollower)
     - ***MotionEditor:*** Editing Video Motion via Content-Aware Diffusion [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Tu_MotionEditor_Editing_Video_Motion_via_Content-Aware_Diffusion_CVPR_2024_paper.pdf) [[Project]](https://francis-rings.github.io/MotionEditor/) [[Code]](https://github.com/Francis-Rings/MotionEditor)
+  - **ICLR**
+    - ***DisPose:*** Disentangling Pose Guidance for Controllable Human Image Animation [[Paper]](https://openreview.net/forum?id=AumOa10MKG) [[Project]](https://lihxxx.github.io/DisPose/) [[Code]](https://github.com/lihxxx/DisPose)
   - **arXiv**
     - ***MikuDance:*** Animating Character Art with Mixed Motion Dynamics [[Paper]](https://arxiv.org/pdf/2411.08656) [[Project]](https://kebii.github.io/MikuDance/) [[Code]](https://github.com/Kebii/MikuDance)
     - ***MimicMotion:*** High Quality Human Image Animation using Regional Supervision and Motion Blur Condition [[Paper]](https://arxiv.org/pdf/2406.19680) [[Code]](https://github.com/tencent/MimicMotion) [[Project]](https://tencent.github.io/MimicMotion/)
