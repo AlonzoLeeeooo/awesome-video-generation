@@ -133,6 +133,7 @@ Recent news of this GitHub repo are listed as follows.
   - **ICLR**
     - ***OpenVid-1M:*** A Large-Scale High-Quality Dataset for Text-to-video Generation [[Paper]](https://openreview.net/forum?id=j7kdXSrISM) [[Project]](https://nju-pcalab.github.io/projects/openvid/) [[Code]](https://github.com/NJU-PCALab/OpenVid-1M) [[Dataset]](https://huggingface.co/datasets/nkp37/OpenVid-1M)
     - ***CogVideoX:*** Text-to-Video Diffusion Models with An Expert Transformer [[Paper]](https://openreview.net/forum?id=LQzN6TRFg9)
+    - Pyramidal Flow Matching for Efficient Video Generative Modeling [[Paper]](https://openreview.net/forum?id=66NzcRQuOq) [[Project]](https://pyramid-flow.github.io/) [[Code]](https://github.com/jy0205/Pyramid-Flow)
   - **arXiv**
     - ***FEAT:*** Full-Dimensional Efficient Attention Transformer for Medical Video Generation [[Paper]](https://www.arxiv.org/pdf/2506.04956) [[Code]](https://github.com/Yaziwel/FEAT)
 - <span id="text-year-2024">**Year 2024**</span>
@@ -164,6 +165,8 @@ Recent news of this GitHub repo are listed as follows.
     - ***MEVG:*** Multi-event Video Generation with Text-to-Video Models [[Paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06012.pdf) [[Project]](https://kuai-lab.github.io/eccv2024mevg/)
   - **NeurIPS**
     - Enhancing Motion in Text-to-Video Generation with Decomposed Encoding and Conditioning [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2024/file/81f19c0e9f3e06c831630ab6662fd8ea-Paper-Conference.pdf) [[Code]](https://github.com/PR-Ryan/DEMO)
+  - **ICML**
+    - ***Video-LaVIT:*** Unified Video-Language Pre-training with Decoupled Visual-Motional Tokenization [[Paper]](https://openreview.net/forum?id=S9lk6dk4LL) [[Project]](https://video-lavit.github.io/) [[Code]](https://github.com/jy0205/LaVIT)
   - **ICLR**
     - ***VDT:*** General-purpose Video Diffusion Transformers via Mask Modeling [[Paper]](https://arxiv.org/pdf/2305.13311.pdf) [[Code]](https://github.com/RERV/VDT) [[Project]](https://vdt-2023.github.io/)
     - ***VersVideo:*** Leveraging Enhanced Temporal Diffusion Models for Versatile Video Generation [[Paper]](https://openreview.net/pdf?id=K9sVJ17zvB)
@@ -251,6 +254,7 @@ Recent news of this GitHub repo are listed as follows.
   - **ICLR**
     - ***SG-I2V:*** Self-Guided Trajectory Control in Image-to-Video Generation [[Paper]](https://openreview.net/forum?id=uQjySppU9x) [[Project]](https://kmcode1.github.io/Projects/SG-I2V/) [[Code]](https://github.com/Kmcode1/SG-I2V)
     - Generative Inbetweening: Adapting Image-to-Video Models for Keyframe Interpolation [[Paper]](https://openreview.net/forum?id=ykD8a9gJvy)
+    - Pyramidal Flow Matching for Efficient Video Generative Modeling [[Paper]](https://openreview.net/forum?id=66NzcRQuOq) [[Project]](https://pyramid-flow.github.io/) [[Code]](https://github.com/jy0205/Pyramid-Flow)
 - <span id="image-year-2024">**Year 2024**</span>
   - **CVPR**
     - ***VideoBooth:*** Diffusion-based Video Generation with Image Prompts [[Paper]](https://arxiv.org/pdf/2312.00777) [[Code]](https://github.com/Vchitect/VideoBooth) [[Project]](https://vchitect.github.io/VideoBooth-project/) [[Video]](https://www.youtube.com/watch?v=10DxH1JETzI)
@@ -262,6 +266,8 @@ Recent news of this GitHub repo are listed as follows.
     - Decouple Content and Motion for Conditional Image-to-Video Generation [[Paper]](https://arxiv.org/pdf/2311.14294)
   - **NeurIPS**
     - Identifying and Solving Conditional Image Leakage in Image-to-Video Diffusion Model [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2024/file/35cb54b887e7aafe74829677cce6c5c6-Paper-Conference.pdf) [[Code]](https://github.com/thu-ml/cond-image-leakage)
+  - **ICML**
+    - ***Video-LaVIT:*** Unified Video-Language Pre-training with Decoupled Visual-Motional Tokenization [[Paper]](https://openreview.net/forum?id=S9lk6dk4LL) [[Project]](https://video-lavit.github.io/) [[Code]](https://github.com/jy0205/LaVIT)
   - **arXiv**
     -  ***ConsistI2V:*** Enhancing Visual Consistency for Image-to-Video Generation [[Paper]](https://arxiv.org/pdf/2402.04324.pdf) [[Code]](https://github.com/TIGER-AI-Lab/ConsistI2V) [[Project]](https://tiger-ai-lab.github.io/ConsistI2V/)
     - ***I2V-Adapter:*** A General Image-to-Video Adapter for Diffusion Models [[Paper]](https://arxiv.org/pdf/2312.16693.pdf) [[Code]](https://github.com/I2V-Adapter/I2V-Adapter-repo)
