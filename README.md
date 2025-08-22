@@ -133,9 +133,9 @@ Recent news of this GitHub repo are listed as follows.
   - **ICLR**
     - ***OpenVid-1M:*** A Large-Scale High-Quality Dataset for Text-to-video Generation [[Paper]](https://openreview.net/forum?id=j7kdXSrISM) [[Project]](https://nju-pcalab.github.io/projects/openvid/) [[Code]](https://github.com/NJU-PCALab/OpenVid-1M) [[Dataset]](https://huggingface.co/datasets/nkp37/OpenVid-1M)
     - ***CogVideoX:*** Text-to-Video Diffusion Models with An Expert Transformer [[Paper]](https://openreview.net/forum?id=LQzN6TRFg9)
+    - Pyramidal Flow Matching for Efficient Video Generative Modeling [[Paper]](https://openreview.net/forum?id=66NzcRQuOq) [[Project]](https://pyramid-flow.github.io/) [[Code]](https://github.com/jy0205/Pyramid-Flow)
   - **arXiv**
     - ***FEAT:*** Full-Dimensional Efficient Attention Transformer for Medical Video Generation [[Paper]](https://www.arxiv.org/pdf/2506.04956) [[Code]](https://github.com/Yaziwel/FEAT)
-    - Pyramidal Flow Matching for Efficient Video Generative Modeling [[Paper]](https://openreview.net/forum?id=66NzcRQuOq) [[Project]](https://pyramid-flow.github.io/) [[Code]](https://github.com/jy0205/Pyramid-Flow)
 - <span id="text-year-2024">**Year 2024**</span>
   - **CVPR**
     - ***Vlogger:*** Make Your Dream A Vlog [[Paper]](https://arxiv.org/pdf/2401.09414.pdf) [[Code]](https://github.com/Vchitect/Vlogger)
