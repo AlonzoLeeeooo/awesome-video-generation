@@ -53,6 +53,8 @@ Recent news of this GitHub repo are listed as follows.
 <!-- omit in toc -->
 # To-Do Lists
 - Latest Papers
+  - [ ] Update NeurIPS 2025 Papers
+  - [ ] Update ICCV 2025 Papers
   - [x] Update CVPR 2025 Papers
   - [x] Update ICLR 2025 Papers
   - [x] Update NeurIPS 2024 Papers
@@ -120,6 +122,8 @@ Recent news of this GitHub repo are listed as follows.
 ## Text-to-Video Generation
 - <span id="text-year-2025">**Year 2025**</span>
   - **CVPR**
+    - ***AIGV-Assessor:*** *Benchmarking and Evaluating the Perceptual Quality of Text-to-Video Generation with LMM* [[Paper]](https://arxiv.org/abs/2411.17221) [[Code]](https://github.com/wangjiarui153/AIGV-Assessor)
+    - ***RAPO:*** *The Devil is in the Prompts: Retrieval-Augmented Prompt Optimization for Text-to-Video Generation* [[Paper]](https://arxiv.org/abs/2504.11739) [[Project]](https://whynothaha.github.io/Prompt_optimizer/RAPO.html) [[Code]](https://github.com/Vchitect/RAPO)
     - ***ByTheWay:*** Boost Your Text-to-Video Generation Model to Higher Quality in a Training-free Way [[Paper]](https://arxiv.org/pdf/2410.06241) [[Code]](https://github.com/Bujiazi/ByTheWay)
     - ***The Devil is in the Prompts:*** Retrieval-Augmented Prompt Optimization for Text-to-Video Generation [[Paper]](https://arxiv.org/pdf/2405.15579) [[Project]](https://whynothaha.github.io/Prompt_optimizer/RAPO.html) [[Code]](https://github.com/Vchitect/RAPO)
     - ***ConsistID:*** Identity-Preserving Text-to-Video Generation by Frequency Decomposition [[Paper]](https://arxiv.org/pdf/2411.17440) [[Code]](https://github.com/PKU-YuanGroup/ConsisID) [[Project]](https://pku-yuangroup.github.io/ConsisID/)
