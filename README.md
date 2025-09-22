@@ -49,6 +49,7 @@ Recent news of this GitHub repo are listed as follows.
 - [Q&A](#qa)
 - [References](#references)
 - [Star History](#star-history)
+- [WeChat Group](#wechat-group)
 
 <!-- omit in toc -->
 # To-Do Lists
@@ -134,6 +135,8 @@ Recent news of this GitHub repo are listed as follows.
     - ***BlobGEN-Vid:*** Compositional Text-to-Video Generation with Blob Video Representations [[Paper]](https://arxiv.org/pdf/2501.07647) [[Project]](https://blobgen-vid2.github.io/)
     - ***LinGen:*** Towards High-Resolution Minute-Length Text-to-Video Generation with Linear Computational Complexity [[Paper]](https://arxiv.org/abs/2412.09856) [[Project]](https://lineargen.github.io/)
     - ⚠️ Encapsulated Composition of Text-to-Image and Text-to-Video Models for High-Quality Video Synthesis
+  - **ICCV**
+    - ***Unified Video Generation:*** Unified Video Generation via Next-Set Prediction in Continuous Domain [[Paper]](https://iccv.thecvf.com/virtual/2025/poster/72)
   - **ICLR**
     - ***OpenVid-1M:*** A Large-Scale High-Quality Dataset for Text-to-video Generation [[Paper]](https://openreview.net/forum?id=j7kdXSrISM) [[Project]](https://nju-pcalab.github.io/projects/openvid/) [[Code]](https://github.com/NJU-PCALab/OpenVid-1M) [[Dataset]](https://huggingface.co/datasets/nkp37/OpenVid-1M)
     - ***CogVideoX:*** Text-to-Video Diffusion Models with An Expert Transformer [[Paper]](https://openreview.net/forum?id=LQzN6TRFg9)
@@ -255,6 +258,10 @@ Recent news of this GitHub repo are listed as follows.
     - ***MotionPro:*** A Precise Motion Controller for Image-to-Video Generation [[Paper]](https://arxiv.org/pdf/2503.00948) [[Code]](https://github.com/HiDream-ai/MotionPro)
     - ***Through-The-Mask:*** Mask-based Motion Trajectories for Image-to-Video Generation [[Paper]](https://arxiv.org/pdf/2501.03059)
     - Extrapolating and Decoupling Image-to-Video Generation Models: Motion Modeling is Easier Than You Think [[Paper]](https://arxiv.org/pdf/2503.00948)
+  - **ICCV**
+    - ***AnyI2V:*** Animating Any Conditional Image with Motion Control [[Paper]](https://arxiv.org/abs/2507.02857) [[Project]](https://henghuiding.com/AnyI2V/) [[Code]](https://github.com/FudanCVL/AnyI2V)
+    - ***Versatile Transition Generation:*** Versatile Transition Generation with Image-to-Video Diffusion [[Paper]](https://arxiv.org/abs/2508.01698)
+    - ***TIP-I2V:*** A Million-Scale Real Text and Image Prompt Dataset for Image-to-Video Generation [[Paper]](https://arxiv.org/pdf/2411.04709) [[Project]](https://tip-i2v.github.io) [[Code]](https://github.com/WangWenhao0716/TIP-I2V)
   - **ICLR**
     - ***SG-I2V:*** Self-Guided Trajectory Control in Image-to-Video Generation [[Paper]](https://openreview.net/forum?id=uQjySppU9x) [[Project]](https://kmcode1.github.io/Projects/SG-I2V/) [[Code]](https://github.com/Kmcode1/SG-I2V)
     - Generative Inbetweening: Adapting Image-to-Video Models for Keyframe Interpolation [[Paper]](https://openreview.net/forum?id=ykD8a9gJvy)
@@ -349,6 +356,13 @@ Recent news of this GitHub repo are listed as follows.
     - ⚠️ ***FADE:*** Frequency-Aware Diffusion Model Factorization for Video Editing [[Paper]]() [[Code]](https://github.com/EternalEvan/FADE)
     - ⚠️ Align-A-Video: Deterministic Reward Tuning of Image Diffusion Models for Consistent Video Editing
     - ⚠️ Unity in Diversity: Video Editing via Gradient-Latent Purification
+  - **ICCV**
+    - ***VACE:*** All-in-One Video Creation and Editing [[Paper]](https://arxiv.org/abs/2503.07598) [[Project]](https://ali-vilab.github.io/VACE-Page/) [[Code]](https://github.com/ali-vilab/VACE)
+    - ***Reangle-A-Video:*** 4D Video Generation as Video-to-Video Translation [[Paper]](https://arxiv.org/abs/2503.09151) [[Project]](https://anony1anony2.github.io/)
+    - ***DIVE:*** Taming DINO for Subject-Driven Video Editing [[Paper]](https://arxiv.org/pdf/2412.03347) [[Project]](https://dino-video-editing.github.io/)
+    - ***DynamicFace:*** High-Quality and Consistent Face Swapping for Image and Video using Composable 3D Facial Priors [[Paper]](https://iccv.thecvf.com/virtual/2025/poster/1368) [[Project]](https://dynamic-face.github.io/)
+    - ***QK-Edit:*** Revisiting Attention-based Injection in MM-DiT for Image and Video Editing [[Paper]](https://iccv.thecvf.com/virtual/2025/poster/215)
+    - ***Teleportraits:*** Training-Free People Insertion into Any Scene [[Paper]](https://iccv.thecvf.com/virtual/2025/poster/809)
   - **ICLR**
     - ***VideoGrain:*** Modulating Space-Time Attention for Multi-Grained Video Editing [[Paper]](https://arxiv.org/pdf/2502.17258) [[Project]](https://knightyxp.github.io/VideoGrain_project_page/) [[Code]](https://github.com/knightyxp/VideoGrain)
 - <span id="editing-year-2024">**Year 2024**</span>
@@ -420,6 +434,13 @@ Recent news of this GitHub repo are listed as follows.
   - **CVPR**
     - ***X-Dyna:*** Expressive Dynamic Human Image Animation [[Paper]](https://arxiv.org/pdf/2501.10021) [[Code]](https://github.com/bytedance/X-Dyna)
     - ***StableAnimator:*** High-Quality Identity-Preserving Human Image Animation [[Paper]](https://arxiv.org/pdf/2411.17697) [[Project]](https://francis-rings.github.io/StableAnimator/) [[Code]](https://github.com/Francis-Rings/StableAnimator)
+  - **ICCV**
+    - ***DreamActor-M1:*** Holistic, Expressive and Robust Human Image Animation with Hybrid Guidance [[Paper]](https://iccv.thecvf.com/virtual/2025/poster/288) [[Project]](https://grisoon.github.io/DreamActor-M1/)
+    - ***Animate Anyone 2:*** High-Fidelity Character Image Animation with Environment Affordance [[Paper]](https://arxiv.org/abs/2502.06145) [[Project]](https://humanaigc.github.io/animate-anyone-2/) [[Code]](https://github.com/HumanAIGC/animate-anyone-2)
+    - ***Multi-identity Human Image Animation:*** Multi-identity Human Image Animation with Structural Video Diffusion [[Paper]](https://iccv.thecvf.com/virtual/2025/poster/638)
+    - ***OmniHuman-1:*** Rethinking the Scaling-Up of One-Stage Conditioned Human Animation Models [[Paper]](https://iccv.thecvf.com/virtual/2025/poster/2201) [[Project]](https://omnihuman-lab.github.io/)
+    - ***AdaHuman:*** Animatable Detailed 3D Human Generation with Compositional Multiview Diffusion [[Paper]](https://arxiv.org/abs/2505.24877) [[Project]](https://nvlabs.github.io/AdaHuman/) 
+    - ***Ponimator:*** Unfolding Interactive Pose for Versatile Human-human Interaction Animation [[Paper]](https://iccv.thecvf.com/virtual/2025/poster/1453)
   - **ICLR**
     - ***Animate-X:*** Universal Character Image Animation with Enhanced Motion Representation [[Paper]](https://arxiv.org/pdf/2411.17697) [[Project]](https://lucaria-academy.github.io/Animate-X/) [[Code]](https://github.com/antgroup/animate-x)
   - **arXiv**
@@ -523,5 +544,16 @@ If you have other demands of reference formats, you may refer to the original re
         <img width="500" src="https://api.star-history.com/svg?repos=AlonzoLeeeooo/awesome-video-generation&type=Date" alt="Star History Chart">
     </a>
 <p>
+
+[<u><small><🎯Back to Top></small></u>](#contents)
+
+<!-- omit in toc -->
+# WeChat Group
+
+<div align="center">
+  <a href="YOUR_OFFICIAL_WEBSITE_URL">
+    <img src="assets/group.png" alt="group">
+  </a>
+</div>
 
 [<u><small><🎯Back to Top></small></u>](#contents)
