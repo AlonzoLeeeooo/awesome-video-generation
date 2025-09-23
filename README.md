@@ -325,6 +325,12 @@ Recent news of this GitHub repo are listed as follows.
 - <span id="personalized-year-2024">**Year 2024**</span>
   - **CVPR**
     - High-fidelity Person-centric Subject-to-Image Synthesis [[Paper]](https://arxiv.org/pdf/2311.10329) [[Code]](https://github.com/CodeGoat24/Face-diffuser)
+  - **ICCV**
+    - - ***Magic Mirror:*** Magic Mirror: ID‑Preserved Video Generation in Video Diffusion Transformers [[Paper]](https://huggingface.co/papers/2501.03931) [[Project]](https://julianjuaner.github.io/projects/MagicMirror/index.html) [[Code]](https://github.com/dvlab-research/MagicMirror)
+    - ***PersonalVideo:*** PersonalVideo: High ID‑Fidelity Video Customization without Dynamic and Semantic Degradation [[Paper]](https://huggingface.co/papers/2411.17048) [[Project]](https://personalvideo.github.io) [[Code]](https://github.com/EchoPluto/PersonalVideo)
+    - ***MagicID:*** MagicID: Hybrid Preference Optimization for ID‑Consistent and Dynamic‑Preserved Video Customization [[Paper]](https://huggingface.co/papers/2503.12689) [[Project]](https://echopluto.github.io/MagicID-project) [[Code]](https://github.com/EchoPluto/MagicID)
+    - ***DreamRelation:*** DreamRelation: Relation‑Centric Video Customization [[Paper]](https://huggingface.co/papers/2503.07602) [[Project]](https://dreamrelation.github.io)
+    - ⚠️ ***PERSONA:*** PERSONA: Personalized Whole‑Body 3D Avatar with Pose‑Driven Deformations from a Single Image
   - **ECCV**
     - ***PoseCrafter:*** One-Shot Personalized Video Synthesis Following Flexible Pose Control [[Paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06050.pdf) [[Project]](https://ml-gsai.github.io/PoseCrafter-demo/)
   - **arXiv**
