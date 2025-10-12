@@ -137,6 +137,8 @@ Recent news of this GitHub repo are listed as follows.
     - ⚠️ Encapsulated Composition of Text-to-Image and Text-to-Video Models for High-Quality Video Synthesis
   - **ICCV**
     - ***Unified Video Generation:*** Unified Video Generation via Next-Set Prediction in Continuous Domain [[Paper]](https://iccv.thecvf.com/virtual/2025/poster/72)
+  - **NeurIPS**
+    - ***Stable Cinemetrics:*** Structured Taxonomy and Evaluation for Professional Video Generation [[Paper]](https://arxiv.org/pdf/2509.26555) [[Project]](https://stable-cinemetrics.github.io/)
   - **ICLR**
     - ***OpenVid-1M:*** A Large-Scale High-Quality Dataset for Text-to-video Generation [[Paper]](https://openreview.net/forum?id=j7kdXSrISM) [[Project]](https://nju-pcalab.github.io/projects/openvid/) [[Code]](https://github.com/NJU-PCALab/OpenVid-1M) [[Dataset]](https://huggingface.co/datasets/nkp37/OpenVid-1M)
     - ***CogVideoX:*** Text-to-Video Diffusion Models with An Expert Transformer [[Paper]](https://openreview.net/forum?id=LQzN6TRFg9)
