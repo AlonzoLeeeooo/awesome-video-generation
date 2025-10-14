@@ -144,6 +144,7 @@ Recent news of this GitHub repo are listed as follows.
     - ***CogVideoX:*** Text-to-Video Diffusion Models with An Expert Transformer [[Paper]](https://openreview.net/forum?id=LQzN6TRFg9)
     - Pyramidal Flow Matching for Efficient Video Generative Modeling [[Paper]](https://openreview.net/forum?id=66NzcRQuOq) [[Project]](https://pyramid-flow.github.io/) [[Code]](https://github.com/jy0205/Pyramid-Flow)
   - **arXiv**
+    - Stable Video Infinity: Infinite-Length Video Generation with Error Recycling [[Paper]](https://arxiv.org/pdf/2510.09212) [[Project]](https://stable-video-infinity.github.io/homepage/) [[Code]](https://github.com/vita-epfl/Stable-Video-Infinity?tab=readme-ov-file) [[Video (YouTube)]](https://www.youtube.com/watch?v=p71Wp1FuqTw) [[Video (Bilibili)]](https://www.bilibili.com/video/BV1Zd4UzpE6G/?pop_share=1)
     - ***FEAT:*** Full-Dimensional Efficient Attention Transformer for Medical Video Generation [[Paper]](https://www.arxiv.org/pdf/2506.04956) [[Code]](https://github.com/Yaziwel/FEAT)
 - <span id="text-year-2024">**Year 2024**</span>
   - **CVPR**
