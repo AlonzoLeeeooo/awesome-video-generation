@@ -7,10 +7,11 @@ If you have any suggestions about this repository, please feel free to [start a 
 
 Recent news of this GitHub repo are listed as follows.
 
+🔥 [Dec. 11th, 2025] Our paper titled ["StableV2V: Stablizing Shape Consistency in Video-to-Video Editing"](https://ieeexplore.ieee.org/document/11272911) is accepted at TCSVT 2025!
 🔥 [Nov. 19th] We have released our latest paper titled ["StableV2V: Stablizing Shape Consistency in Video-to-Video Editing"](https://arxiv.org/abs/2411.11045), with the correponding [code](https://github.com/AlonzoLeeeooo/StableV2V), [model weights](https://huggingface.co/AlonzoLeeeooo/StableV2V), and [a testing benchmark `DAVIS-Edit`](https://huggingface.co/datasets/AlonzoLeeeooo/DAVIS-Edit) open-sourced. Feel free to check them out from the links!
 <details> <summary> Click to see more information. </summary>
 
-- 💃 [2025 May 13th] Update a new sub-task named [Human Image Animation](#human-image-animation). All **CVPR 2025** papers and references are updated.
+- [2025 May 13th] Update a new sub-task named [Human Image Animation](#human-image-animation). All **CVPR 2025** papers and references are updated.
 - [Jun. 17th] All **NeurIPS 2023** papers and references are updated.
 - [Apr. 26th] Update a new direction: [Personalized Video Generation](#personalized-video-generation).
 - [Mar. 28th] The official **AAAI 2024** paper list are released! Official version of PDFs and BibTeX references are updated accordingly.
