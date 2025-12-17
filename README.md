@@ -455,6 +455,7 @@ Recent news of this GitHub repo are listed as follows.
   - **ICLR**
     - ***Animate-X:*** Universal Character Image Animation with Enhanced Motion Representation [[Paper]](https://arxiv.org/pdf/2411.17697) [[Project]](https://lucaria-academy.github.io/Animate-X/) [[Code]](https://github.com/antgroup/animate-x)
   - **arXiv**
+    - ***EgoControl***: Controllable Egocentric Video Generation via 3D Full-Body Poses [[Paper]](https://arxiv.org/abs/2511.18173) [[Project]](https://cvg-bonn.github.io/EgoControl/) [[Code]](https://github.com/CVG-Bonn/EgoControl) 
     - ***UniAnimate-DiT:*** Human Image Animation with Large-Scale Video Diffusion Transformer [[Paper]](https://arxiv.org/pdf/2504.11289) [[Project]](https://unianimate.github.io/) [[Code]](https://github.com/ali-vilab/UniAnimate-DiT)
     - ***DreamActor-M1:*** Holistic, Expressive and Robust Human Image Animation with Hybrid Guidance [[Paper]](https://arxiv.org/pdf/2504.01724) [[Project]](https://dreamactor-m1.com/)
     - ***Animate Anyone 2:*** High-Fidelity Character Image Animation with Environment Affordance [[Paper]](https://arxiv.org/pdf/2502.06145) [[Project]](https://humanaigc.github.io/animate-anyone-2/)
