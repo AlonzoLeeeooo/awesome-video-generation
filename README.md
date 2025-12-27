@@ -126,7 +126,7 @@ Recent news of this GitHub repo are listed as follows.
 ## Text-to-Video Generation
 - <span id="text-year-2026">**Year 2026**</span>
   - **AAAI**
-    - *Minute-Long Videos with Dual Parallelisms* [[Paper]](https://arxiv.org/abs/2505.21070) [[Project]](https://dualparal-project.github.io/) [[Code]](https://github.com/DualParal-Project/DualParal)
+    - Minute-Long Videos with Dual Parallelisms [[Paper]](https://arxiv.org/abs/2505.21070) [[Project]](https://dualparal-project.github.io/) [[Code]](https://github.com/DualParal-Project/DualParal)
 - <span id="text-year-2025">**Year 2025**</span>
   - **CVPR**
     - ***AIGV-Assessor:*** *Benchmarking and Evaluating the Perceptual Quality of Text-to-Video Generation with LMM* [[Paper]](https://arxiv.org/abs/2411.17221) [[Code]](https://github.com/wangjiarui153/AIGV-Assessor)
