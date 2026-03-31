@@ -46,6 +46,7 @@ Recent news of this GitHub repo are listed as follows.
     - [Year 2024](#audio-year-2024)
     - [Year 2023](#audio-year-2023)
   - [Human Image Animation](#human-image-animation)
+    - [Year 2026](#human-year-2026)
     - [Year 2025](#human-year-2025)
     - [Year 2024](#human-year-2023)
 - [Datasets](#datasets)
@@ -445,6 +446,9 @@ Recent news of this GitHub repo are listed as follows.
 
 <!-- omit in toc -->
 # Human Image Animation
+- <span id="human-year-2026">**Year 2026**</span>
+  - **arXiv**
+    - ***Hand2World:*** Autoregressive Egocentric Interaction Generation via Free-Space Hand Gestures [[Paper]](https://arxiv.org/abs/2602.09600) [[Project]](https://hand2world.github.io/)
 - <span id="human-year-2025">**Year 2025**</span>
   - **CVPR**
     - ***X-Dyna:*** Expressive Dynamic Human Image Animation [[Paper]](https://arxiv.org/pdf/2501.10021) [[Code]](https://github.com/bytedance/X-Dyna)
