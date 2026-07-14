@@ -107,6 +107,7 @@ Recent news of this GitHub repo are listed as follows.
 |Morph Studio|Morph|2023|-|[link](https://www.morphstudio.com/)|-|
 |Pika|Pika|2023|-|[link](https://pika.art/)|-|
 |PixelDance|ByteDance|2023|[link](https://arxiv.org/abs/2311.10982)|[link](https://makepixelsdance.github.io/)|-|
+|iLoveVideoEditor|iLoveVideoEditor SRL|2026|-|[link](https://ilovevideoeditor.com)|AI video editing & generation platform with MCP server, API and SDKs|
 
 
 [<u><small><🎯Back to Top></small></u>](#contents)
