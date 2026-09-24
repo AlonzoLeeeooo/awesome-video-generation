@@ -358,6 +358,9 @@ Recent news of this GitHub repo are listed as follows.
 
 <!-- omit in toc -->
 ## Video Editing
+- <span id="editing-year-2026">**Year 2026**</span>
+  - **IEEE TIP**
+    - ***OutDreamer:*** Video Outpainting with a Diffusion Transformer [[Paper]](https://arxiv.org/abs/2506.22298) [[Project]](https://github.com/zhongzero/OutDreamer)
 - <span id="editing-year-2025">**Year 2025**</span>
   - **CVPR**
     - ***VideoDirector:*** Precise Video Editing via Text-to-Video Models [[Paper]](https://arxiv.org/pdf/2411.17592) [[Code]](https://github.com/Yukun66/Video_Director)
