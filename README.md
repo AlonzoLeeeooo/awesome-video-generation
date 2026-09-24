@@ -515,6 +515,7 @@ Generation via Single Still Image [[Paper]](https://www.ecva.net/papers/eccv_202
 - [arXiv 2024] ***VidProM:*** A Million-scale Real Prompt-Gallery Dataset for Text-to-Video Diffusion Models [[Paper]](https://arxiv.org/pdf/2403.06098.pdf) [[Dataset]](https://github.com/WangWenhao0716/VidProM)
 - [CVPR 2025] ***HOIGen-1M:*** A Large-scale Dataset for Human-Object Interaction Video Generation [[Paper]](https://arxiv.org/pdf/2503.23715) [[Dataset]](https://huggingface.co/datasets/HOIGen/HOIGen-1M)
 - [CVPR 2025] ***VEU-Bench:*** Towards Comprehensive Understanding of Video Editing [[Paper]](https://arxiv.org/abs/2504.17828)
+- ***MiniMax H3 1K Prompt Curation:*** curated index of the MiniMax H3 1K prompt dataset (1,000 prompts + 768p videos) — 3-field prompt anatomy, 10 hand-picked reusable prompts, and a model comparison. [[Curated repo]](https://github.com/yangzhou-chaofan/minimax-h3-1000-prompts) [[Interactive atlas]](https://neta.art/use-cases/en/h3-1000-prompt-list)
 
 [<u><small><🎯Back to Top></small></u>](#contents)
 
