@@ -32,6 +32,7 @@ Recent news of this GitHub repo are listed as follows.
     - [Year 2022](#text-year-2022)
     - [Year 2021](#text-year-2021)
   - [Image-to-Video Generation](#image-to-video-generation)
+    - [Year 2026](#image-year-2026)
     - [Year 2024](#image-year-2024)
     - [Year 2023](#image-year-2023)
     - [Year 2022](#image-year-2022)
@@ -263,6 +264,9 @@ Recent news of this GitHub repo are listed as follows.
 
 <!-- omit in toc -->
 ## Image-to-Video Generation
+- <span id="image-year-2026">**Year 2026**</span>
+  - **arXiv**
+    - ***Honeycomb:*** Constant-Size Scene Memory Representation for Video World Models [[Paper]](https://arxiv.org/pdf/2609.37690) [[Project]](https://jackswl.github.io/honeycomb/) [[Code]](https://github.com/kaichen-z/HoneyComb)
 - <span id="image-year-2025">**Year 2025**</span>
   - **CVPR**
     - ***MotionStone:*** Decoupled Motion Intensity Modulation with Diffusion Transformer for Image-to-Video Generation [[Paper]](https://arxiv.org/pdf/2412.05848)
