@@ -266,6 +266,7 @@ Recent news of this GitHub repo are listed as follows.
 ## Image-to-Video Generation
 - <span id="image-year-2026">**Year 2026**</span>
   - **arXiv**
+    - ***LIFT:*** Layout-In-Future Video Generation under Large Viewpoint Change via On-Policy Self-Distillation [[Paper]](https://arxiv.org/pdf/2609.38146) [[Project]](https://jsxzs.github.io/LIFT) [[Code]](https://github.com/jsxzs/LIFT)
     - ***Honeycomb:*** Constant-Size Scene Memory Representation for Video World Models [[Paper]](https://arxiv.org/pdf/2609.37690) [[Project]](https://jackswl.github.io/honeycomb/) [[Code]](https://github.com/kaichen-z/HoneyComb)
 - <span id="image-year-2025">**Year 2025**</span>
   - **CVPR**
