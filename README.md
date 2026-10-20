@@ -521,6 +521,7 @@ Generation via Single Still Image [[Paper]](https://www.ecva.net/papers/eccv_202
 - [CVPR 2025] ***HOIGen-1M:*** A Large-scale Dataset for Human-Object Interaction Video Generation [[Paper]](https://arxiv.org/pdf/2503.23715) [[Dataset]](https://huggingface.co/datasets/HOIGen/HOIGen-1M)
 - [CVPR 2025] ***VEU-Bench:*** Towards Comprehensive Understanding of Video Editing [[Paper]](https://arxiv.org/abs/2504.17828)
 - ***MiniMax H3 1K Prompt Curation:*** curated index of the MiniMax H3 1K prompt dataset (1,000 prompts + 768p videos) — 3-field prompt anatomy, 10 hand-picked reusable prompts, and a model comparison. [[Curated repo]](https://github.com/yangzhou-chaofan/minimax-h3-1000-prompts) [[Interactive atlas]](https://neta.art/use-cases/en/h3-1000-prompt-list)
+- [2026] ***TGK AI Video Generators 2026:*** Five-Model Text-to-Video Test Dataset [[Dataset]](https://huggingface.co/datasets/These-Guys-Know/tgk-ai-video-generators-2026) [[DOI]](https://doi.org/10.5281/zenodo.22703595) [[Article]](https://theseguysknow.io/best-ai-video-generators-2026-tested/)
 
 [<u><small><🎯Back to Top></small></u>](#contents)
 
