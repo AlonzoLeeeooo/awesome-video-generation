@@ -152,6 +152,14 @@ Recent news of this GitHub repo are listed as follows.
     - ***OpenVid-1M:*** A Large-Scale High-Quality Dataset for Text-to-video Generation [[Paper]](https://openreview.net/forum?id=j7kdXSrISM) [[Project]](https://nju-pcalab.github.io/projects/openvid/) [[Code]](https://github.com/NJU-PCALab/OpenVid-1M) [[Dataset]](https://huggingface.co/datasets/nkp37/OpenVid-1M)
     - ***CogVideoX:*** Text-to-Video Diffusion Models with An Expert Transformer [[Paper]](https://openreview.net/forum?id=LQzN6TRFg9)
     - Pyramidal Flow Matching for Efficient Video Generative Modeling [[Paper]](https://openreview.net/forum?id=66NzcRQuOq) [[Project]](https://pyramid-flow.github.io/) [[Code]](https://github.com/jy0205/Pyramid-Flow)
+  - **AAAI**
+    - ***Ouroboros-Diffusion:*** Exploring Consistent Content Generation in Tuning-free Long Video Diffusion [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32205)
+    - ***UFO:*** Enhancing Diffusion-Based Video Generation with a Uniform Frame Organizer [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32573)
+    - ***Modular-Cam:*** Modular Dynamic Camera-view Video Generation with LLM [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32681)
+    - ***AdaDiff:*** Adaptive Step Selection for Fast Diffusion Models [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33075)
+    - ***PanoDiT:*** Panoramic Videos Generation with Diffusion Transformer [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33089)
+    - ***VideoElevator:*** Elevating Video Generation Quality with Versatile Text-to-Image Diffusion Models [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33114)
+    - ***DriveDreamer-2:*** LLM-Enhanced World Models for Diverse Driving Video Generation [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33130)
   - **arXiv**
     - Stable Video Infinity: Infinite-Length Video Generation with Error Recycling [[Paper]](https://arxiv.org/pdf/2510.09212) [[Project]](https://stable-video-infinity.github.io/homepage/) [[Code]](https://github.com/vita-epfl/Stable-Video-Infinity?tab=readme-ov-file) [[Video (YouTube)]](https://www.youtube.com/watch?v=p71Wp1FuqTw) [[Video (Bilibili)]](https://www.bilibili.com/video/BV1Zd4UzpE6G/?pop_share=1)
     - ***FEAT:*** Full-Dimensional Efficient Attention Transformer for Medical Video Generation [[Paper]](https://www.arxiv.org/pdf/2506.04956) [[Code]](https://github.com/Yaziwel/FEAT)
@@ -282,6 +290,11 @@ Recent news of this GitHub repo are listed as follows.
     - ***SG-I2V:*** Self-Guided Trajectory Control in Image-to-Video Generation [[Paper]](https://openreview.net/forum?id=uQjySppU9x) [[Project]](https://kmcode1.github.io/Projects/SG-I2V/) [[Code]](https://github.com/Kmcode1/SG-I2V)
     - Generative Inbetweening: Adapting Image-to-Video Models for Keyframe Interpolation [[Paper]](https://openreview.net/forum?id=ykD8a9gJvy)
     - Pyramidal Flow Matching for Efficient Video Generative Modeling [[Paper]](https://openreview.net/forum?id=66NzcRQuOq) [[Project]](https://pyramid-flow.github.io/) [[Code]](https://github.com/jy0205/Pyramid-Flow)
+  - **AAAI**
+    - ***Image Conductor:*** Precision Control for Interactive Video Synthesis [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32533)
+    - ***TIV-Diffusion:*** Towards Object-Centric Movement for Text-driven Image to Video Generation [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32861)
+    - ***TrackGo:*** A Flexible and Efficient Method for Controllable Video Generation [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33167)
+    - ***CAGE:*** Unsupervised Visual Composition and Animation for Controllable Video Generation [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33775)
 - <span id="image-year-2024">**Year 2024**</span>
   - **CVPR**
     - ***VideoBooth:*** Diffusion-based Video Generation with Image Prompts [[Paper]](https://arxiv.org/pdf/2312.00777) [[Code]](https://github.com/Vchitect/VideoBooth) [[Project]](https://vchitect.github.io/VideoBooth-project/) [[Video]](https://www.youtube.com/watch?v=10DxH1JETzI)
@@ -326,6 +339,13 @@ Recent news of this GitHub repo are listed as follows.
 
 <!-- omit in toc -->
 ## Audio-to-Video Generation
+- <span id="audio-year-2025">**Year 2025**</span>  
+  - **AAAI**
+    - ***EchoMimic:*** Lifelike Audio-Driven Portrait Animations through Editable Landmark Conditions [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32241)
+    - ***MoDiTalker:*** Motion-Disentangled Diffusion Model for High-Fidelity Talking Head Generation [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32452)
+    - ***AnyTalk:*** Multi-modal Driven Multi-domain Talking Head Generation [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32874)
+    - ***InstructAvatar:*** Text-Guided Emotion and Motion Control for Avatar Generation [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32877)
+    - ***GoHD:*** Gaze-oriented and Highly Disentangled Portrait Animation with Rhythmic Poses and Realistic Expressions [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33186)
 - <span id="audio-year-2024">**Year 2024**</span>  
   - **AAAI**
     - Diverse and Aligned Audio-to-Video Generation 
@@ -338,6 +358,10 @@ Recent news of this GitHub repo are listed as follows.
 
 <!-- omit in toc -->
 ## Personalized Video Generation
+- <span id="personalized-year-2025">**Year 2025**</span>
+  - **AAAI**
+    - ***CustomTTT:*** Motion and Appearance Customized Video Generation via Test-Time Training [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32182)
+    - ***CustomCrafter:*** Customized Video Generation with Preserving Motion and Concept Composition Abilities [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32914)
 - <span id="personalized-year-2024">**Year 2024**</span>
   - **CVPR**
     - High-fidelity Person-centric Subject-to-Image Synthesis [[Paper]](https://arxiv.org/pdf/2311.10329) [[Code]](https://github.com/CodeGoat24/Face-diffuser)
@@ -390,6 +414,13 @@ Recent news of this GitHub repo are listed as follows.
     - ***Teleportraits:*** Training-Free People Insertion into Any Scene [[Paper]](https://iccv.thecvf.com/virtual/2025/poster/809)
   - **ICLR**
     - ***VideoGrain:*** Modulating Space-Time Attention for Multi-Grained Video Editing [[Paper]](https://arxiv.org/pdf/2502.17258) [[Project]](https://knightyxp.github.io/VideoGrain_project_page/) [[Code]](https://github.com/knightyxp/VideoGrain)
+  - **AAAI**
+    - ***FreeMask:*** Rethinking the Importance of Attention Masks for Zero-Shot Video Editing [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32185)
+    - ***Infinite-Canvas:*** Higher-Resolution Video Outpainting with Extensive Content Generation [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32213)
+    - Elevating Flow-Guided Video Inpainting with Reference Generation [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32255)
+    - Video Diffusion Models Are Strong Video Inpainter [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32477)
+    - ***DriveEditor:*** A Unified 3D Information-Guided Framework for Controllable Object Editing in Driving Scenes [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32548)
+    - Re-Attentional Controllable Video Diffusion Editing [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32876)
 - <span id="editing-year-2024">**Year 2024**</span>
   - **CVPR**
     - ***VMC:*** Video Motion Customization using Temporal Attention Adaption for Text-to-Video Diffusion Models [[Paper]](https://arxiv.org/pdf/2312.00845) [[Code]](https://github.com/HyeonHo99/Video-Motion-Customization) [[Project]](https://video-motion-customization.github.io/)
@@ -471,6 +502,9 @@ Recent news of this GitHub repo are listed as follows.
     - ***Ponimator:*** Unfolding Interactive Pose for Versatile Human-human Interaction Animation [[Paper]](https://iccv.thecvf.com/virtual/2025/poster/1453)
   - **ICLR**
     - ***Animate-X:*** Universal Character Image Animation with Enhanced Motion Representation [[Paper]](https://arxiv.org/pdf/2411.17697) [[Project]](https://lucaria-academy.github.io/Animate-X/) [[Code]](https://github.com/antgroup/animate-x)
+  - **AAAI**
+    - ***ReMask-Animate:*** Refined Character Image Animation Using Mask-Guided Adapters [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32932)
+    - ***RealPortrait:*** Realistic Portrait Animation with Diffusion Transformers [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33012)
   - **arXiv**
     - ***EgoControl***: Controllable Egocentric Video Generation via 3D Full-Body Poses [[Paper]](https://arxiv.org/abs/2511.18173) [[Project]](https://cvg-bonn.github.io/EgoControl/) [[Code]](https://github.com/CVG-Bonn/EgoControl) 
     - ***UniAnimate-DiT:*** Human Image Animation with Large-Scale Video Diffusion Transformer [[Paper]](https://arxiv.org/pdf/2504.11289) [[Project]](https://unianimate.github.io/) [[Code]](https://github.com/ali-vilab/UniAnimate-DiT)
@@ -527,6 +561,7 @@ Generation via Single Still Image [[Paper]](https://www.ecva.net/papers/eccv_202
 <!-- omit in toc -->
 # Evaluation Metrics
 - [CVPR 2025] **T2V-CompBench:*** A Comprehensive Benchmark for Compositional Text-to-video Generation [[Paper]](https://arxiv.org/pdf/2407.14505) [[Project]](https://github.com/KaiyueSun98/T2V-CompBench/tree/V2) [[Code]](https://github.com/KaiyueSun98/T2V-CompBench/tree/V2)
+- [AAAI 2025] ***EditBoard:*** Towards a Comprehensive Evaluation Benchmark for Text-Based Video Editing Models [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33754)
 - [arXiv 2024] ***Davis-Edit:*** Stablizing Shape Consistency in Video-to-Video Editing [[Paper]](https://arxiv.org/pdf/2411.11045) [[Project]](https://alonzoleeeooo.github.io/StableV2V/) [[Code]](https://github.com/AlonzoLeeeooo/StableV2V)
 - [CVPR 2024] **VBench:** Comprehensive Benchmark Suite for Video Generative Models [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Huang_VBench_Comprehensive_Benchmark_Suite_for_Video_Generative_Models_CVPR_2024_paper.pdf) [[Code]](https://github.com/Vchitect/VBench)
 - [ICCV 2023] **DOVER:** Exploring Video Quality Assessment on User Generated Contents from Aesthetic and Technical Perspectives [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_Exploring_Video_Quality_Assessment_on_User_Generated_Contents_from_Aesthetic_ICCV_2023_paper.pdf) [[Code]](https://github.com/VQAssessment/DOVER)
