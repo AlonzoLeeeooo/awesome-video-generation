@@ -152,6 +152,26 @@ Recent news of this GitHub repo are listed as follows.
     - ***OpenVid-1M:*** A Large-Scale High-Quality Dataset for Text-to-video Generation [[Paper]](https://openreview.net/forum?id=j7kdXSrISM) [[Project]](https://nju-pcalab.github.io/projects/openvid/) [[Code]](https://github.com/NJU-PCALab/OpenVid-1M) [[Dataset]](https://huggingface.co/datasets/nkp37/OpenVid-1M)
     - ***CogVideoX:*** Text-to-Video Diffusion Models with An Expert Transformer [[Paper]](https://openreview.net/forum?id=LQzN6TRFg9)
     - Pyramidal Flow Matching for Efficient Video Generative Modeling [[Paper]](https://openreview.net/forum?id=66NzcRQuOq) [[Project]](https://pyramid-flow.github.io/) [[Code]](https://github.com/jy0205/Pyramid-Flow)
+    - ***ARLON:*** Boosting Diffusion Transformers with Autoregressive Models for Long Video Generation [[Paper]](https://openreview.net/forum?id=8pusxkLEQO)
+    - ***VD3D:*** Taming Large Video Diffusion Transformers for 3D Camera Control [[Paper]](https://openreview.net/forum?id=0n4bS0R5MM)
+    - Real-Time Video Generation with Pyramid Attention Broadcast [[Paper]](https://openreview.net/forum?id=hDBrQ4DApF)
+    - ***SynCamMaster:*** Synchronizing Multi-Camera Video Generation from Diverse Viewpoints [[Paper]](https://openreview.net/forum?id=m8Rk3HLGFx)
+    - ***FreqPrior:*** Improving Video Diffusion Models with Frequency Filtering Gaussian Noise [[Paper]](https://openreview.net/forum?id=8x0SGbCpzs)
+    - ***FasterCache:*** Training-Free Video Diffusion Model Acceleration with High Quality [[Paper]](https://openreview.net/forum?id=W49UjcpGxx)
+    - ***Lumina-T2X:*** Scalable Flow-based Large Diffusion Transformer for Flexible Resolution Generation [[Paper]](https://openreview.net/forum?id=EbWf36quzd)
+    - ***VILA-U:*** a Unified Foundation Model Integrating Visual Understanding and Generation [[Paper]](https://openreview.net/forum?id=02haSpO453)
+    - ***T2V-Turbo-v2:*** Enhancing Video Model Post-Training through Data, Reward, and Conditional Guidance Design [[Paper]](https://openreview.net/forum?id=BZwXMqu4zG)
+    - ***MotionAura:*** Generating High-Quality and Motion Consistent Videos using Discrete Diffusion [[Paper]](https://openreview.net/forum?id=bW9fGYo44s)
+    - ***ViDiT-Q:*** Efficient and Accurate Quantization of Diffusion Transformers for Image and Video Generation [[Paper]](https://openreview.net/forum?id=E1N1oxd63b)
+    - ***SAFREE:*** Training-Free and Adaptive Guard for Safe Text-to-Image And Video Generation [[Paper]](https://openreview.net/forum?id=hgTFotBRKl)
+    - ***CameraCtrl:*** Enabling Camera Control for Video Diffusion Models [[Paper]](https://openreview.net/forum?id=Z4evOUYrk7)
+    - ***GameGen-X:*** Interactive Open-world Game Video Generation [[Paper]](https://openreview.net/forum?id=8VG8tpPZhe)
+    - ***IV-mixed Sampler:*** Leveraging Image Diffusion Models for Enhanced Video Synthesis [[Paper]](https://openreview.net/forum?id=ImpeMDJfVL)
+    - ***MovieDreamer:*** Hierarchical Generation for Coherent Long Visual Sequences [[Paper]](https://openreview.net/forum?id=QHj2LL958o)
+    - ***Field-DiT:*** Diffusion Transformer on Unified Video, 3D, and Game Field Generation [[Paper]](https://openreview.net/forum?id=w6YS9A78fq)
+    - Accelerating Diffusion Transformers with Token-wise Feature Caching [[Paper]](https://openreview.net/forum?id=yYZbZGo4ei)
+    - ***VSTAR:*** Generative Temporal Nursing for Longer Dynamic Video Synthesis [[Paper]](https://openreview.net/forum?id=Kb9PnkWYNT)
+    - ***PT-T2I/V:*** An Efficient Proxy-Tokenized Diffusion Transformer for Text-to-Image/Video-Task [[Paper]](https://openreview.net/forum?id=lTrrnNdkOX)
   - **AAAI**
     - ***Ouroboros-Diffusion:*** Exploring Consistent Content Generation in Tuning-free Long Video Diffusion [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32205)
     - ***UFO:*** Enhancing Diffusion-Based Video Generation with a Uniform Frame Organizer [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32573)
@@ -290,6 +310,12 @@ Recent news of this GitHub repo are listed as follows.
     - ***SG-I2V:*** Self-Guided Trajectory Control in Image-to-Video Generation [[Paper]](https://openreview.net/forum?id=uQjySppU9x) [[Project]](https://kmcode1.github.io/Projects/SG-I2V/) [[Code]](https://github.com/Kmcode1/SG-I2V)
     - Generative Inbetweening: Adapting Image-to-Video Models for Keyframe Interpolation [[Paper]](https://openreview.net/forum?id=ykD8a9gJvy)
     - Pyramidal Flow Matching for Efficient Video Generative Modeling [[Paper]](https://openreview.net/forum?id=66NzcRQuOq) [[Project]](https://pyramid-flow.github.io/) [[Code]](https://github.com/jy0205/Pyramid-Flow)
+    - ***Framer:*** Interactive Frame Interpolation [[Paper]](https://openreview.net/forum?id=Lp40Z40N07)
+    - Training-free Camera Control for Video Generation [[Paper]](https://openreview.net/forum?id=KI1zldOFz9)
+    - ***MotionClone:*** Training-Free Motion Cloning for Controllable Video Generation [[Paper]](https://openreview.net/forum?id=aY3L65HgHJ)
+    - Trajectory attention for fine-grained video motion control [[Paper]](https://openreview.net/forum?id=2z1HT5lw5M)
+    - ***I2VControl-Camera:*** Precise Video Camera Control with Adjustable Motion Strength [[Paper]](https://openreview.net/forum?id=AcAD4VEgCX)
+    - ***ViBiDSampler:*** Enhancing Video Interpolation Using Bidirectional Diffusion Sampler [[Paper]](https://openreview.net/forum?id=nNYA7tcJSE)
   - **AAAI**
     - ***Image Conductor:*** Precision Control for Interactive Video Synthesis [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32533)
     - ***TIV-Diffusion:*** Towards Object-Centric Movement for Text-driven Image to Video Generation [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32861)
@@ -359,6 +385,8 @@ Recent news of this GitHub repo are listed as follows.
 <!-- omit in toc -->
 ## Personalized Video Generation
 - <span id="personalized-year-2025">**Year 2025**</span>
+  - **ICLR**
+    - ***TweedieMix:*** Improving Multi-Concept Fusion for Diffusion-based Image/Video Generation [[Paper]](https://openreview.net/forum?id=ee2c4MEx9l)
   - **AAAI**
     - ***CustomTTT:*** Motion and Appearance Customized Video Generation via Test-Time Training [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32182)
     - ***CustomCrafter:*** Customized Video Generation with Preserving Motion and Concept Composition Abilities [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32914)
@@ -502,6 +530,11 @@ Recent news of this GitHub repo are listed as follows.
     - ***Ponimator:*** Unfolding Interactive Pose for Versatile Human-human Interaction Animation [[Paper]](https://iccv.thecvf.com/virtual/2025/poster/1453)
   - **ICLR**
     - ***Animate-X:*** Universal Character Image Animation with Enhanced Motion Representation [[Paper]](https://arxiv.org/pdf/2411.17697) [[Project]](https://lucaria-academy.github.io/Animate-X/) [[Code]](https://github.com/antgroup/animate-x)
+    - ***CyberHost:*** A One-stage Diffusion Framework for Audio-driven Talking Body Generation [[Paper]](https://openreview.net/forum?id=vaEPihQsAA)
+    - ***DAWN:*** Dynamic Frame Avatar with Non-autoregressive Diffusion Framework for Talking head Video Generation [[Paper]](https://openreview.net/forum?id=vjHySpxDsv)
+    - Towards Multiple Character Image Animation Through Enhancing Implicit Decoupling [[Paper]](https://openreview.net/forum?id=aqlzXgXwWa)
+    - ***Loopy:*** Taming Audio-Driven Portrait Avatar with Long-Term Motion Dependency [[Paper]](https://openreview.net/forum?id=weM4YBicIP)
+    - ***Hallo2:*** Long-Duration and High-Resolution Audio-Driven Portrait Image Animation [[Paper]](https://openreview.net/forum?id=rkzabmWl5k)
   - **AAAI**
     - ***ReMask-Animate:*** Refined Character Image Animation Using Mask-Guided Adapters [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32932)
     - ***RealPortrait:*** Realistic Portrait Animation with Diffusion Transformers [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33012)
@@ -562,6 +595,8 @@ Generation via Single Still Image [[Paper]](https://www.ecva.net/papers/eccv_202
 # Evaluation Metrics
 - [CVPR 2025] **T2V-CompBench:*** A Comprehensive Benchmark for Compositional Text-to-video Generation [[Paper]](https://arxiv.org/pdf/2407.14505) [[Project]](https://github.com/KaiyueSun98/T2V-CompBench/tree/V2) [[Code]](https://github.com/KaiyueSun98/T2V-CompBench/tree/V2)
 - [AAAI 2025] ***EditBoard:*** Towards a Comprehensive Evaluation Benchmark for Text-Based Video Editing Models [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33754)
+- [ICLR 2025] ***Beyond FVD:*** An Enhanced Evaluation Metrics for Video Generation Distribution Quality [[Paper]](https://openreview.net/forum?id=cC3LxGZasH)
+- [ICLR 2025] ***VideoPhy:*** Evaluating Physical Commonsense for Video Generation [[Paper]](https://openreview.net/forum?id=9D2QvO1uWj)
 - [arXiv 2024] ***Davis-Edit:*** Stablizing Shape Consistency in Video-to-Video Editing [[Paper]](https://arxiv.org/pdf/2411.11045) [[Project]](https://alonzoleeeooo.github.io/StableV2V/) [[Code]](https://github.com/AlonzoLeeeooo/StableV2V)
 - [CVPR 2024] **VBench:** Comprehensive Benchmark Suite for Video Generative Models [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Huang_VBench_Comprehensive_Benchmark_Suite_for_Video_Generative_Models_CVPR_2024_paper.pdf) [[Code]](https://github.com/Vchitect/VBench)
 - [ICCV 2023] **DOVER:** Exploring Video Quality Assessment on User Generated Contents from Aesthetic and Technical Perspectives [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_Exploring_Video_Quality_Assessment_on_User_Generated_Contents_from_Aesthetic_ICCV_2023_paper.pdf) [[Code]](https://github.com/VQAssessment/DOVER)
