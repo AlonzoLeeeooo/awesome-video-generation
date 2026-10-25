@@ -109,6 +109,7 @@ Recent news of this GitHub repo are listed as follows.
 |Pika|Pika|2023|-|[link](https://pika.art/)|-|
 |PixelDance|ByteDance|2023|[link](https://arxiv.org/abs/2311.10982)|[link](https://makepixelsdance.github.io/)|-|
 |Podframes|Jellypod|2026|-|[link](https://github.com/Jellypod-Inc/podframes)|Open-source topic-to-podcast video pipeline with mixed TTS voices, lip-synced avatars, captions, and b-roll.|
+|pitchboom.io|THE VIBECODING AGENCY|2026|-|[link](https://pitchboom.io)|AI motion-design studio for video ads: turns a product URL or a short brief into a scripted, voiced MP4 in 16:9, 9:16, 1:1, 4:5 and 3:4.|
 
 
 [<u><small><🎯Back to Top></small></u>](#contents)
