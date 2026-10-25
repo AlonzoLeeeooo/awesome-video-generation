@@ -83,6 +83,10 @@ Recent news of this GitHub repo are listed as follows.
   - [x] Update Previous ACM MM papers
 - Regular Maintenance of Preprint arXiv Papers and Missed Papers
 
+|KDA Firestarter AI Dance|Independent (Edison Yang)|2026|-|[https://kdafirestarterai.dev](https://kdafirestarterai.dev)|Photo→13s 21:9 solo dance; Paid from $7.99; unofficial, not affiliated with Riot Games/K/DA|
+|A2O LITE NEON AI Dance|Independent (Edison Yang)|2026|-|[https://a2oliteai.org](https://a2oliteai.org)|Two photos→15s neon duo dance + reference soundtrack; Paid from $7.99|
+|dime dime baby ai|Independent (Edison Yang)|2026|-|[https://dimedimebabyai.dev](https://dimedimebabyai.dev)|Photo→~5s 9:16 AI dance (Quince Classic/Party Groove); Paid from $7.99|
+
 [<u><small><🎯Back to Top></small></u>](#contents)
 
 <!-- omit in toc -->
