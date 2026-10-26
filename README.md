@@ -131,6 +131,9 @@ Recent news of this GitHub repo are listed as follows.
 
 <!-- omit in toc -->
 ## Text-to-Video Generation
+- [Alors On Danse Video Maker](https://alorsondansevideo.com): Independent AI: two photos → 13s studio dance video (Paid; not affiliated with Stromae/TikTok)
+- [Bad Times AI](https://badtimesai.dev): Independent AI dance effect: one photo → 14–15s portrait dance video (Paid from $7.99)
+- [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com): Independent AI scene effect: two photos → balcony/spotlight meeting video (Paid from $7.99)
 - <span id="text-year-2026">**Year 2026**</span>
   - **AAAI**
     - Minute-Long Videos with Dual Parallelisms [[Paper]](https://arxiv.org/abs/2505.21070) [[Project]](https://dualparal-project.github.io/) [[Code]](https://github.com/DualParal-Project/DualParal)
