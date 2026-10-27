@@ -197,6 +197,15 @@ Recent news of this GitHub repo are listed as follows.
     - Accelerating Diffusion Transformers with Token-wise Feature Caching [[Paper]](https://openreview.net/forum?id=yYZbZGo4ei)
     - ***VSTAR:*** Generative Temporal Nursing for Longer Dynamic Video Synthesis [[Paper]](https://openreview.net/forum?id=Kb9PnkWYNT)
     - ***PT-T2I/V:*** An Efficient Proxy-Tokenized Diffusion Transformer for Text-to-Image/Video-Task [[Paper]](https://openreview.net/forum?id=lTrrnNdkOX)
+  - **ICML**
+    - ***VideoJAM:*** Joint Appearance-Motion Representations for Enhanced Motion Generation in Video Models [[Paper]](https://openreview.net/forum?id=yMJcHWcb2Z)
+    - ***Q-VDiT:*** Towards Accurate Quantization and Distillation of Video-Generation Diffusion Transformers [[Paper]](https://openreview.net/forum?id=Oeo53q93iP) [[Code]](https://github.com/wlfeng0509/Q-VDiT)
+    - ***Ca2-VDM:*** Efficient Autoregressive Video Diffusion Model with Causal Generation and Cache Sharing [[Paper]](https://openreview.net/forum?id=YbtH1aoE1V) [[Code]](https://github.com/Dawn-LX/CausalCache-VDM)
+    - Diffusion Adversarial Post-Training for One-Step Video Generation [[Paper]](https://openreview.net/forum?id=AAgzsnhc28)
+    - ***AsymRnR:*** Video Diffusion Transformers Acceleration with Asymmetric Reduction and Restoration [[Paper]](https://openreview.net/forum?id=5PiZevq9fY) [[Code]](https://github.com/wenhao728/AsymRnR)
+    - ***Sparse Video-Gen:*** Accelerating Video Diffusion Transformers with Spatial-Temporal Sparsity [[Paper]](https://openreview.net/forum?id=u8CA3qIS0V) [[Code]](https://github.com/svg-project/Sparse-VideoGen)
+    - Fast Video Generation with Sliding Tile Attention [[Paper]](https://openreview.net/forum?id=U74MOXPEJd) [[Code]](https://github.com/hao-ai-lab/FastVideo)
+    - ***RIFLEx:*** A Free Lunch for Length Extrapolation in Video Diffusion Transformers [[Paper]](https://openreview.net/forum?id=v3B79m7t8Z) [[Code]](https://github.com/thu-ml/DiT-Extrapolation)
   - **AAAI**
     - ***Ouroboros-Diffusion:*** Exploring Consistent Content Generation in Tuning-free Long Video Diffusion [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32205)
     - ***UFO:*** Enhancing Diffusion-Based Video Generation with a Uniform Frame Organizer [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32573)
@@ -361,6 +370,9 @@ Recent news of this GitHub repo are listed as follows.
     - ***TIV-Diffusion:*** Towards Object-Centric Movement for Text-driven Image to Video Generation [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32861)
     - ***TrackGo:*** A Flexible and Efficient Method for Controllable Video Generation [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33167)
     - ***CAGE:*** Unsupervised Visual Composition and Animation for Controllable Video Generation [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33775)
+  - **ICML**
+    - ***FrameBridge:*** Improving Image-to-Video Generation with Bridge Models [[Paper]](https://openreview.net/forum?id=iYmV2xRSNW)
+    - ***Cavia:*** Camera-controllable Multi-view Video Diffusion with View-Integrated Attention [[Paper]](https://openreview.net/forum?id=g5CijB2ERy)
 - <span id="image-year-2024">**Year 2024**</span>
   - **CVPR**
     - ***VideoBooth:*** Diffusion-based Video Generation with Image Prompts [[Paper]](https://arxiv.org/pdf/2312.00777) [[Code]](https://github.com/Vchitect/VideoBooth) [[Project]](https://vchitect.github.io/VideoBooth-project/) [[Video]](https://www.youtube.com/watch?v=10DxH1JETzI)
@@ -406,6 +418,9 @@ Recent news of this GitHub repo are listed as follows.
 <!-- omit in toc -->
 ## Audio-to-Video Generation
 - <span id="audio-year-2025">**Year 2025**</span>  
+  - **ICML**
+    - ***Playmate:*** Flexible Control of Portrait Animation via 3D-Implicit Space Guided Diffusion [[Paper]](https://openreview.net/forum?id=CG4QPoJ7ST) [[Code]](https://github.com/Playmate111/Playmate)
+    - Long-Term TalkingFace Generation via Motion-Prior Conditional Diffusion Model [[Paper]](https://openreview.net/forum?id=aINERD9MzJ)
   - **AAAI**
     - ***EchoMimic:*** Lifelike Audio-Driven Portrait Animations through Editable Landmark Conditions [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32241)
     - ***MoDiTalker:*** Motion-Disentangled Diffusion Model for High-Fidelity Talking Head Generation [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32452)
@@ -494,6 +509,8 @@ Recent news of this GitHub repo are listed as follows.
     - ***Teleportraits:*** Training-Free People Insertion into Any Scene [[Paper]](https://iccv.thecvf.com/virtual/2025/poster/809)
   - **ICLR**
     - ***VideoGrain:*** Modulating Space-Time Attention for Multi-Grained Video Editing [[Paper]](https://arxiv.org/pdf/2502.17258) [[Project]](https://knightyxp.github.io/VideoGrain_project_page/) [[Code]](https://github.com/knightyxp/VideoGrain)
+  - **ICML**
+    - Taming Rectified Flow for Inversion and Editing [[Paper]](https://openreview.net/forum?id=uDreZphNky) [[Code]](https://github.com/wangjiangshan0725/RF-Solver-Edit)
   - **AAAI**
     - ***FreeMask:*** Rethinking the Importance of Attention Masks for Zero-Shot Video Editing [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32185)
     - ***Infinite-Canvas:*** Higher-Resolution Video Outpainting with Extensive Content Generation [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32213)
@@ -660,6 +677,12 @@ Generation via Single Still Image [[Paper]](https://www.ecva.net/papers/eccv_202
 - [CVPR 2025] Is Your World Simulator a Good Story Presenter? A Consecutive Events-Based Benchmark for Future Long Video Generation [[Paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_Is_Your_World_Simulator_a_Good_Story_Presenter_A_Consecutive_CVPR_2025_paper.pdf) [[Project]](https://ypwang61.github.io/project/StoryEval) [[Code]](https://github.com/ypwang61/StoryEval)
 - [CVPR 2025] ***Video-Bench:*** Human-Aligned Video Generation Benchmark [[Paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Han_Video-Bench_Human-Aligned_Video_Generation_Benchmark_CVPR_2025_paper.pdf)
 - [CVPR 2025] Neuro-Symbolic Evaluation of Text-to-Video Models using Formal Verification [[Paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Sharan_Neuro-Symbolic_Evaluation_of_Text-to-Video_Models_using_Formal_Verification_CVPR_2025_paper.pdf) [[Project]](https://utaustin-swarmlab.github.io/NeuS-V/) [[Code]](https://github.com/UTAustin-SwarmLab/NeuS-V)
+- [ICML 2025] ***TRAJAN:*** Direct Motion Models for Assessing Generated Videos [[Paper]](https://openreview.net/forum?id=qpi7NiaCYj) [[Project]](https://trajan-paper.github.io/)
+- [ICML 2025] ***IPV-Bench:*** Impossible Videos [[Paper]](https://openreview.net/forum?id=MNSW6U5zUA) [[Project]](https://showlab.github.io/Impossible-Videos/)
+- [ICML 2025] ***How Far Is Video Generation from World Model:*** A Physical Law Perspective [[Paper]](https://openreview.net/forum?id=DLlVjZQ7vD) [[Project]](https://phyworld.github.io/)
+- [ICML 2025] ***Towards World Simulator:*** Crafting Physical Commonsense-Based Benchmark for Video Generation [[Paper]](https://openreview.net/forum?id=dIjMswSzgF)
+- [ICML 2025] ***GRADEO:*** Towards Human-Like Evaluation for Text-to-Video Generation via Multi-Step Reasoning [[Paper]](https://openreview.net/forum?id=8mkVTiU1jG)
+- [ICML 2025] ***WorldSimBench:*** Towards Video Generation Models as World Simulators [[Paper]](https://openreview.net/forum?id=j9pVnmulQm)
 - [arXiv 2024] ***Davis-Edit:*** Stablizing Shape Consistency in Video-to-Video Editing [[Paper]](https://arxiv.org/pdf/2411.11045) [[Project]](https://alonzoleeeooo.github.io/StableV2V/) [[Code]](https://github.com/AlonzoLeeeooo/StableV2V)
 - [CVPR 2024] **VBench:** Comprehensive Benchmark Suite for Video Generative Models [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Huang_VBench_Comprehensive_Benchmark_Suite_for_Video_Generative_Models_CVPR_2024_paper.pdf) [[Code]](https://github.com/Vchitect/VBench)
 - [ICCV 2023] **DOVER:** Exploring Video Quality Assessment on User Generated Contents from Aesthetic and Technical Perspectives [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_Exploring_Video_Quality_Assessment_on_User_Generated_Contents_from_Aesthetic_ICCV_2023_paper.pdf) [[Code]](https://github.com/VQAssessment/DOVER)
