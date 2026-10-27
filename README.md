@@ -88,6 +88,7 @@ Recent news of this GitHub repo are listed as follows.
 <!-- omit in toc -->
 # Products
 
+- [Ideoy](https://ideoy.ai) - Remake this week's viral meme videos from one selfie (AI image-to-video, 9:16, freemium).
 |Name|Organization|Year|Research Paper|Website|Specialties|
 |-|-|-|-|-|-|
 |Sora|OpenAI|2024|[link](https://www.midjourney.com/home)|[link](https://openai.com/sora)|-|
