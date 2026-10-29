@@ -214,6 +214,10 @@ Recent news of this GitHub repo are listed as follows.
     - ***PanoDiT:*** Panoramic Videos Generation with Diffusion Transformer [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33089)
     - ***VideoElevator:*** Elevating Video Generation Quality with Versatile Text-to-Image Diffusion Models [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33114)
     - ***DriveDreamer-2:*** LLM-Enhanced World Models for Diverse Driving Video Generation [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33130)
+  - **SIGGRAPH**
+    - ***CineMaster:*** A 3D-Aware and Controllable Framework for Cinematic Text-to-Video Generation [[Paper]](https://arxiv.org/pdf/2502.08639)
+    - ***Mobius:*** Text to Seamless Looping Video Generation via Latent Shift [[Paper]](https://arxiv.org/pdf/2502.20307)
+    - ***LayerFlow:*** A Unified Model for Layer-aware Video Generation [[Paper]](https://arxiv.org/pdf/2506.04228)
   - **arXiv**
     - Stable Video Infinity: Infinite-Length Video Generation with Error Recycling [[Paper]](https://arxiv.org/pdf/2510.09212) [[Project]](https://stable-video-infinity.github.io/homepage/) [[Code]](https://github.com/vita-epfl/Stable-Video-Infinity?tab=readme-ov-file) [[Video (YouTube)]](https://www.youtube.com/watch?v=p71Wp1FuqTw) [[Video (Bilibili)]](https://www.bilibili.com/video/BV1Zd4UzpE6G/?pop_share=1)
     - ***FEAT:*** Full-Dimensional Efficient Attention Transformer for Medical Video Generation [[Paper]](https://www.arxiv.org/pdf/2506.04956) [[Code]](https://github.com/Yaziwel/FEAT)
@@ -373,6 +377,12 @@ Recent news of this GitHub repo are listed as follows.
   - **ICML**
     - ***FrameBridge:*** Improving Image-to-Video Generation with Bridge Models [[Paper]](https://openreview.net/forum?id=iYmV2xRSNW)
     - ***Cavia:*** Camera-controllable Multi-view Video Diffusion with View-Integrated Attention [[Paper]](https://openreview.net/forum?id=g5CijB2ERy)
+  - **SIGGRAPH**
+    - ***FlexiAct:*** Towards Flexible Action Control in Heterogeneous Scenarios [[Paper]](https://arxiv.org/pdf/2505.03730)
+    - ***MotionCanvas:*** Cinematic Shot Design with Controllable Image-to-Video Generation [[Paper]](https://arxiv.org/pdf/2502.04299)
+    - ***Diffusion as Shader:*** 3D-aware Video Diffusion for Versatile Video Generation Control [[Paper]](https://arxiv.org/pdf/2501.03847)
+    - ***Reenact Anything:*** Semantic Video Motion Transfer Using Motion-Textual Inversion [[Paper]](https://arxiv.org/pdf/2408.00458)
+    - Generating Past and Future in Digital Painting Processes [[Paper]](https://lllyasviel.github.io/paints_alter_web/paints_alter.pdf)
 - <span id="image-year-2024">**Year 2024**</span>
   - **CVPR**
     - ***VideoBooth:*** Diffusion-based Video Generation with Image Prompts [[Paper]](https://arxiv.org/pdf/2312.00777) [[Code]](https://github.com/Vchitect/VideoBooth) [[Project]](https://vchitect.github.io/VideoBooth-project/) [[Video]](https://www.youtube.com/watch?v=10DxH1JETzI)
@@ -445,6 +455,8 @@ Recent news of this GitHub repo are listed as follows.
   - **AAAI**
     - ***CustomTTT:*** Motion and Appearance Customized Video Generation via Test-Time Training [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32182)
     - ***CustomCrafter:*** Customized Video Generation with Preserving Motion and Concept Composition Abilities [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32914)
+  - **SIGGRAPH**
+    - Dynamic Concepts Personalization from Single Videos [[Paper]](https://arxiv.org/pdf/2502.14844)
 - <span id="personalized-year-2024">**Year 2024**</span>
   - **CVPR**
     - High-fidelity Person-centric Subject-to-Image Synthesis [[Paper]](https://arxiv.org/pdf/2311.10329) [[Code]](https://github.com/CodeGoat24/Face-diffuser)
@@ -518,6 +530,9 @@ Recent news of this GitHub repo are listed as follows.
     - Video Diffusion Models Are Strong Video Inpainter [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32477)
     - ***DriveEditor:*** A Unified 3D Information-Guided Framework for Controllable Object Editing in Driving Scenes [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32548)
     - Re-Attentional Controllable Video Diffusion Editing [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32876)
+  - **SIGGRAPH**
+    - ***Sketch3DVE:*** Sketch-based 3D-Aware Scene Video Editing [[Paper]](https://arxiv.org/pdf/2508.13797)
+    - ***VideoPainter:*** Any-length Video Inpainting and Editing with Plug-and-Play Context Control [[Paper]](https://arxiv.org/pdf/2503.05639)
 - <span id="editing-year-2024">**Year 2024**</span>
   - **CVPR**
     - ***VMC:*** Video Motion Customization using Temporal Attention Adaption for Text-to-Video Diffusion Models [[Paper]](https://arxiv.org/pdf/2312.00845) [[Code]](https://github.com/HyeonHo99/Video-Motion-Customization) [[Project]](https://video-motion-customization.github.io/)
@@ -611,6 +626,8 @@ Recent news of this GitHub repo are listed as follows.
   - **AAAI**
     - ***ReMask-Animate:*** Refined Character Image Animation Using Mask-Guided Adapters [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32932)
     - ***RealPortrait:*** Realistic Portrait Animation with Diffusion Transformers [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33012)
+  - **SIGGRAPH**
+    - Interspatial Attention for Efficient 4D Human Video Generation [[Paper]](https://arxiv.org/pdf/2505.15800)
   - **arXiv**
     - ***EgoControl***: Controllable Egocentric Video Generation via 3D Full-Body Poses [[Paper]](https://arxiv.org/abs/2511.18173) [[Project]](https://cvg-bonn.github.io/EgoControl/) [[Code]](https://github.com/CVG-Bonn/EgoControl) 
     - ***UniAnimate-DiT:*** Human Image Animation with Large-Scale Video Diffusion Transformer [[Paper]](https://arxiv.org/pdf/2504.11289) [[Project]](https://unianimate.github.io/) [[Code]](https://github.com/ali-vilab/UniAnimate-DiT)
