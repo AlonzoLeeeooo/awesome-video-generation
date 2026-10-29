@@ -682,6 +682,7 @@ Generation via Single Still Image [[Paper]](https://www.ecva.net/papers/eccv_202
 - [CVPR 2025] ***TASTE-Rob:*** Advancing Video Generation of Task-Oriented Hand-Object Interaction for Generalizable Robotic Manipulation [[Paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhao_TASTE-Rob_Advancing_Video_Generation_of_Task-Oriented_Hand-Object_Interaction_for_Generalizable_CVPR_2025_paper.pdf) [[Dataset]](https://taste-rob.github.io/)
 - [CVPR 2025] ***OpenHumanVid:*** A Large-Scale High-Quality Dataset for Enhancing Human-Centric Video Generation [[Paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Li_OpenHumanVid_A_Large-Scale_High-Quality_Dataset_for_Enhancing_Human-Centric_Video_Generation_CVPR_2025_paper.pdf)
 - ***MiniMax H3 1K Prompt Curation:*** curated index of the MiniMax H3 1K prompt dataset (1,000 prompts + 768p videos) — 3-field prompt anatomy, 10 hand-picked reusable prompts, and a model comparison. [[Curated repo]](https://github.com/yangzhou-chaofan/minimax-h3-1000-prompts) [[Interactive atlas]](https://neta.art/use-cases/en/h3-1000-prompt-list)
+- [2026] ***TGK AI Video Generators 2026:*** Five-Model Text-to-Video Test Dataset [[Dataset]](https://huggingface.co/datasets/These-Guys-Know/tgk-ai-video-generators-2026) [[DOI]](https://doi.org/10.5281/zenodo.22703595) [[Article]](https://theseguysknow.io/best-ai-video-generators-2026-tested/)
 
 [<u><small><🎯Back to Top></small></u>](#contents)
 
