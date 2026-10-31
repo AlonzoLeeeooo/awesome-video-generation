@@ -171,6 +171,49 @@ Recent news of this GitHub repo are listed as follows.
     - One-Minute Video Generation with Test-Time Training [[Paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Dalal_One-Minute_Video_Generation_with_Test-Time_Training_CVPR_2025_paper.pdf) [[Project]](https://test-time-training.github.io/video-dit) [[Code]](https://github.com/test-time-training/ttt-video-dit)
   - **ICCV**
     - ***Unified Video Generation:*** Unified Video Generation via Next-Set Prediction in Continuous Domain [[Paper]](https://iccv.thecvf.com/virtual/2025/poster/72)
+    - Adversarial Distribution Matching for Diffusion Distillation Towards Efficient Image and Video Synthesis [[Paper]](https://arxiv.org/abs/2507.18569)
+    - REDUCIO! Generating 1K Video within 16 Seconds using Extremely Compressed Motion Latents [[Paper]](https://arxiv.org/abs/2411.13552)
+    - ***MagicDrive-V2:*** High-Resolution Long Video Generation for Autonomous Driving with Adaptive Control [[Paper]](https://openaccess.thecvf.com/content/ICCV2025/papers/Gao_MagicDrive-V2_High-Resolution_Long_Video_Generation_for_Autonomous_Driving_with_Adaptive_ICCV_2025_paper.pdf)
+    - ***Decouple and Track:*** Benchmarking and Improving Video Diffusion Transformers For Motion Transfer [[Paper]](https://arxiv.org/abs/2503.17350)
+    - ***TokensGen:*** Harnessing Condensed Tokens for Long Video Generation [[Paper]](https://arxiv.org/abs/2507.15728)
+    - ***Prompt-A-Video:*** Prompt Your Video Diffusion Model via Preference-Aligned LLM [[Paper]](https://openaccess.thecvf.com/content/ICCV2025/papers/Ji_Prompt-A-Video_Prompt_Your_Video_Diffusion_Model_via_Preference-Aligned_LLM_ICCV_2025_paper.pdf)
+    - ***LiON-LoRA:*** Rethinking LoRA Fusion to Unify Controllable Spatial and Temporal Generation for Video Diffusion [[Paper]](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhang_LiON-LoRA_Rethinking_LoRA_Fusion_to_Unify_Controllable_Spatial_and_Temporal_ICCV_2025_paper.pdf)
+    - ***DropletVideo:*** A Dataset and Approach to Explore Integral Spatio-Temporal Consistent Video Generation [[Paper]](https://arxiv.org/abs/2503.06053)
+    - The Best of Both Worlds: Integrating Language Models and Diffusion Models for Video Generation [[Paper]](https://arxiv.org/abs/2503.04606)
+    - Long Context Tuning for Video Generation [[Paper]](https://arxiv.org/abs/2503.10589)
+    - Dual-Expert Consistency Model for Efficient and High-Quality Video Generation [[Paper]](https://arxiv.org/abs/2506.03123)
+    - ***NoiseController:*** Towards Consistent Multi-view Video Generation via Noise Decomposition and Collaboration [[Paper]](https://arxiv.org/abs/2504.18448)
+    - ***InstaDrive:*** Instance-Aware Driving World Models for Realistic and Consistent Video Generation [[Paper]](https://openaccess.thecvf.com/content/ICCV2025/papers/Yang_InstaDrive_Instance-Aware_Driving_World_Models_for_Realistic_and_Consistent_Video_ICCV_2025_paper.pdf)
+    - ***EfficientMT:*** Efficient Temporal Adaptation for Motion Transfer in Text-to-Video Diffusion Models [[Paper]](https://arxiv.org/abs/2503.19369)
+    - ***DOLLAR:*** Few-Step Video Generation via Distillation and Latent Reward Optimization [[Paper]](https://arxiv.org/abs/2412.15689)
+    - ***GameFactory:*** Creating New Games with Generative Interactive Videos [[Paper]](https://arxiv.org/abs/2501.08325)
+    - ***DLFR-Gen:*** Diffusion-based Video Generation with Dynamic Latent Frame Rate [[Paper]](https://openaccess.thecvf.com/content/ICCV2025/papers/Yuan_DLFR-Gen_Diffusion-based_Video_Generation_with_Dynamic_Latent_Frame_Rate_ICCV_2025_paper.pdf)
+    - ***MatchDiffusion:*** Training-free Generation of Match-Cuts [[Paper]](https://arxiv.org/abs/2411.18677)
+    - ***QuantCache:*** Adaptive Importance-Guided Quantization with Hierarchical Latent and Layer Caching for Video Generation [[Paper]](https://arxiv.org/abs/2503.06545)
+    - ***Free-Form Motion Control:*** Controlling the 6D Poses of Camera and Objects in Video Generation [[Paper]](https://arxiv.org/abs/2501.01425)
+    - Causal-Entity Reflected Egocentric Traffic Accident Video Synthesis [[Paper]](https://arxiv.org/abs/2506.23263)
+    - ***FreeScale:*** Unleashing the Resolution of Diffusion Models via Tuning-Free Scale Fusion [[Paper]](https://arxiv.org/abs/2412.09626)
+    - ***VPO:*** Aligning Text-to-Video Generation Models with Prompt Optimization [[Paper]](https://arxiv.org/abs/2503.20491)
+    - ***Video-T1:*** Test-time Scaling for Video Generation [[Paper]](https://openaccess.thecvf.com/content/ICCV2025/papers/Liu_Video-T1_Test-time_Scaling_for_Video_Generation_ICCV_2025_paper.pdf)
+    - ***MotionShot:*** Adaptive Motion Transfer across Arbitrary Objects for Text-to-Video Generation [[Paper]](https://arxiv.org/abs/2507.16310)
+    - ***STIV:*** Scalable Text and Image Conditioned Video Generation [[Paper]](https://arxiv.org/abs/2412.07730)
+    - Generating, Fast and Slow: Scalable Parallel Video Generation with Video Interface Networks [[Paper]](https://arxiv.org/abs/2503.17539)
+    - ***V.I.P.:*** Iterative Online Preference Distillation for Efficient Video Diffusion Models [[Paper]](https://openaccess.thecvf.com/content/ICCV2025/papers/Kim_V.I.P.__Iterative_Online_Preference_Distillation_for_Efficient_Video_Diffusion_ICCV_2025_paper.pdf)
+    - Synthetic Video Enhances Physical Fidelity in Video Synthesis [[Paper]](https://arxiv.org/abs/2503.20822)
+    - ***Latent-Reframe:*** Enabling Camera Control for Video Diffusion Models without Training [[Paper]](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhou_Latent-Reframe_Enabling_Camera_Control_for_Video_Diffusion_Models_without_Training_ICCV_2025_paper.pdf)
+    - ***FullDiT:*** Video Generative Foundation Models with Multimodal Control via Full Attention [[Paper]](https://openaccess.thecvf.com/content/ICCV2025/papers/Ju_FullDiT_Video_Generative_Foundation_Models_with_Multimodal_Control_via_Full_ICCV_2025_paper.pdf)
+    - ***VideoAuteur:*** Towards Long Narrative Video Generation [[Paper]](https://arxiv.org/abs/2501.06173)
+    - Model Reveals What to Cache: Profiling-Based Feature Reuse for Video Diffusion Models [[Paper]](https://arxiv.org/abs/2504.03140)
+    - ***Turbo2K:*** Towards Ultra-Efficient and High-Quality 2K Video Synthesis [[Paper]](https://arxiv.org/abs/2504.14470)
+    - Adaptive Caching for Faster Video Generation with Diffusion Transformers [[Paper]](https://arxiv.org/abs/2411.02397)
+    - ***Free2Guide:*** Training-Free Text-to-Video Alignment using Image LVLM [[Paper]](https://openaccess.thecvf.com/content/ICCV2025/papers/Kim_Free2Guide_Training-Free_Text-to-Video_Alignment_using_Image_LVLM_ICCV_2025_paper.pdf)
+    - Progressive Growing of Video Tokenizers for Temporally Compact Latent Spaces [[Paper]](https://arxiv.org/abs/2501.05442)
+    - From Prompt to Progression: Taming Video Diffusion Models for Seamless Attribute Transition [[Paper]](https://arxiv.org/abs/2509.19690)
+    - Importance-Based Token Merging for Efficient Image and Video Generation [[Paper]](https://arxiv.org/abs/2411.16720)
+    - ***TITAN-Guide:*** Taming Inference-Time Alignment for Guided Text-to-Video Diffusion Models [[Paper]](https://openaccess.thecvf.com/content/ICCV2025/papers/Simon_TITAN-Guide_Taming_Inference-Time_Alignment_for_Guided_Text-to-Video_Diffusion_Models_ICCV_2025_paper.pdf)
+    - Training-free and Adaptive Sparse Attention for Efficient Long Video Generation [[Paper]](https://arxiv.org/abs/2502.21079)
+    - ***UniMLVG:*** Unified Framework for Multi-view Long Video Generation with Comprehensive Control Capabilities for Autonomous Driving [[Paper]](https://arxiv.org/abs/2412.04842)
+    - ***CameraCtrl II:*** Dynamic Scene Exploration via Camera-controlled Video Diffusion Models [[Paper]](https://arxiv.org/abs/2503.10592)
   - **NeurIPS**
     - ***Stable Cinemetrics:*** Structured Taxonomy and Evaluation for Professional Video Generation [[Paper]](https://arxiv.org/pdf/2509.26555) [[Project]](https://stable-cinemetrics.github.io/)
   - **ICLR**
@@ -359,6 +402,19 @@ Recent news of this GitHub repo are listed as follows.
     - ***AnyI2V:*** Animating Any Conditional Image with Motion Control [[Paper]](https://arxiv.org/abs/2507.02857) [[Project]](https://henghuiding.com/AnyI2V/) [[Code]](https://github.com/FudanCVL/AnyI2V)
     - ***Versatile Transition Generation:*** Versatile Transition Generation with Image-to-Video Diffusion [[Paper]](https://arxiv.org/abs/2508.01698)
     - ***TIP-I2V:*** A Million-Scale Real Text and Image Prompt Dataset for Image-to-Video Generation [[Paper]](https://arxiv.org/pdf/2411.04709) [[Project]](https://tip-i2v.github.io) [[Code]](https://github.com/WangWenhao0716/TIP-I2V)
+    - ***LayerAnimate:*** Layer-level Control for Animation [[Paper]](https://arxiv.org/abs/2501.08295)
+    - Multi-Object Sketch Animation by Scene Decomposition and Motion Planning [[Paper]](https://arxiv.org/abs/2503.19351)
+    - ***Perception-as-Control:*** Fine-grained Controllable Image Animation with 3D-aware Motion Representation [[Paper]](https://openaccess.thecvf.com/content/ICCV2025/papers/Chen_Perception-as-Control_Fine-grained_Controllable_Image_Animation_with_3D-aware_Motion_Representation_ICCV_2025_paper.pdf)
+    - MultiModal Action Conditioned Video Simulation [[Paper]](https://openaccess.thecvf.com/content/ICCV2025/papers/Li_MultiModal_Action_Conditioned_Video_Simulation_ICCV_2025_paper.pdf)
+    - ***AID:*** Adapting Image2Video Diffusion Models for Instruction-guided Video Prediction [[Paper]](https://arxiv.org/abs/2406.06465)
+    - ***RealCam-I2V:*** Real-World Image-to-Video Generation with Interactive Complex Camera Control [[Paper]](https://openaccess.thecvf.com/content/ICCV2025/papers/Li_RealCam-I2V_Real-World_Image-to-Video_Generation_with_Interactive_Complex_Camera_Control_ICCV_2025_paper.pdf)
+    - ***MotionAgent:*** Fine-grained Controllable Video Generation via Motion Field Agent [[Paper]](https://arxiv.org/abs/2502.03207)
+    - ***Puppet-Master:*** Scaling Interactive Video Generation as a Motion Prior for Part-Level Dynamics [[Paper]](https://openaccess.thecvf.com/content/ICCV2025/papers/Li_Puppet-Master_Scaling_Interactive_Video_Generation_as_a_Motion_Prior_for_ICCV_2025_paper.pdf)
+    - ***I2VControl:*** Disentangled and Unified Video Motion Synthesis Control [[Paper]](https://arxiv.org/abs/2411.17765)
+    - ***I2V3D:*** Controllable Image-to-video Generation with 3D Guidance [[Paper]](https://arxiv.org/abs/2503.09733)
+    - Mobile Video Diffusion [[Paper]](https://arxiv.org/abs/2412.07583)
+    - ***VMem:*** Consistent Interactive Video Scene Generation with Surfel-Indexed View Memory [[Paper]](https://arxiv.org/abs/2506.18903)
+    - Precise Action-to-Video Generation Through Visual Action Prompts [[Paper]](https://arxiv.org/abs/2508.13104)
   - **ICLR**
     - ***SG-I2V:*** Self-Guided Trajectory Control in Image-to-Video Generation [[Paper]](https://openreview.net/forum?id=uQjySppU9x) [[Project]](https://kmcode1.github.io/Projects/SG-I2V/) [[Code]](https://github.com/Kmcode1/SG-I2V)
     - Generative Inbetweening: Adapting Image-to-Video Models for Keyframe Interpolation [[Paper]](https://openreview.net/forum?id=ykD8a9gJvy)
@@ -428,6 +484,12 @@ Recent news of this GitHub repo are listed as follows.
 <!-- omit in toc -->
 ## Audio-to-Video Generation
 - <span id="audio-year-2025">**Year 2025**</span>  
+  - **ICCV**
+    - ***FixTalk:*** Taming Identity Leakage for High-Quality Talking Head Generation in Extreme Cases [[Paper]](https://arxiv.org/abs/2507.01390)
+    - ***FLOAT:*** Generative Motion Latent Flow Matching for Audio-driven Talking Portrait [[Paper]](https://arxiv.org/abs/2412.01064)
+    - ***AV-Link:*** Temporally-Aligned Diffusion Features for Cross-Modal Audio-Video Generation [[Paper]](https://openaccess.thecvf.com/content/ICCV2025/papers/Haji-Ali_AV-Link_Temporally-Aligned_Diffusion_Features_for_Cross-Modal_Audio-Video_Generation_ICCV_2025_paper.pdf)
+    - Audio-visual Controlled Video Diffusion with Masked Selective State Spaces Modeling for Natural Talking Head Generation [[Paper]](https://arxiv.org/abs/2504.02542)
+    - ***DiTaiListener:*** Controllable High Fidelity Listener Video Generation with Diffusion [[Paper]](https://arxiv.org/abs/2504.04010)
   - **ICML**
     - ***Playmate:*** Flexible Control of Portrait Animation via 3D-Implicit Space Guided Diffusion [[Paper]](https://openreview.net/forum?id=CG4QPoJ7ST) [[Code]](https://github.com/Playmate111/Playmate)
     - Long-Term TalkingFace Generation via Motion-Prior Conditional Diffusion Model [[Paper]](https://openreview.net/forum?id=aINERD9MzJ)
@@ -450,6 +512,9 @@ Recent news of this GitHub repo are listed as follows.
 <!-- omit in toc -->
 ## Personalized Video Generation
 - <span id="personalized-year-2025">**Year 2025**</span>
+  - **ICCV**
+    - ***DualReal:*** Adaptive Joint Training for Lossless Identity-Motion Fusion in Video Customization [[Paper]](https://arxiv.org/abs/2505.02192)
+    - ***Phantom:*** Subject-Consistent Video Generation via Cross-Modal Alignment [[Paper]](https://arxiv.org/abs/2502.11079)
   - **ICLR**
     - ***TweedieMix:*** Improving Multi-Concept Fusion for Diffusion-based Image/Video Generation [[Paper]](https://openreview.net/forum?id=ee2c4MEx9l)
   - **AAAI**
@@ -519,6 +584,19 @@ Recent news of this GitHub repo are listed as follows.
     - ***DynamicFace:*** High-Quality and Consistent Face Swapping for Image and Video using Composable 3D Facial Priors [[Paper]](https://iccv.thecvf.com/virtual/2025/poster/1368) [[Project]](https://dynamic-face.github.io/)
     - ***QK-Edit:*** Revisiting Attention-based Injection in MM-DiT for Image and Video Editing [[Paper]](https://iccv.thecvf.com/virtual/2025/poster/215)
     - ***Teleportraits:*** Training-Free People Insertion into Any Scene [[Paper]](https://iccv.thecvf.com/virtual/2025/poster/809)
+    - A Unified Framework for Industrial Cel-Animation Colorization with Temporal-Structural Awareness [[Paper]](https://openaccess.thecvf.com/content/ICCV2025/papers/Feng_A_Unified_Framework_for_Industrial_Cel-Animation_Colorization_with_Temporal-Structural_Awareness_ICCV_2025_paper.pdf)
+    - ***ReCamMaster:*** Camera-Controlled Generative Rendering from A Single Video [[Paper]](https://arxiv.org/abs/2503.11647)
+    - ***Beyond the Frame:*** Generating 360deg Panoramic Videos from Perspective Videos [[Paper]](https://openaccess.thecvf.com/content/ICCV2025/papers/Luo_Beyond_the_Frame_Generating_360deg_Panoramic_Videos_from_Perspective_Videos_ICCV_2025_paper.pdf)
+    - ***FlowStyler:*** Artistic Video Stylization via Transformation Fields Transports [[Paper]](https://openaccess.thecvf.com/content/ICCV2025/papers/Gong_FlowStyler_Artistic_Video_Stylization_via_Transformation_Fields_Transports_ICCV_2025_paper.pdf)
+    - ***VEGGIE:*** Instructional Editing and Reasoning Video Concepts with Grounded Generation [[Paper]](https://openaccess.thecvf.com/content/ICCV2025/papers/Yu_VEGGIE_Instructional_Editing_and_Reasoning_Video_Concepts_with_Grounded_Generation_ICCV_2025_paper.pdf)
+    - ***BVINet:*** Unlocking Blind Video Inpainting with Zero Annotations [[Paper]](https://arxiv.org/abs/2502.01181)
+    - ***LongAnimation:*** Long Animation Generation with Dynamic Global-Local Memory [[Paper]](https://arxiv.org/abs/2507.01945)
+    - ***CanonSwap:*** High-Fidelity and Consistent Video Face Swapping via Canonical Space Modulation [[Paper]](https://arxiv.org/abs/2507.02691)
+    - Controllable Weather Synthesis and Removal with Video Diffusion Models [[Paper]](https://arxiv.org/abs/2505.00704)
+    - ***Light-A-Video:*** Training-free Video Relighting via Progressive Light Fusion [[Paper]](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhou_Light-A-Video_Training-free_Video_Relighting_via_Progressive_Light_Fusion_ICCV_2025_paper.pdf)
+    - ***SUV:*** Suppressing Undesired Video Content via Semantic Modulation Based on Text Embeddings [[Paper]](https://openaccess.thecvf.com/content/ICCV2025/papers/Lv_SUV_Suppressing_Undesired_Video_Content_via_Semantic_Modulation_Based_on_ICCV_2025_paper.pdf)
+    - ***InsViE-1M:*** Effective Instruction-based Video Editing with Elaborate Dataset Construction [[Paper]](https://openaccess.thecvf.com/content/ICCV2025/papers/Wu_InsViE-1M_Effective_Instruction-based_Video_Editing_with_Elaborate_Dataset_Construction_ICCV_2025_paper.pdf)
+    - ***TACO:*** Taming Diffusion for in-the-wild Video Amodal Completion [[Paper]](https://arxiv.org/abs/2503.12049)
   - **ICLR**
     - ***VideoGrain:*** Modulating Space-Time Attention for Multi-Grained Video Editing [[Paper]](https://arxiv.org/pdf/2502.17258) [[Project]](https://knightyxp.github.io/VideoGrain_project_page/) [[Code]](https://github.com/knightyxp/VideoGrain)
   - **ICML**
@@ -616,6 +694,9 @@ Recent news of this GitHub repo are listed as follows.
     - ***OmniHuman-1:*** Rethinking the Scaling-Up of One-Stage Conditioned Human Animation Models [[Paper]](https://iccv.thecvf.com/virtual/2025/poster/2201) [[Project]](https://omnihuman-lab.github.io/)
     - ***AdaHuman:*** Animatable Detailed 3D Human Generation with Compositional Multiview Diffusion [[Paper]](https://arxiv.org/abs/2505.24877) [[Project]](https://nvlabs.github.io/AdaHuman/) 
     - ***Ponimator:*** Unfolding Interactive Pose for Versatile Human-human Interaction Animation [[Paper]](https://iccv.thecvf.com/virtual/2025/poster/1453)
+    - ***X-Dancer:*** Expressive Music to Human Dance Video Generation [[Paper]](https://openaccess.thecvf.com/content/ICCV2025/papers/Chen_X-Dancer_Expressive_Music_to_Human_Dance_Video_Generation_ICCV_2025_paper.pdf)
+    - ***GReg:*** Geometry-Aware Region Refinement for Sign Language Video Generation [[Paper]](https://openaccess.thecvf.com/content/ICCV2025/papers/Shi_GReg_Geometry-Aware_Region_Refinement_for_Sign_Language_Video_Generation_ICCV_2025_paper.pdf)
+    - Democratizing High-Fidelity Co-Speech Gesture Video Generation [[Paper]](https://arxiv.org/abs/2507.06812)
   - **ICLR**
     - ***Animate-X:*** Universal Character Image Animation with Enhanced Motion Representation [[Paper]](https://arxiv.org/pdf/2411.17697) [[Project]](https://lucaria-academy.github.io/Animate-X/) [[Code]](https://github.com/antgroup/animate-x)
     - ***CyberHost:*** A One-stage Diffusion Framework for Audio-driven Talking Body Generation [[Paper]](https://openreview.net/forum?id=vaEPihQsAA)
@@ -682,6 +763,7 @@ Generation via Single Still Image [[Paper]](https://www.ecva.net/papers/eccv_202
 - [CVPR 2025] ***TASTE-Rob:*** Advancing Video Generation of Task-Oriented Hand-Object Interaction for Generalizable Robotic Manipulation [[Paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhao_TASTE-Rob_Advancing_Video_Generation_of_Task-Oriented_Hand-Object_Interaction_for_Generalizable_CVPR_2025_paper.pdf) [[Dataset]](https://taste-rob.github.io/)
 - [CVPR 2025] ***OpenHumanVid:*** A Large-Scale High-Quality Dataset for Enhancing Human-Centric Video Generation [[Paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Li_OpenHumanVid_A_Large-Scale_High-Quality_Dataset_for_Enhancing_Human-Centric_Video_Generation_CVPR_2025_paper.pdf)
 - ***MiniMax H3 1K Prompt Curation:*** curated index of the MiniMax H3 1K prompt dataset (1,000 prompts + 768p videos) — 3-field prompt anatomy, 10 hand-picked reusable prompts, and a model comparison. [[Curated repo]](https://github.com/yangzhou-chaofan/minimax-h3-1000-prompts) [[Interactive atlas]](https://neta.art/use-cases/en/h3-1000-prompt-list)
+- [ICCV 2025] ***DH-FaceVid-1K:*** A Large-Scale High-Quality Dataset for Face Video Generation [[Paper]](https://openaccess.thecvf.com/content/ICCV2025/papers/Di_DH-FaceVid-1K_A_Large-Scale_High-Quality_Dataset_for_Face_Video_Generation_ICCV_2025_paper.pdf)
 
 [<u><small><🎯Back to Top></small></u>](#contents)
 
@@ -706,6 +788,10 @@ Generation via Single Still Image [[Paper]](https://www.ecva.net/papers/eccv_202
 - [ICLR 2019] ***FVD:*** A New Metric for Video Generation [[Paper]](https://openreview.net/pdf?id=rylgEULtdN) [[Code]](https://github.com/google-research/google-research/blob/master/frechet_video_distance/frechet_video_distance.py)
 - [arXiv 2025] ***VideoScore2:*** Think before You Score in Generative Video Evaluation [[Paper]](https://arxiv.org/abs/2509.22799) [[Project]](https://tiger-ai-lab.github.io/VideoScore2/) [[Code]](https://github.com/TIGER-AI-Lab/VideoScore2)
 - [arXiv 2026] ***PVSync:*** A Unified Lip-Sync Expert for Timing and Articulation [[Paper]](https://arxiv.org/abs/2610.09223)
+- [ICCV 2025] Who is a Better Talker: Subjective and Objective Quality Assessment for AI-Generated Talking Heads [[Paper]](https://arxiv.org/abs/2507.23343)
+- [ICCV 2025] ***ETVA:*** Evaluation of Text-to-Video Alignment via Fine-grained Question Generation and Answering [[Paper]](https://arxiv.org/abs/2503.16867)
+- [ICCV 2025] ***VMBench:*** A Benchmark for Perception-Aligned Video Motion Generation [[Paper]](https://arxiv.org/abs/2503.10076)
+- [ICCV 2025] ***FiVE-Bench:*** A Fine-grained Video Editing Benchmark for Evaluating Emerging Diffusion and Rectified Flow Models [[Paper]](https://openaccess.thecvf.com/content/ICCV2025/papers/Li_FiVE-Bench_A_Fine-grained_Video_Editing_Benchmark_for_Evaluating_Emerging_Diffusion_ICCV_2025_paper.pdf)
 
 <!-- omit in toc -->
 # Q&A
