@@ -109,6 +109,7 @@ Recent news of this GitHub repo are listed as follows.
 |Pika|Pika|2023|-|[link](https://pika.art/)|-|
 |PixelDance|ByteDance|2023|[link](https://arxiv.org/abs/2311.10982)|[link](https://makepixelsdance.github.io/)|-|
 |Podframes|Jellypod|2026|-|[link](https://github.com/Jellypod-Inc/podframes)|Open-source topic-to-podcast video pipeline with mixed TTS voices, lip-synced avatars, captions, and b-roll.|
+|RefVid|RefVid|2026|-|[link](https://refvid.com)|Reference-to-video studio: save a product or character from 1–5 photos and keep it the same across clips; runs on Kling 4 by default, with other video models selectable.|
 
 
 [<u><small><🎯Back to Top></small></u>](#contents)
