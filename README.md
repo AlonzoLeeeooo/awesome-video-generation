@@ -261,6 +261,10 @@ Recent news of this GitHub repo are listed as follows.
     - ***CineMaster:*** A 3D-Aware and Controllable Framework for Cinematic Text-to-Video Generation [[Paper]](https://arxiv.org/pdf/2502.08639)
     - ***Mobius:*** Text to Seamless Looping Video Generation via Latent Shift [[Paper]](https://arxiv.org/pdf/2502.20307)
     - ***LayerFlow:*** A Unified Model for Layer-aware Video Generation [[Paper]](https://arxiv.org/pdf/2506.04228)
+  - **ACM MM**
+    - ***AICL:*** Action In-Context Learning for Text-to-Video Generation [[Paper]](https://dl.acm.org/doi/abs/10.1145/3746027.3754864)
+    - Individual Content and Motion Dynamics Preserved Pruning for Video Diffusion Models [[Paper]](https://dl.acm.org/doi/abs/10.1145/3746027.3755081)
+    - ***DLFR-VAE:*** Dynamic Latent Frame Rate VAE for Video Generation [[Paper]](https://dl.acm.org/doi/abs/10.1145/3746027.3755638)
   - **arXiv**
     - Stable Video Infinity: Infinite-Length Video Generation with Error Recycling [[Paper]](https://arxiv.org/pdf/2510.09212) [[Project]](https://stable-video-infinity.github.io/homepage/) [[Code]](https://github.com/vita-epfl/Stable-Video-Infinity?tab=readme-ov-file) [[Video (YouTube)]](https://www.youtube.com/watch?v=p71Wp1FuqTw) [[Video (Bilibili)]](https://www.bilibili.com/video/BV1Zd4UzpE6G/?pop_share=1)
     - ***FEAT:*** Full-Dimensional Efficient Attention Transformer for Medical Video Generation [[Paper]](https://www.arxiv.org/pdf/2506.04956) [[Code]](https://github.com/Yaziwel/FEAT)
@@ -439,6 +443,10 @@ Recent news of this GitHub repo are listed as follows.
     - ***Diffusion as Shader:*** 3D-aware Video Diffusion for Versatile Video Generation Control [[Paper]](https://arxiv.org/pdf/2501.03847)
     - ***Reenact Anything:*** Semantic Video Motion Transfer Using Motion-Textual Inversion [[Paper]](https://arxiv.org/pdf/2408.00458)
     - Generating Past and Future in Digital Painting Processes [[Paper]](https://lllyasviel.github.io/paints_alter_web/paints_alter.pdf)
+  - **ACM MM**
+    - Enhanced Motion-aware Latent Diffusion Models for Video Frame Interpolation [[Paper]](https://dl.acm.org/doi/abs/10.1145/3746027.3754776)
+    - Multi-Object Sketch Animation with Grouping and Motion Trajectory Priors [[Paper]](https://dl.acm.org/doi/abs/10.1145/3746027.3754502) [[Code]](https://github.com/Yukinonooo/GroupSketch)
+    - ***DriVerse:*** Navigation World Model for Driving Simulation via Multimodal Trajectory Prompting and Motion Alignment [[Paper]](https://dl.acm.org/doi/abs/10.1145/3746027.3755111)
 - <span id="image-year-2024">**Year 2024**</span>
   - **CVPR**
     - ***VideoBooth:*** Diffusion-based Video Generation with Image Prompts [[Paper]](https://arxiv.org/pdf/2312.00777) [[Code]](https://github.com/Vchitect/VideoBooth) [[Project]](https://vchitect.github.io/VideoBooth-project/) [[Video]](https://www.youtube.com/watch?v=10DxH1JETzI)
@@ -499,6 +507,14 @@ Recent news of this GitHub repo are listed as follows.
     - ***AnyTalk:*** Multi-modal Driven Multi-domain Talking Head Generation [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32874)
     - ***InstructAvatar:*** Text-Guided Emotion and Motion Control for Avatar Generation [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32877)
     - ***GoHD:*** Gaze-oriented and Highly Disentangled Portrait Animation with Rhythmic Poses and Realistic Expressions [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33186)
+  - **ACM MM**
+    - ***M2PE-Diff:*** Music-to-Pose Encoder for Dance Video Generation Leveraging Latent Diffusion Framework [[Paper]](https://dl.acm.org/doi/abs/10.1145/3746027.3754808)
+    - ***ChoreoMuse:*** Robust Music-to-Dance Video Generation with Style Transfer and Beat-Adherent Motion [[Paper]](https://dl.acm.org/doi/abs/10.1145/3746027.3755194)
+    - ***Ditto:*** Motion-Space Diffusion for Controllable Realtime Talking Head Synthesis [[Paper]](https://dl.acm.org/doi/abs/10.1145/3746027.3755075)
+    - ***FantasyTalking:*** Realistic Talking Portrait Generation via Coherent Motion Synthesis [[Paper]](https://dl.acm.org/doi/abs/10.1145/3746027.3755217)
+    - ***Disentangle Identity, Cooperate Emotion:*** Correlation-Aware Emotional Talking Portrait Generation [[Paper]](https://dl.acm.org/doi/abs/10.1145/3746027.3755286)
+    - ***FLAP:*** Fully-controllable Audio-driven Portrait Video Generation through 3D head conditioned diffusion model [[Paper]](https://dl.acm.org/doi/abs/10.1145/3746027.3755671)
+    - ***SpA2V:*** Harnessing Spatial Auditory Cues for Audio-driven Spatially-aware Video Generation [[Paper]](https://dl.acm.org/doi/abs/10.1145/3746027.3755705)
 - <span id="audio-year-2024">**Year 2024**</span>  
   - **AAAI**
     - Diverse and Aligned Audio-to-Video Generation 
@@ -522,6 +538,10 @@ Recent news of this GitHub repo are listed as follows.
     - ***CustomCrafter:*** Customized Video Generation with Preserving Motion and Concept Composition Abilities [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32914)
   - **SIGGRAPH**
     - Dynamic Concepts Personalization from Single Videos [[Paper]](https://arxiv.org/pdf/2502.14844)
+  - **ACM MM**
+    - ***Separate Motion from Appearance:*** Customizing Motion via Customizing Text-to-Video Diffusion Models [[Paper]](https://dl.acm.org/doi/abs/10.1145/3746027.3754493)
+    - ***Tora2:*** Motion and Appearance Customized Diffusion Transformer for Multi-Entity Video Generation [[Paper]](https://dl.acm.org/doi/abs/10.1145/3746027.3754869)
+    - ***LaVieID:*** Local Autoregressive Diffusion Transformers for Identity-Preserving Video Creation [[Paper]](https://dl.acm.org/doi/abs/10.1145/3746027.3754943)
 - <span id="personalized-year-2024">**Year 2024**</span>
   - **CVPR**
     - High-fidelity Person-centric Subject-to-Image Synthesis [[Paper]](https://arxiv.org/pdf/2311.10329) [[Code]](https://github.com/CodeGoat24/Face-diffuser)
@@ -611,6 +631,14 @@ Recent news of this GitHub repo are listed as follows.
   - **SIGGRAPH**
     - ***Sketch3DVE:*** Sketch-based 3D-Aware Scene Video Editing [[Paper]](https://arxiv.org/pdf/2508.13797)
     - ***VideoPainter:*** Any-length Video Inpainting and Editing with Plug-and-Play Context Control [[Paper]](https://arxiv.org/pdf/2503.05639)
+  - **ACM MM**
+    - ***AnchorSync:*** Global Consistency Optimization for Long Video Editing [[Paper]](https://dl.acm.org/doi/abs/10.1145/3746027.3755474)
+    - ***AnimeColor:*** Reference-based Animation Colorization with Diffusion Transformers [[Paper]](https://dl.acm.org/doi/abs/10.1145/3746027.3755524) [[Code]](https://github.com/IamCreateAI/AnimeColor)
+    - ***ColorDiffuser:*** Video Colorization with Pretrained Text-to-Image Diffusion Models [[Paper]](https://dl.acm.org/doi/abs/10.1145/3746027.3755761)
+    - ***3DV-TON:*** Textured 3D-Guided Consistent Video Try-on via Diffusion Models [[Paper]](https://dl.acm.org/doi/abs/10.1145/3746027.3754754) [[Code]](https://github.com/2y7c3/3DV-TON)
+    - Single Trajectory Distillation for Accelerating Image and Video Style Transfer [[Paper]](https://dl.acm.org/doi/abs/10.1145/3746027.3754900)
+    - Learning Evidential Delta Denoising Scores for Video Editing [[Paper]](https://dl.acm.org/doi/abs/10.1145/3746027.3755065)
+    - ***HairShifter:*** Consistent and High-Fidelity Video Hair Transfer via Anchor-Guided Animation [[Paper]](https://dl.acm.org/doi/abs/10.1145/3746027.3755733)
 - <span id="editing-year-2024">**Year 2024**</span>
   - **CVPR**
     - ***VMC:*** Video Motion Customization using Temporal Attention Adaption for Text-to-Video Diffusion Models [[Paper]](https://arxiv.org/pdf/2312.00845) [[Code]](https://github.com/HyeonHo99/Video-Motion-Customization) [[Project]](https://video-motion-customization.github.io/)
@@ -709,6 +737,10 @@ Recent news of this GitHub repo are listed as follows.
     - ***RealPortrait:*** Realistic Portrait Animation with Diffusion Transformers [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33012)
   - **SIGGRAPH**
     - Interspatial Attention for Efficient 4D Human Video Generation [[Paper]](https://arxiv.org/pdf/2505.15800)
+  - **ACM MM**
+    - Versatile Multimodal Controls for Expressive Talking Human Animation [[Paper]](https://dl.acm.org/doi/abs/10.1145/3746027.3755401)
+    - ***Contextual Gesture:*** Co-Speech Gesture Video Generation through Context-aware Gesture Representation [[Paper]](https://dl.acm.org/doi/abs/10.1145/3746027.3755140)
+    - ***InterAnimate:*** Taming Region-Aware Diffusion Model for Realistic Human Interaction Animation [[Paper]](https://dl.acm.org/doi/abs/10.1145/3746027.3755532)
   - **arXiv**
     - ***EgoControl***: Controllable Egocentric Video Generation via 3D Full-Body Poses [[Paper]](https://arxiv.org/abs/2511.18173) [[Project]](https://cvg-bonn.github.io/EgoControl/) [[Code]](https://github.com/CVG-Bonn/EgoControl) 
     - ***UniAnimate-DiT:*** Human Image Animation with Large-Scale Video Diffusion Transformer [[Paper]](https://arxiv.org/pdf/2504.11289) [[Project]](https://unianimate.github.io/) [[Code]](https://github.com/ali-vilab/UniAnimate-DiT)
@@ -782,6 +814,8 @@ Generation via Single Still Image [[Paper]](https://www.ecva.net/papers/eccv_202
 - [ICML 2025] ***Towards World Simulator:*** Crafting Physical Commonsense-Based Benchmark for Video Generation [[Paper]](https://openreview.net/forum?id=dIjMswSzgF)
 - [ICML 2025] ***GRADEO:*** Towards Human-Like Evaluation for Text-to-Video Generation via Multi-Step Reasoning [[Paper]](https://openreview.net/forum?id=8mkVTiU1jG)
 - [ICML 2025] ***WorldSimBench:*** Towards Video Generation Models as World Simulators [[Paper]](https://openreview.net/forum?id=j9pVnmulQm)
+- [ACM MM 2025] ***EditEval:*** Towards Comprehensive and Automatic Evaluation for Text-guided Video Editing [[Paper]](https://dl.acm.org/doi/abs/10.1145/3746027.3755100)
+- [ACM MM 2025] ***FingER:*** Content Aware Fine-grained Evaluation with Reasoning for AI-Generated Videos [[Paper]](https://dl.acm.org/doi/abs/10.1145/3746027.3755102) [[Code]](https://github.com/RuiChen96/FingER)
 - [arXiv 2024] ***Davis-Edit:*** Stablizing Shape Consistency in Video-to-Video Editing [[Paper]](https://arxiv.org/pdf/2411.11045) [[Project]](https://alonzoleeeooo.github.io/StableV2V/) [[Code]](https://github.com/AlonzoLeeeooo/StableV2V)
 - [CVPR 2024] **VBench:** Comprehensive Benchmark Suite for Video Generative Models [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Huang_VBench_Comprehensive_Benchmark_Suite_for_Video_Generative_Models_CVPR_2024_paper.pdf) [[Code]](https://github.com/Vchitect/VBench)
 - [ICCV 2023] **DOVER:** Exploring Video Quality Assessment on User Generated Contents from Aesthetic and Technical Perspectives [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_Exploring_Video_Quality_Assessment_on_User_Generated_Contents_from_Aesthetic_ICCV_2023_paper.pdf) [[Code]](https://github.com/VQAssessment/DOVER)
