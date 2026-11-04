@@ -91,6 +91,8 @@ Recent news of this GitHub repo are listed as follows.
 |Name|Organization|Year|Research Paper|Website|Specialties|
 |-|-|-|-|-|-|
 |Sora|OpenAI|2024|[link](https://www.midjourney.com/home)|[link](https://openai.com/sora)|-|
+| [PromptImage](https://promptimage.cloud) | Free AI image & video studio with a prompt library (signup credits, multi-model). Freemium | Freemium | [Visit](https://promptimage.cloud) |
+| [GrokVideo Studio](https://grokvideogenerator.dev) | Independent web app for text/image-to-video via Grok Imagine API (Free Trial, 20 credits). Not an official … | Freemium | [Visit](https://grokvideogenerator.dev) |
 |Lumiere|Google|2024|[link](https://arxiv.org/abs/2401.12945)|[link](https://lumiere-video.github.io/)|-|
 |VideoPoet|Google|2023|-|[link](https://sites.research.google/videopoet/)|-|
 |W.A.I.T|Google|2023|[link](https://arxiv.org/pdf/2312.06662.pdf)|[link](https://walt-video-diffusion.github.io/)|-|
