@@ -130,6 +130,23 @@ Recent news of this GitHub repo are listed as follows.
 - <span id="text-year-2026">**Year 2026**</span>
   - **AAAI**
     - Minute-Long Videos with Dual Parallelisms [[Paper]](https://arxiv.org/abs/2505.21070) [[Project]](https://dualparal-project.github.io/) [[Code]](https://github.com/DualParal-Project/DualParal)
+    - ***Sortblock:*** Similarity-Aware Feature Reuse for Diffusion Model [[Paper]](https://arxiv.org/abs/2508.00412)
+    - ***Sparse-vDiT:*** Unleashing the Power of Sparse Attention to Accelerate Video Diffusion Transformers [[Paper]](https://arxiv.org/abs/2506.03065)
+    - ***UltraGen:*** High-Resolution Video Generation with Hierarchical Attention [[Paper]](https://arxiv.org/abs/2510.18775)
+    - ***GENMAC:*** Compositional Text-to-Video Generation with Multi-Agent Collaboration [[Paper]](https://arxiv.org/abs/2412.04440)
+    - ***FilmWeaver:*** Weaving Consistent Multi-Shot Videos with Cache-Guided Autoregressive Diffusion [[Paper]](https://arxiv.org/abs/2512.11274)
+    - ***SphereDiff:*** Tuning-free 360° Static and Dynamic Panorama Generation via Spherical Latent Representation [[Paper]](https://arxiv.org/abs/2504.14396)
+    - ***FreeMem:*** Enhancing Consistency in Long Video Generation via Tuning-Free Memory [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/37783)
+    - ***SwiftVideo:*** A Unified Framework for Few-Step Video Generation Through Trajectory-Distribution Alignment [[Paper]](https://arxiv.org/abs/2508.06082)
+    - ***S²Flow:*** Towards Fast and Authentic Training-Free High-Resolution Video Generation [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/37932)
+    - ***PipeDiT:*** Accelerating Diffusion Transformers in Video Generation with Task Pipelining and Model Decoupling [[Paper]](https://arxiv.org/abs/2511.12056)
+    - ***DreamRunner:*** Fine-Grained Compositional Story-to-Video Generation with Retrieval-Augmented Motion Adaptation [[Paper]](https://arxiv.org/abs/2411.16657)
+    - ***ImagerySearch:*** Adaptive Test-Time Search for Video Generation Beyond Semantic Dependency Constraints [[Paper]](https://arxiv.org/abs/2510.14847)
+    - ***OmniVDiff:*** Omni Controllable Video Diffusion for Generation and Understanding [[Paper]](https://arxiv.org/abs/2504.10825)
+    - ***FlashVideo:*** Flowing Fidelity to Detail for Efficient High-Resolution Video Generation [[Paper]](https://arxiv.org/abs/2502.05179)
+    - ***Forecast Then Calibrate:*** Feature Caching as ODE for Efficient Diffusion Transformers [[Paper]](https://arxiv.org/abs/2508.16211)
+    - ***Less Is More:*** Vision Representation Compression for Efficient Video Generation with Large Language Models [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/38391)
+    - ***HiTVideo:*** Hierarchical Tokenizers for Enhancing Text-to-Video Generation with Autoregressive Large Language Models [[Paper]](https://arxiv.org/abs/2503.11513)
 - <span id="text-year-2025">**Year 2025**</span>
   - **CVPR**
     - ***AIGV-Assessor:*** *Benchmarking and Evaluating the Perceptual Quality of Text-to-Video Generation with LMM* [[Paper]](https://arxiv.org/abs/2411.17221) [[Code]](https://github.com/wangjiarui153/AIGV-Assessor)
@@ -410,6 +427,15 @@ Recent news of this GitHub repo are listed as follows.
 <!-- omit in toc -->
 ## Image-to-Video Generation
 - <span id="image-year-2026">**Year 2026**</span>
+  - **AAAI**
+    - Latent Knowledge-Guided Video Diffusion for Scientific Phenomena Generation from a Single Initial Frame [[Paper]](https://arxiv.org/abs/2411.11343)
+    - Phased One-Step Adversarial Equilibrium for Video Diffusion Models [[Paper]](https://arxiv.org/abs/2508.21019)
+    - Pre-Trained Video Generative Models as World Simulators [[Paper]](https://arxiv.org/abs/2502.07825)
+    - ***Mask2IV:*** Interaction-Centric Video Generation via Mask Trajectories [[Paper]](https://arxiv.org/abs/2510.03135)
+    - ***Omni-Effects:*** Unified and Spatially-Controllable Visual Effects Generation [[Paper]](https://arxiv.org/abs/2508.07981)
+    - ***PanFlow:*** Decoupled Motion Control for Panoramic Video Generation [[Paper]](https://arxiv.org/abs/2512.00832)
+    - ***Zo3T:*** Zero-Shot 3D-Aware Trajectory-Guided Image-to-Video Generation via Test-Time Training [[Paper]](https://arxiv.org/abs/2509.06723)
+    - Fine-flow Distilling Coarse-flow Video Generation for Long-Term Driving World Model [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/39860)
   - **arXiv**
     - ***LIFT:*** Layout-In-Future Video Generation under Large Viewpoint Change via On-Policy Self-Distillation [[Paper]](https://arxiv.org/pdf/2609.38146) [[Project]](https://jsxzs.github.io/LIFT) [[Code]](https://github.com/jsxzs/LIFT)
     - ***Honeycomb:*** Constant-Size Scene Memory Representation for Video World Models [[Paper]](https://arxiv.org/pdf/2609.37690) [[Project]](https://jackswl.github.io/honeycomb/) [[Code]](https://github.com/kaichen-z/HoneyComb)
@@ -573,6 +599,11 @@ Recent news of this GitHub repo are listed as follows.
 
 <!-- omit in toc -->
 ## Personalized Video Generation
+- <span id="personalized-year-2026">**Year 2026**</span>
+  - **AAAI**
+    - Bring Your Dreams to Life: Continual Text-to-Video Customization [[Paper]](https://arxiv.org/abs/2512.05802)
+    - ***MotionCharacter:*** Fine-Grained Motion Controllable Human Video Generation [[Paper]](https://arxiv.org/abs/2411.18281)
+    - ***MoFu:*** Scale-Aware Modulation and Fourier Fusion for Multi-Subject Video Generation [[Paper]](https://arxiv.org/abs/2512.22310)
 - <span id="personalized-year-2025">**Year 2025**</span>
   - **ICCV**
     - ***DualReal:*** Adaptive Joint Training for Lossless Identity-Motion Fusion in Video Customization [[Paper]](https://arxiv.org/abs/2505.02192)
@@ -619,6 +650,12 @@ Recent news of this GitHub repo are listed as follows.
 <!-- omit in toc -->
 ## Video Editing
 - <span id="editing-year-2026">**Year 2026**</span>
+  - **AAAI**
+    - ***ContextFlow:*** Training-Free Video Object Editing via Adaptive Context Enrichment [[Paper]](https://arxiv.org/abs/2509.17818)
+    - ***O-DisCo-Edit:*** Object Distortion Control for Unified Realistic Video Editing [[Paper]](https://arxiv.org/abs/2509.01596)
+    - ***MultiMotion:*** Multi Subject Video Motion Transfer via Video Diffusion Transformer [[Paper]](https://arxiv.org/abs/2512.07500)
+    - ***MotionFlow:*** Attention-Driven Motion Transfer in Video Diffusion Models [[Paper]](https://arxiv.org/abs/2412.05275)
+    - ***BokehCrafter:*** Taming Video Diffusion Models for Controllable Bokeh Rendering [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/37969)
   - **IEEE TIP**
     - ***OutDreamer:*** Video Outpainting with a Diffusion Transformer [[Paper]](https://arxiv.org/abs/2506.22298) [[Project]](https://github.com/zhongzero/OutDreamer)
 - <span id="editing-year-2025">**Year 2025**</span>
@@ -766,6 +803,15 @@ Recent news of this GitHub repo are listed as follows.
 <!-- omit in toc -->
 # Human Image Animation
 - <span id="human-year-2026">**Year 2026**</span>
+  - **AAAI**
+    - Human-Centric Video Generation via Collaborative Multi-Modal Conditioning [[Paper]](https://arxiv.org/abs/2509.08519)
+    - ***ConsistTalk:*** Intensity Controllable Temporally Consistent Talking Head Generation with Diffusion Noise Search [[Paper]](https://arxiv.org/abs/2511.06833)
+    - Lightning Fast Caching-based Parallel Denoising Prediction for Accelerating Talking Head Generation [[Paper]](https://arxiv.org/abs/2509.00052)
+    - Training-Free Multi-Character Audio-Driven Animation via Diffusion Transformer with Reward Feedback [[Paper]](https://arxiv.org/abs/2510.12089)
+    - ***EchoMimicV3:*** 1.3B Parameters Are All You Need for Unified Multi-Modal and Multi-Task Human Animation [[Paper]](https://arxiv.org/abs/2507.03905)
+    - ***READ:*** Real-time and Efficient Asynchronous Diffusion for Audio-driven Talking Head Generation [[Paper]](https://arxiv.org/abs/2508.03457)
+    - ***FantasyTalking2:*** Timestep-Layer Adaptive Preference Optimization for Audio-Driven Portrait Animation [[Paper]](https://arxiv.org/abs/2508.11255)
+    - Emotion-Conditioned Motion Sub-spaces with Flow Matching for Real-Time Audio-Driven Talking Heads [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/38834)
   - **arXiv**
     - ***Hand2World:*** Autoregressive Egocentric Interaction Generation via Free-Space Hand Gestures [[Paper]](https://arxiv.org/abs/2602.09600) [[Project]](https://hand2world.github.io/)
 - <span id="human-year-2025">**Year 2025**</span>
@@ -863,11 +909,14 @@ Generation via Single Still Image [[Paper]](https://www.ecva.net/papers/eccv_202
 - [CVPR 2025] ***OpenHumanVid:*** A Large-Scale High-Quality Dataset for Enhancing Human-Centric Video Generation [[Paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Li_OpenHumanVid_A_Large-Scale_High-Quality_Dataset_for_Enhancing_Human-Centric_Video_Generation_CVPR_2025_paper.pdf)
 - ***MiniMax H3 1K Prompt Curation:*** curated index of the MiniMax H3 1K prompt dataset (1,000 prompts + 768p videos) — 3-field prompt anatomy, 10 hand-picked reusable prompts, and a model comparison. [[Curated repo]](https://github.com/yangzhou-chaofan/minimax-h3-1000-prompts) [[Interactive atlas]](https://neta.art/use-cases/en/h3-1000-prompt-list)
 - [ICCV 2025] ***DH-FaceVid-1K:*** A Large-Scale High-Quality Dataset for Face Video Generation [[Paper]](https://openaccess.thecvf.com/content/ICCV2025/papers/Di_DH-FaceVid-1K_A_Large-Scale_High-Quality_Dataset_for_Face_Video_Generation_ICCV_2025_paper.pdf)
+- [AAAI 2026] ***EmoVid:*** A Multimodal Emotion Video Dataset for Emotion-Centric Video Understanding and Generation [[Paper]](https://arxiv.org/abs/2511.11002)
 
 [<u><small><🎯Back to Top></small></u>](#contents)
 
 <!-- omit in toc -->
 # Evaluation Metrics
+- [AAAI 2026] ***VisionReward:*** Fine-Grained Multi-Dimensional Human Preference Learning for Image and Video Generation [[Paper]](https://arxiv.org/abs/2412.21059)
+- [AAAI 2026] ***VQ-Insight:*** Teaching VLMs for AI-Generated Video Quality Understanding via Progressive Visual Reinforcement Learning [[Paper]](https://arxiv.org/abs/2506.18564)
 - [CVPR 2025] **T2V-CompBench:*** A Comprehensive Benchmark for Compositional Text-to-video Generation [[Paper]](https://arxiv.org/pdf/2407.14505) [[Project]](https://github.com/KaiyueSun98/T2V-CompBench/tree/V2) [[Code]](https://github.com/KaiyueSun98/T2V-CompBench/tree/V2)
 - [AAAI 2025] ***EditBoard:*** Towards a Comprehensive Evaluation Benchmark for Text-Based Video Editing Models [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33754)
 - [ICLR 2025] ***Beyond FVD:*** An Enhanced Evaluation Metrics for Video Generation Distribution Quality [[Paper]](https://openreview.net/forum?id=cC3LxGZasH)
