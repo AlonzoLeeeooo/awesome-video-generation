@@ -436,6 +436,8 @@ Recent news of this GitHub repo are listed as follows.
     - ***PanFlow:*** Decoupled Motion Control for Panoramic Video Generation [[Paper]](https://arxiv.org/abs/2512.00832)
     - ***Zo3T:*** Zero-Shot 3D-Aware Trajectory-Guided Image-to-Video Generation via Test-Time Training [[Paper]](https://arxiv.org/abs/2509.06723)
     - Fine-flow Distilling Coarse-flow Video Generation for Long-Term Driving World Model [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/39860)
+  - **SCIS**
+    - ***MoG:*** Motion-aware generative frame interpolation [[Paper]](https://link.springer.com/article/10.1007/s11432-025-4920-3) [[arXiv]](https://arxiv.org/abs/2501.03699) [[Code]](https://github.com/MCG-NJU/MoG-VFI)
   - **arXiv**
     - ***LIFT:*** Layout-In-Future Video Generation under Large Viewpoint Change via On-Policy Self-Distillation [[Paper]](https://arxiv.org/pdf/2609.38146) [[Project]](https://jsxzs.github.io/LIFT) [[Code]](https://github.com/jsxzs/LIFT)
     - ***Honeycomb:*** Constant-Size Scene Memory Representation for Video World Models [[Paper]](https://arxiv.org/pdf/2609.37690) [[Project]](https://jackswl.github.io/honeycomb/) [[Code]](https://github.com/kaichen-z/HoneyComb)
