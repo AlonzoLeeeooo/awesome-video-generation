@@ -109,6 +109,7 @@ Recent news of this GitHub repo are listed as follows.
 |Pika|Pika|2023|-|[link](https://pika.art/)|-|
 |PixelDance|ByteDance|2023|[link](https://arxiv.org/abs/2311.10982)|[link](https://makepixelsdance.github.io/)|-|
 |Podframes|Jellypod|2026|-|[link](https://github.com/Jellypod-Inc/podframes)|Open-source topic-to-podcast video pipeline with mixed TTS voices, lip-synced avatars, captions, and b-roll.|
+|Twistavo|AZERIA IT|-|-|[link](https://twistavo.com)|AI video studio for character swap: replaces a person in a real video using 1 to 4 photos.|
 
 
 [<u><small><🎯Back to Top></small></u>](#contents)
