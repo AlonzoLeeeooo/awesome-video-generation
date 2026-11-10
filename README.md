@@ -109,6 +109,7 @@ Recent news of this GitHub repo are listed as follows.
 |Pika|Pika|2023|-|[link](https://pika.art/)|-|
 |PixelDance|ByteDance|2023|[link](https://arxiv.org/abs/2311.10982)|[link](https://makepixelsdance.github.io/)|-|
 |Podframes|Jellypod|2026|-|[link](https://github.com/Jellypod-Inc/podframes)|Open-source topic-to-podcast video pipeline with mixed TTS voices, lip-synced avatars, captions, and b-roll.|
+|Imagera|Imagera|-|-|[link](https://imagera.ai)|Hosted AI video and image studio; saved Character IDs keep one face or product consistent across shots, and an AI Director plans multi-shot videos (paid).|
 
 
 [<u><small><🎯Back to Top></small></u>](#contents)
