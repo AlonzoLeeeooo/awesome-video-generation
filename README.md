@@ -128,6 +128,61 @@ Recent news of this GitHub repo are listed as follows.
 <!-- omit in toc -->
 ## Text-to-Video Generation
 - <span id="text-year-2026">**Year 2026**</span>
+  - **CVPR**
+    - Physical Simulator In-the-Loop Video Generation [[Paper]](https://arxiv.org/abs/2603.06408)
+    - ***PyraTok:*** Language-Aligned Pyramidal Tokenizer for Video Understanding and Generation [[Paper]](https://arxiv.org/abs/2601.16210)
+    - Accelerating Autoregressive Video Diffusion via History-Guided Cache and Residual Correction [[Paper]](https://openaccess.thecvf.com/content/CVPR2026/papers/Nan_Accelerating_Autoregressive_Video_Diffusion_via_History-Guided_Cache_and_Residual_Correction_CVPR_2026_paper.pdf)
+    - ***PhysVid:*** Physics Aware Local Conditioning for Generative Video Models [[Paper]](https://arxiv.org/abs/2603.26285)
+    - Unified Camera Positional Encoding for Controlled Video Generation [[Paper]](https://arxiv.org/abs/2512.07237)
+    - ***DeltaQuant:*** 4-bit Video Diffusion Models with Spatiotemporal Delta Smoothing [[Paper]](https://openaccess.thecvf.com/content/CVPR2026/papers/Li_DeltaQuant_4-bit_Video_Diffusion_Models_with_Spatiotemporal_Delta_Smoothing_CVPR_2026_paper.pdf)
+    - ***LinVideo:*** A Post-Training Framework towards O(n) Attention in Efficient Video Generation [[Paper]](https://arxiv.org/abs/2510.08318)
+    - ***ReHyAt:*** Recurrent Hybrid Attention for Video Diffusion Transformers [[Paper]](https://arxiv.org/abs/2601.04342)
+    - Free-Lunch Long Video Generation via Layer-Adaptive O.O.D Correction [[Paper]](https://openaccess.thecvf.com/content/CVPR2026/papers/Tian_Free-Lunch_Long_Video_Generation_via_Layer-Adaptive_O.O.D_Correction_CVPR_2026_paper.pdf)
+    - ***Less is More:*** Data-Efficient Adaptation for Controllable Text-to-Video Generation [[Paper]](https://arxiv.org/abs/2511.17844)
+    - ***StreamDiT:*** Real-Time Streaming Text-to-Video Generation [[Paper]](https://arxiv.org/abs/2507.03745)
+    - Causality in Video Diffusers is Separable from Denoising [[Paper]](https://arxiv.org/abs/2602.10095)
+    - ***SwitchCraft:*** Training-Free Multi-Event Video Generation with Attention Controls [[Paper]](https://arxiv.org/abs/2602.23956)
+    - ***LoL:*** Longer than Longer, Scaling Video Generation to Hour [[Paper]](https://arxiv.org/abs/2601.16914)
+    - ***MultiShotMaster:*** A Controllable Multi-Shot Video Generation Framework [[Paper]](https://arxiv.org/abs/2512.03041)
+    - ***SURF:*** Signature-Retained Fast Video Generation [[Paper]](https://arxiv.org/abs/2603.21002)
+    - ***Infinity-RoPE:*** Action-Controllable Infinite Video Generation Emerges From Autoregressive Self-Rollout [[Paper]](https://arxiv.org/abs/2511.20649)
+    - Transition Matching Distillation for Fast Video Generation [[Paper]](https://arxiv.org/abs/2601.09881)
+    - ***When Numbers Speak:*** Aligning Textual Numerals and Visual Instances in Text-to-Video Diffusion Models [[Paper]](https://arxiv.org/abs/2604.08546)
+    - ***BAgger:*** Backwards Aggregation for Mitigating Drift in Autoregressive Video Diffusion Models [[Paper]](https://arxiv.org/abs/2512.12080)
+    - Dual-Granularity Memory for Efficient Video Generation [[Paper]](https://openaccess.thecvf.com/content/CVPR2026/papers/Wang_Dual-Granularity_Memory_for_Efficient_Video_Generation_CVPR_2026_paper.pdf)
+    - ***TV2TV:*** A Unified Framework for Interleaved Language and Video Generation [[Paper]](https://arxiv.org/abs/2512.05103)
+    - ***RAPID:*** Reusing Attention Sparsity with Inter-step Adaptation for Efficient Video Diffusion [[Paper]](https://openaccess.thecvf.com/content/CVPR2026/papers/Lin_RAPID_Reusing_Attention_Sparsity_with_Inter-step_Adaptation_for_Efficient_Video_CVPR_2026_paper.pdf)
+    - ***AdaCluster:*** Adaptive Query-Key Clustering for Sparse Attention in Video Generation [[Paper]](https://arxiv.org/abs/2604.18348)
+    - Video Generation with Stable Transparency via Shiftable RGB-A Distribution Learner [[Paper]](https://arxiv.org/abs/2509.24979)
+    - ***DisCa:*** Accelerating Video Diffusion Transformers with Distillation-Compatible Learnable Feature Caching [[Paper]](https://arxiv.org/abs/2602.05449)
+    - ***D2Cache:*** Second-Order Delta Caching for Higher Video Diffusion Acceleration [[Paper]](https://openaccess.thecvf.com/content/CVPR2026/papers/Liu_D2Cache_Second-Order_Delta_Caching_for_Higher_Video_Diffusion_Acceleration_CVPR_2026_paper.pdf)
+    - Content-Aware Dynamic Patchification for Efficient Video Diffusion [[Paper]](https://openaccess.thecvf.com/content/CVPR2026/papers/Li_Content-Aware_Dynamic_Patchification_for_Efficient_Video_Diffusion_CVPR_2026_paper.pdf)
+    - ***TGT:*** Text-Grounded Trajectories for Locally Controlled Video Generation [[Paper]](https://arxiv.org/abs/2510.15104)
+    - Training-free Motion Factorization for Compositional Video Generation [[Paper]](https://arxiv.org/abs/2603.09104)
+    - Diverse Video Generation with Determinantal Point Process-Guided Policy Optimization [[Paper]](https://arxiv.org/abs/2511.20647)
+    - ***UnityVideo:*** Unified Multi-Modal Multi-Task Learning for Enhancing World-Aware Video Generation [[Paper]](https://arxiv.org/abs/2512.07831)
+    - Learning to Generate Highly Dynamic Videos using Synthetic Motion Data [[Paper]](https://arxiv.org/abs/2604.01666)
+    - ***MoReGen:*** Multi-Agent Motion-Reasoning Engine for Code-based Text-to-Video Synthesis [[Paper]](https://arxiv.org/abs/2512.04221)
+    - ***ShotDirector:*** Directorially Controllable Multi-Shot Video Generation with Cinematographic Transitions [[Paper]](https://arxiv.org/abs/2512.10286)
+    - ***TempoMaster:*** Efficient Long Video Generation via Next-Frame-Rate Prediction [[Paper]](https://arxiv.org/abs/2511.12578)
+    - ***HoloCine:*** Holistic Generation of Cinematic Multi-Shot Long Video Narratives [[Paper]](https://arxiv.org/abs/2510.20822)
+    - ***Reward Forcing:*** Efficient Streaming Video Generation with Rewarded Distribution Matching Distillation [[Paper]](https://arxiv.org/abs/2512.04678)
+    - Lighting-grounded Video Generation with Renderer-based Agent Reasoning [[Paper]](https://arxiv.org/abs/2604.07966)
+    - ***DynamicsBoost:*** Dynamic Plausible Video Generation via Annotation-Free Continuation Preference Optimization [[Paper]](https://openaccess.thecvf.com/content/CVPR2026/papers/Li_DynamicsBoost_Dynamic_Plausible_Video_Generation_via_Annotation-Free_Continuation_Preference_Optimization_CVPR_2026_paper.pdf)
+    - ***M4V:*** Multimodal Mamba for Efficient Text-to-Video Generation [[Paper]](https://openaccess.thecvf.com/content/CVPR2026/papers/Huang_M4V_Multimodal_Mamba_for_Efficient_Text-to-Video_Generation_CVPR_2026_paper.pdf)
+    - ***Attention Surgery:*** An Efficient Recipe to Linearize Your Video Diffusion Transformer [[Paper]](https://arxiv.org/abs/2509.24899)
+    - ***VMonarch:*** Efficient Video Diffusion Transformers with Structured Attention [[Paper]](https://arxiv.org/abs/2601.22275)
+    - ***Endless World:*** Real-Time 3D-Aware Long Video Generation [[Paper]](https://arxiv.org/abs/2512.12430)
+    - Inference-time Physics Alignment of Video Generative Models with Latent World Models [[Paper]](https://arxiv.org/abs/2601.10553)
+    - ***Adaptive Video Distillation:*** Mitigating Oversaturation and Temporal Collapse in Few-Step Generation [[Paper]](https://arxiv.org/abs/2603.21864)
+    - Chain of Event-Centric Causal Thought for Physically Plausible Video Generation [[Paper]](https://arxiv.org/abs/2603.09094)
+    - ***TempoControl:*** Temporal Attention Guidance for Text-to-Video Models [[Paper]](https://arxiv.org/abs/2510.02226)
+    - ***VISTA:*** A Test-Time Self-Improving Video Generation Agent [[Paper]](https://arxiv.org/abs/2510.15831)
+    - ***OneStory:*** Coherent Multi-Shot Video Generation with Adaptive Memory [[Paper]](https://arxiv.org/abs/2512.07802)
+    - ***FastLightGen:*** Fast and Light Video Generation with Fewer Steps and Parameters [[Paper]](https://arxiv.org/abs/2603.01685)
+    - ***NS-Diff:*** Fluid Navier-Stokes Guided Video Diffusion via Reinforcement Learning [[Paper]](https://openaccess.thecvf.com/content/CVPR2026/papers/Deng_NS-Diff_Fluid_Navier-Stokes_Guided_Video_Diffusion_via_Reinforcement_Learning_CVPR_2026_paper.pdf)
+    - ***PHANTOM:*** Physics-Infused Video Generation via Joint Modeling of Visual and Latent Physical Dynamics [[Paper]](https://arxiv.org/abs/2604.08503)
+    - ***STARFlow-V:*** End-to-End Video Generative Modeling with Autoregressive Normalizing Flows [[Paper]](https://openaccess.thecvf.com/content/CVPR2026/papers/Gu_STARFlow-V_End-to-End_Video_Generative_Modeling_with_Autoregressive_Normalizing_Flows_CVPR_2026_paper.pdf)
   - **ICLR**
     - ***Astraea:*** A Token-wise Acceleration Framework for Video Diffusion Transformers [[Paper]](https://openreview.net/forum?id=e8P4Oo8S6U)
     - ***BLADE:*** Block-Sparse Attention Meets Step Distillation for Efficient Video Generation [[Paper]](https://openreview.net/forum?id=O9J20MsmRl)
@@ -483,6 +538,27 @@ Recent news of this GitHub repo are listed as follows.
 <!-- omit in toc -->
 ## Image-to-Video Generation
 - <span id="image-year-2026">**Year 2026**</span>
+  - **CVPR**
+    - ***PAM:*** A Pose-Appearance-Motion Engine for Sim-to-Real HOI Video Generation [[Paper]](https://arxiv.org/abs/2603.22193)
+    - ***CineScene:*** Implicit 3D as Effective Scene Representation for Cinematic Video Generation [[Paper]](https://arxiv.org/abs/2602.06959)
+    - Improving Motion in Image-to-Video Models via Adaptive Low-Pass Guidance [[Paper]](https://arxiv.org/abs/2506.08456)
+    - ***Stereo World Model:*** Camera-Guided Stereo Video Generation [[Paper]](https://arxiv.org/abs/2603.17375)
+    - ***Ego-InBetween:*** Generating Object State Transitions in Ego-Centric Videos [[Paper]](https://arxiv.org/abs/2604.17749)
+    - ***HVG-3D:*** Bridging Real and Simulation Domains for 3D-Conditional Hand-Object Interaction Video Synthesis [[Paper]](https://arxiv.org/abs/2604.03305)
+    - ***FlexTraj:*** Image-to-Video Generation with Flexible Point Trajectory Control [[Paper]](https://arxiv.org/abs/2510.08527)
+    - ***SymphoMotion:*** Joint Control of Camera Motion and Object Dynamics for Coherent Video Generation [[Paper]](https://arxiv.org/abs/2604.03723)
+    - ***WorldStereo:*** Bridging Camera-Guided Video Generation and Scene Reconstruction via 3D Geometric Memories [[Paper]](https://arxiv.org/abs/2603.02049)
+    - ***Spatia:*** Video Generation with Updatable Spatial Memory [[Paper]](https://arxiv.org/abs/2512.15716)
+    - Open-world Hand-Object Interaction Video Generation Based on Structure and Contact-aware Representation [[Paper]](https://arxiv.org/abs/2512.01677)
+    - ***Flowception:*** Temporally Expansive Flow Matching for Video Generation [[Paper]](https://arxiv.org/abs/2512.11438)
+    - ***WorldReel:*** 4D Video Generation with Consistent Geometry and Motion Modeling [[Paper]](https://arxiv.org/abs/2512.07821)
+    - Towards Realistic and Consistent Orbital Video Generation via 3D Foundation Priors [[Paper]](https://arxiv.org/abs/2604.12309)
+    - ***FlashMotion:*** Few-Step Controllable Video Generation with Trajectory Guidance [[Paper]](https://arxiv.org/abs/2603.12146)
+    - ***LAMP:*** Language-Assisted Motion Planning for Controllable Video Generation [[Paper]](https://arxiv.org/abs/2512.03619)
+    - ***ConsID-Gen:*** View-Consistent and Identity-Preserving Image-to-Video Generation [[Paper]](https://arxiv.org/abs/2602.10113)
+    - ***EchoVDiff:*** Cardiac-Cycle Echocardiography Video Generation from Arbitrary Single Frame [[Paper]](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhang_EchoVDiff_Cardiac-Cycle_Echocardiography_Video_Generation_from_Arbitrary_Single_Frame_CVPR_2026_paper.pdf)
+    - ***Geometry-as-context:*** Modulating Explicit 3D in Scene-consistent Video Generation to Geometry Context [[Paper]](https://arxiv.org/abs/2602.21929)
+    - Reasoning Diffusion for Unpaired Test Time Out-of-distribution Text-Image to Video Generation [[Paper]](https://openaccess.thecvf.com/content/CVPR2026/papers/Pan_Reasoning_Diffusion_for_Unpaired_Test_Time_Out-of-distribution_Text-Image_to_Video_CVPR_2026_paper.pdf)
   - **AAAI**
     - Latent Knowledge-Guided Video Diffusion for Scientific Phenomena Generation from a Single Initial Frame [[Paper]](https://arxiv.org/abs/2411.11343)
     - Phased One-Step Adversarial Equilibrium for Video Diffusion Models [[Paper]](https://arxiv.org/abs/2508.21019)
@@ -637,6 +713,9 @@ Recent news of this GitHub repo are listed as follows.
 <!-- omit in toc -->
 ## Audio-to-Video Generation
 - <span id="audio-year-2026">**Year 2026**</span>  
+  - **CVPR**
+    - ***Harmony:*** Harmonizing Audio and Video Generation through Cross-Task Synergy [[Paper]](https://arxiv.org/abs/2511.21579)
+    - ***UniAVGen:*** Unified Audio and Video Generation with Asymmetric Cross-Modal Interactions [[Paper]](https://arxiv.org/abs/2511.03334)
   - **ICLR**
     - ***Syncphony:*** Synchronized Audio-to-Video Generation with Diffusion Transformers [[Paper]](https://openreview.net/forum?id=sG8dGZMaub)
 - <span id="audio-year-2025">**Year 2025**</span>  
@@ -678,6 +757,22 @@ Recent news of this GitHub repo are listed as follows.
 <!-- omit in toc -->
 ## Personalized Video Generation
 - <span id="personalized-year-2026">**Year 2026**</span>
+  - **CVPR**
+    - First Frame Is the Place to Go for Video Content Customization [[Paper]](https://arxiv.org/abs/2511.15700)
+    - ***Stand-In:*** A Lightweight and Plug-and-Play Identity Control for Video Generation [[Paper]](https://arxiv.org/abs/2508.07901)
+    - Rethinking Position Embedding as a Context Controller for Multi-Reference and Multi-Shot Video Generation [[Paper]](https://arxiv.org/abs/2604.03738)
+    - ***Gloria:*** Consistent Character Video Generation via Content Anchors [[Paper]](https://arxiv.org/abs/2603.29931)
+    - Identity-Preserving Image-to-Video Generation via Reward-Guided Optimization [[Paper]](https://arxiv.org/abs/2510.14255)
+    - ***SMRABooth:*** Subject and Motion Representation Alignment for Customized Video Generation [[Paper]](https://arxiv.org/abs/2512.12193)
+    - ***Lynx:*** Towards High-Fidelity Personalized Video Generation [[Paper]](https://arxiv.org/abs/2509.15496)
+    - ***AlcheMinT:*** Fine-grained Temporal Control for Multi-Reference Consistent Video Generation [[Paper]](https://arxiv.org/abs/2512.10943)
+    - ***SynMotion:*** Semantic-Visual Adaptation for Motion Customized Video Generation [[Paper]](https://arxiv.org/abs/2506.23690)
+    - ***ID-Crafter:*** VLM-Grounded Online RL for Compositional Multi-Subject Video Generation [[Paper]](https://arxiv.org/abs/2511.00511)
+    - ***EvoID:*** Reinforced Evolution for Identity-Preserving Video Generation [[Paper]](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhang_EvoID_Reinforced_Evolution_for_Identity-Preserving_Video_Generation_CVPR_2026_paper.pdf)
+    - ***AnyID:*** Ultra-Fidelity Universal Identity-Preserving Video Generation from Any Visual References [[Paper]](https://arxiv.org/abs/2603.25188)
+    - Scaling Zero-Shot Reference-to-Video Generation [[Paper]](https://arxiv.org/abs/2512.06905)
+    - ***EffectMaker:*** Unifying Reasoning and Generation for Customized Visual Effect Creation [[Paper]](https://arxiv.org/abs/2603.06014)
+    - ***P-Flow:*** Prompting Visual Effects Generation [[Paper]](https://arxiv.org/abs/2603.22091)
   - **ICLR**
     - ***BindWeave:*** Subject-Consistent Video Generation via Cross-Modal Integration [[Paper]](https://openreview.net/forum?id=FP2XNyV9WL)
     - ***LumosX:*** Relate Any Identities with Their Attributes for Personalized Video Generation [[Paper]](https://openreview.net/forum?id=r5o6PWgzav)
@@ -733,6 +828,31 @@ Recent news of this GitHub repo are listed as follows.
 <!-- omit in toc -->
 ## Video Editing
 - <span id="editing-year-2026">**Year 2026**</span>
+  - **CVPR**
+    - ***YOSE:*** You Only Select Essential Tokens for Efficient DiT-based Video Object Removal [[Paper]](https://arxiv.org/abs/2604.27322)
+    - ***VideoCoF:*** Unified Video Editing with Temporal Reasoner [[Paper]](https://arxiv.org/abs/2512.07469)
+    - Cross-Modal Emotion Transfer for Emotion Editing in Talking Face Video [[Paper]](https://arxiv.org/abs/2604.07786)
+    - ***CamDirector:*** Towards Long-Term Coherent Video Trajectory Editing [[Paper]](https://arxiv.org/abs/2603.02256)
+    - ***CubeComposer:*** Spatio-Temporal Autoregressive 4K 360deg Video Generation from Perspective Video [[Paper]](https://openaccess.thecvf.com/content/CVPR2026/papers/Li_CubeComposer_Spatio-Temporal_Autoregressive_4K_360deg_Video_Generation_from_Perspective_Video_CVPR_2026_paper.pdf)
+    - ***FFP-300K:*** Scaling First-Frame Propagation for Generalizable Video Editing [[Paper]](https://arxiv.org/abs/2601.01720)
+    - ***EgoEdit:*** Dataset, Real-Time Streaming Model, and Benchmark for Egocentric Video Editing [[Paper]](https://openaccess.thecvf.com/content/CVPR2026/papers/Li_EgoEdit_Dataset_Real-Time_Streaming_Model_and_Benchmark_for_Egocentric_Video_CVPR_2026_paper.pdf)
+    - ***Object-WIPER:*** Training-Free Object and Associated Effect Removal in Videos [[Paper]](https://arxiv.org/abs/2601.06391)
+    - Scaling Instruction-Based Video Editing with a High-Quality Synthetic Dataset [[Paper]](https://arxiv.org/abs/2510.15742)
+    - ***NOVA:*** Sparse Control, Dense Synthesis for Pair-Free Video Editing [[Paper]](https://arxiv.org/abs/2603.02802)
+    - Audio-sync Video Instance Editing with Granularity-Aware Mask Refiner [[Paper]](https://arxiv.org/abs/2512.10571)
+    - ***EffectErase:*** Joint Video Object Removal and Insertion for High-Quality Effect Erasing [[Paper]](https://arxiv.org/abs/2603.19224)
+    - ***Accelerating Diffusion-based Video Editing via Heterogeneous Caching:*** Beyond Full Computing at Sampled Denoising Timestep [[Paper]](https://arxiv.org/abs/2603.24260)
+    - ***EgoX:*** Egocentric Video Generation from a Single Exocentric Video [[Paper]](https://arxiv.org/abs/2512.08269)
+    - Plenoptic Video Generation [[Paper]](https://arxiv.org/abs/2601.05239)
+    - ***EditCtrl:*** Disentangled Local and Global Control for Real-Time Generative Video Editing [[Paper]](https://arxiv.org/abs/2602.15031)
+    - ***EasyV2V:*** A High-quality Instruction-based Video Editing Framework [[Paper]](https://arxiv.org/abs/2512.16920)
+    - ***V-RGBX:*** Video Editing with Accurate Controls over Intrinsic Properties [[Paper]](https://arxiv.org/abs/2512.11799)
+    - ***VIVA:*** VLM-Guided Instruction-Based Video Editing with Reward Optimization [[Paper]](https://arxiv.org/abs/2512.16906)
+    - ***PerformRecast:*** Expression and Head Pose Disentanglement for Portrait Video Editing [[Paper]](https://arxiv.org/abs/2603.19731)
+    - ***RFDM:*** Residual Flow Diffusion Models for Video Editing [[Paper]](https://openaccess.thecvf.com/content/CVPR2026/papers/Salehi_RFDM_Residual_Flow_Diffusion_Models_for_Video_Editing_CVPR_2026_paper.pdf)
+    - ***MotionV2V:*** Editing Motion in a Video [[Paper]](https://arxiv.org/abs/2511.20640)
+    - ***CoT-Edit:*** Let CoT Guide Instruction Video Editing [[Paper]](https://openaccess.thecvf.com/content/CVPR2026/papers/Liang_CoT-Edit_Let_CoT_Guide_Instruction_Video_Editing_CVPR_2026_paper.pdf)
+    - ***FlowDirector:*** Training-Free Flow Steering for Precise Text-to-Video Editing [[Paper]](https://arxiv.org/abs/2506.05046)
   - **ICLR**
     - ***Any-to-Bokeh:*** Arbitrary-Subject Video Refocusing with Video Diffusion Model [[Paper]](https://openreview.net/forum?id=h05AulYT7g)
     - Controllable First-Frame-Guided Video Editing via Mask-Aware LoRA Fine-Tuning [[Paper]](https://openreview.net/forum?id=xkRMJ1Y7Um)
@@ -900,6 +1020,26 @@ Recent news of this GitHub repo are listed as follows.
 <!-- omit in toc -->
 # Human Image Animation
 - <span id="human-year-2026">**Year 2026**</span>
+  - **CVPR**
+    - ***MultiAnimate:*** Pose-Guided Image Animation Made Extensible [[Paper]](https://arxiv.org/abs/2602.21581)
+    - PersonaLive! Expressive Portrait Image Animation for Live Streaming [[Paper]](https://arxiv.org/abs/2512.11253)
+    - Real-Time Generation of Streamable Talking Portrait Video with Reference-Guided Deep Compression VAEs [[Paper]](https://openaccess.thecvf.com/content/CVPR2026/papers/Xu_Real-Time_Generation_of_Streamable_Talking_Portrait_Video_with_Reference-Guided_Deep_CVPR_2026_paper.pdf)
+    - ***ExpPortrait:*** Expressive Portrait Generation via Personalized Representation [[Paper]](https://arxiv.org/abs/2602.19900)
+    - ***Avatar Forcing:*** Real-Time Interactive Head Avatar Generation for Natural Conversation [[Paper]](https://arxiv.org/abs/2601.00664)
+    - ***One-to-All Animation:*** Alignment-Free Character Animation and Image Pose Transfer [[Paper]](https://arxiv.org/abs/2511.22940)
+    - ***DeX-Portrait:*** Disentangled and Expressive Portrait Animation via Explicit and Latent Motion Representations [[Paper]](https://arxiv.org/abs/2512.15524)
+    - ***PoseAnything:*** General Pose-guided Video Generation with Part-aware Temporal Coherence [[Paper]](https://openaccess.thecvf.com/content/CVPR2026/papers/Wang_PoseAnything_General_Pose-guided_Video_Generation_with_Part-aware_Temporal_Coherence_CVPR_2026_paper.pdf)
+    - ***FG-Portrait:*** 3D Flow Guided Editable Portrait Animation [[Paper]](https://arxiv.org/abs/2603.23381)
+    - ***PC-Talk:*** Precise Facial Animation Control for Audio-Driven Talking Face Generation [[Paper]](https://arxiv.org/abs/2503.14295)
+    - ***IP-Adapter Is All You Need:*** Towards Fine-Tuning-Free Diffusion-Based Talking Face Generation [[Paper]](https://openaccess.thecvf.com/content/CVPR2026/papers/Wu_IP-Adapter_Is_All_You_Need_Towards_Fine-Tuning-Free_Diffusion-Based_Talking_Face_CVPR_2026_paper.pdf)
+    - ***SyncDreamer:*** Controllable and Expressive Avatar Generation Beyond the Talking Head [[Paper]](https://openaccess.thecvf.com/content/CVPR2026/papers/Nazarieh_SyncDreamer_Controllable_and_Expressive_Avatar_Generation_Beyond_the_Talking_Head_CVPR_2026_paper.pdf)
+    - ***Soul:*** Breathe Life into Digital Human for High-fidelity Long-term Multimodal Animation [[Paper]](https://arxiv.org/abs/2512.13495)
+    - 3D-Aware Implicit Motion Control for View-Adaptive Human Video Generation [[Paper]](https://arxiv.org/abs/2602.03796)
+    - ***ActAvatar:*** Temporally-Aware Precise Action Control for Talking Avatars [[Paper]](https://arxiv.org/abs/2512.19546)
+    - ***InfinityHuman:*** Towards Long-Term Audio-Driven Human Animation [[Paper]](https://openaccess.thecvf.com/content/CVPR2026/papers/Li_InfinityHuman_Towards_Long-Term_Audio-Driven_Human_Animation_CVPR_2026_paper.pdf)
+    - ***PortraitDirector:*** A Hierarchical Disentanglement Framework for Controllable and Real-time Facial Reenactment [[Paper]](https://arxiv.org/abs/2604.19129)
+    - ***FlashPortrait:*** 6x Faster Infinite Portrait Animation with Adaptive Latent Prediction [[Paper]](https://arxiv.org/abs/2512.16900)
+    - Efficient Training for Human Video Generation with Entropy-Guided Prioritized Progressive Learning [[Paper]](https://arxiv.org/abs/2511.21136)
   - **ICLR**
     - ***AUHead:*** Realistic Emotional Talking Head Generation via Action Units Control [[Paper]](https://openreview.net/forum?id=dmzlAUkulz)
     - ***DanceTogether:*** Generating Interactive Multi-Person Video without Identity Drifting [[Paper]](https://openreview.net/forum?id=7VEECFBzmm)
@@ -1058,6 +1198,17 @@ Generation via Single Still Image [[Paper]](https://www.ecva.net/papers/eccv_202
 - [ICCV 2025] ***ETVA:*** Evaluation of Text-to-Video Alignment via Fine-grained Question Generation and Answering [[Paper]](https://arxiv.org/abs/2503.16867)
 - [ICCV 2025] ***VMBench:*** A Benchmark for Perception-Aligned Video Motion Generation [[Paper]](https://arxiv.org/abs/2503.10076)
 - [ICCV 2025] ***FiVE-Bench:*** A Fine-grained Video Editing Benchmark for Evaluating Emerging Diffusion and Rectified Flow Models [[Paper]](https://openaccess.thecvf.com/content/ICCV2025/papers/Li_FiVE-Bench_A_Fine-grained_Video_Editing_Benchmark_for_Evaluating_Emerging_Diffusion_ICCV_2025_paper.pdf)
+- [CVPR 2026] ***GT-SVJ:*** Generative-Transformer-Based Self-Supervised Video Judge For Efficient Video Reward Modeling [[Paper]](https://arxiv.org/abs/2602.05202)
+- [CVPR 2026] ***Thinking with Frames:*** Generative Video Distortion Evaluation via Frame Reward Model [[Paper]](https://arxiv.org/abs/2601.04033)
+- [CVPR 2026] What Are You Doing? A Closer Look at Controllable Human Video Generation [[Paper]](https://arxiv.org/abs/2503.04666)
+- [CVPR 2026] ***VGA-Bench:*** A Unified Benchmark and Multi-Model Framework for Video Aesthetics and Generation Quality Evaluation [[Paper]](https://arxiv.org/abs/2604.10127)
+- [CVPR 2026] ***VideoRealBench:*** A Chain-of-Thought Realism Evaluation Benchmark for Generated Human-Centric Videos [[Paper]](https://openaccess.thecvf.com/content/CVPR2026/papers/Yang_VideoRealBench_A_Chain-of-Thought_Realism_Evaluation_Benchmark_for_Generated_Human-Centric_Videos_CVPR_2026_paper.pdf)
+- [CVPR 2026] ***SLVMEval:*** Synthetic Meta Evaluation Benchmark for Text-to-Long Video Generation [[Paper]](https://arxiv.org/abs/2603.29186)
+- [CVPR 2026] ***SVBench:*** Evaluation of Video Generation Models on Social Reasoning [[Paper]](https://arxiv.org/abs/2512.21507)
+- [CVPR 2026] ***SoliReward:*** Mitigating Susceptibility to Reward Hacking and Annotation Noise in Video Generation Reward Models [[Paper]](https://arxiv.org/abs/2512.22170)
+- [CVPR 2026] ***VABench:*** A Comprehensive Benchmark for Audio-Video Generation [[Paper]](https://arxiv.org/abs/2512.09299)
+- [CVPR 2026] ***Ref4D-VideoBench:*** Four-Dimensional Reference-Based Evaluation of Text-to-Video Generative Models [[Paper]](https://openaccess.thecvf.com/content/CVPR2026/papers/Wei_Ref4D-VideoBench_Four-Dimensional_Reference-Based_Evaluation_of_Text-to-Video_Generative_Models_CVPR_2026_paper.pdf)
+- [CVPR 2026] ***TiViBench:*** Benchmarking Think-in-Video Reasoning for Video Generation [[Paper]](https://arxiv.org/abs/2511.13704)
 
 <!-- omit in toc -->
 # Q&A
