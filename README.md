@@ -652,6 +652,13 @@ Recent news of this GitHub repo are listed as follows.
     - Composition of Memory Experts for Diffusion World Models [[Paper]](https://openreview.net/forum?id=sUEdpZCHdp)
   - **SCIS**
     - ***MoG:*** Motion-aware generative frame interpolation [[Paper]](https://link.springer.com/article/10.1007/s11432-025-4920-3) [[arXiv]](https://arxiv.org/abs/2501.03699) [[Code]](https://github.com/MCG-NJU/MoG-VFI)
+  - **SIGGRAPH**
+    - ***OmniRoam:*** World Wandering via Long-Horizon Panoramic Video Generation [[Paper]](https://dl.acm.org/doi/10.1145/3799902.3811180)
+    - ***ActCam:*** Zero-Shot Joint Camera and 3D Motion Control for Video Generation [[Paper]](https://dl.acm.org/doi/10.1145/3799902.3811224) [[Project]](https://elkhomar.github.io/actcam/)
+    - ***Go-with-the-Track:*** Video Compositing and Motion Control with Point Tracking [[Paper]](https://dl.acm.org/doi/10.1145/3799902.3811093)
+    - ***ReRoPE:*** Repurposing RoPE for Relative Camera Control [[Paper]](https://dl.acm.org/doi/10.1145/3799902.3811226) [[Code]](https://github.com/Sisyphe-lee/ReRoPE_) [[Project]](https://sisyphe-lee.github.io/ReRoPE/)
+    - ***UCM:*** Unified Modeling of Camera Control and Memory with Time-aware Positional Encoding Warping for World Models [[Paper]](https://dl.acm.org/doi/10.1145/3799902.3811088)
+    - ***EasyVFX:*** Frequency-Driven Decoupling for Resource-Efficient VFX Generation [[Paper]](https://dl.acm.org/doi/10.1145/3799902.3811109) [[Code]](https://github.com/mayuelala/EasyVFX)
   - **arXiv**
     - ***LIFT:*** Layout-In-Future Video Generation under Large Viewpoint Change via On-Policy Self-Distillation [[Paper]](https://arxiv.org/pdf/2609.38146) [[Project]](https://jsxzs.github.io/LIFT) [[Code]](https://github.com/jsxzs/LIFT)
     - ***Honeycomb:*** Constant-Size Scene Memory Representation for Video World Models [[Paper]](https://arxiv.org/pdf/2609.37690) [[Project]](https://jackswl.github.io/honeycomb/) [[Code]](https://github.com/kaichen-z/HoneyComb)
@@ -783,6 +790,9 @@ Recent news of this GitHub repo are listed as follows.
     - ***UniAVGen:*** Unified Audio and Video Generation with Asymmetric Cross-Modal Interactions [[Paper]](https://arxiv.org/abs/2511.03334)
   - **ICLR**
     - ***Syncphony:*** Synchronized Audio-to-Video Generation with Diffusion Transformers [[Paper]](https://openreview.net/forum?id=sG8dGZMaub)
+  - **SIGGRAPH**
+    - ***MACE-Dance:*** Motion-Appearance Cascaded Experts for Music-Driven Dance Video Generation [[Paper]](https://dl.acm.org/doi/10.1145/3799902.3811202)
+    - ***MAViD:*** A Multimodal Framework for Audio-Visual Dialogue Understanding and Generation [[Paper]](https://dl.acm.org/doi/10.1145/3799902.3811223) [[Project]](https://carlyx.github.io/MAViD/)
 - <span id="audio-year-2025">**Year 2025**</span>  
   - **ICCV**
     - ***FixTalk:*** Taming Identity Leakage for High-Quality Talking Head Generation in Extreme Cases [[Paper]](https://arxiv.org/abs/2507.01390)
@@ -851,6 +861,8 @@ Recent news of this GitHub repo are listed as follows.
     - Bring Your Dreams to Life: Continual Text-to-Video Customization [[Paper]](https://arxiv.org/abs/2512.05802)
     - ***MotionCharacter:*** Fine-Grained Motion Controllable Human Video Generation [[Paper]](https://arxiv.org/abs/2411.18281)
     - ***MoFu:*** Scale-Aware Modulation and Fourier Fusion for Multi-Subject Video Generation [[Paper]](https://arxiv.org/abs/2512.22310)
+  - **SIGGRAPH**
+    - ***MV-S2V:*** Multi-View Subject-Consistent Video Generation [[Paper]](https://dl.acm.org/doi/10.1145/3799902.3811131)
 - <span id="personalized-year-2025">**Year 2025**</span>
   - **ICCV**
     - ***DualReal:*** Adaptive Joint Training for Lossless Identity-Motion Fusion in Video Customization [[Paper]](https://arxiv.org/abs/2505.02192)
@@ -950,6 +962,18 @@ Recent news of this GitHub repo are listed as follows.
     - ***MultiMotion:*** Multi Subject Video Motion Transfer via Video Diffusion Transformer [[Paper]](https://arxiv.org/abs/2512.07500)
     - ***MotionFlow:*** Attention-Driven Motion Transfer in Video Diffusion Models [[Paper]](https://arxiv.org/abs/2412.05275)
     - ***BokehCrafter:*** Taming Video Diffusion Models for Controllable Bokeh Rendering [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/37969)
+  - **SIGGRAPH**
+    - Emotion Manipulation for Talking-Head Videos via Facial Landmarks [[Paper]](https://dl.acm.org/doi/10.1145/3770576)
+    - ***HL-OutPaint:*** Coarse-to-Fine Video Outpainting for High-Resolution Long-Range Videos [[Paper]](https://dl.acm.org/doi/10.1145/3799902.3811098)
+    - ***UniVidX:*** A Unified Multimodal Framework for Versatile Video Generation via Diffusion Priors [[Paper]](https://dl.acm.org/doi/10.1145/3811304)
+    - Video Analysis and Generation via a Semantic Progress Function [[Paper]](https://dl.acm.org/doi/10.1145/3799902.3811049) [[Code]](https://github.com/SagiPolaczek/semantic-progress-function) [[Project]](https://sagipolaczek.github.io/semantic-progress-function/)
+    - ***FreeOrbit4D:*** Training-Free Arbitrary Camera Redirection for Monocular Videos via Foreground-Complete 4D Reconstruction [[Paper]](https://dl.acm.org/doi/10.1145/3799902.3811122)
+    - ***CameraSquad:*** Achieving Content Consistency in Parallel Multi-Trajectory Camera-Controlled Video Generation [[Paper]](https://dl.acm.org/doi/10.1145/3799902.3811048)
+    - ***BodyReLux:*** Temporally Consistent Full-Body Video Relighting [[Paper]](https://dl.acm.org/doi/10.1145/3811352)
+    - ***Pixel Cube:*** Diffusion-based Portrait Video Relighting Through Realistic Lighting Reproduction [[Paper]](https://dl.acm.org/doi/10.1145/3811400)
+    - ***Relit-LiVE:*** Relight Video by Jointly Learning Environment Video [[Paper]](https://dl.acm.org/doi/10.1145/3799902.3811200)
+    - Continuous Control of Editing Models via Adaptive-Origin Guidance [[Paper]](https://dl.acm.org/doi/10.1145/3799902.3811077)
+    - ***Just-Dub-It:*** Video dubbing via Joint Audio-Visual Diffusion [[Paper]](https://dl.acm.org/doi/10.1145/3799902.3811061)
   - **IEEE TIP**
     - ***OutDreamer:*** Video Outpainting with a Diffusion Transformer [[Paper]](https://arxiv.org/abs/2506.22298) [[Project]](https://github.com/zhongzero/OutDreamer)
 - <span id="editing-year-2025">**Year 2025**</span>
@@ -1143,6 +1167,9 @@ Recent news of this GitHub repo are listed as follows.
     - ***READ:*** Real-time and Efficient Asynchronous Diffusion for Audio-driven Talking Head Generation [[Paper]](https://arxiv.org/abs/2508.03457)
     - ***FantasyTalking2:*** Timestep-Layer Adaptive Preference Optimization for Audio-Driven Portrait Animation [[Paper]](https://arxiv.org/abs/2508.11255)
     - Emotion-Conditioned Motion Sub-spaces with Flow Matching for Real-Time Audio-Driven Talking Heads [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/38834)
+  - **SIGGRAPH**
+    - ***DreamActor-M2:*** Universal Character Image Animation via Spatiotemporal In-Context Learning [[Paper]](https://dl.acm.org/doi/10.1145/3799902.3811114)
+    - ***Motion4Motion:*** Motion Transfer Across Subjects at Inference [[Paper]](https://dl.acm.org/doi/10.1145/3799902.3811062) [[Project]](https://lhchen.top/Motion4Motion/)
   - **arXiv**
     - ***Hand2World:*** Autoregressive Egocentric Interaction Generation via Free-Space Hand Gestures [[Paper]](https://arxiv.org/abs/2602.09600) [[Project]](https://hand2world.github.io/)
 - <span id="human-year-2025">**Year 2025**</span>
