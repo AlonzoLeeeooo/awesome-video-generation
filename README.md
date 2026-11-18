@@ -764,6 +764,7 @@ Recent news of this GitHub repo are listed as follows.
     - ***Eulerian Motion Guidance:*** Robust Image Animation via Bidirectional Geometric Consistency [[Paper]](https://arxiv.org/pdf/2605.06280)
     - ***TransText:*** Alpha-as-RGB Representation for Transparent Text Animation [[Paper]](https://arxiv.org/pdf/2603.17944)
   - **arXiv**
+    - ***FlockWorld:*** Toward Population-Scale Multi-Agent Video World Models through Artificial Life Simulation [[Paper]](https://arxiv.org/pdf/2610.34564) [[Code]](https://github.com/wangyz1999/flockworld)
     - ***LIFT:*** Layout-In-Future Video Generation under Large Viewpoint Change via On-Policy Self-Distillation [[Paper]](https://arxiv.org/pdf/2609.38146) [[Project]](https://jsxzs.github.io/LIFT) [[Code]](https://github.com/jsxzs/LIFT)
     - ***Honeycomb:*** Constant-Size Scene Memory Representation for Video World Models [[Paper]](https://arxiv.org/pdf/2609.37690) [[Project]](https://jackswl.github.io/honeycomb/) [[Code]](https://github.com/kaichen-z/HoneyComb)
 - <span id="image-year-2025">**Year 2025**</span>
