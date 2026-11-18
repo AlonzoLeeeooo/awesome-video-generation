@@ -369,6 +369,13 @@ Recent news of this GitHub repo are listed as follows.
     - ***Forecast Then Calibrate:*** Feature Caching as ODE for Efficient Diffusion Transformers [[Paper]](https://arxiv.org/abs/2508.16211)
     - ***Less Is More:*** Vision Representation Compression for Efficient Video Generation with Large Language Models [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/38391)
     - ***HiTVideo:*** Hierarchical Tokenizers for Enhancing Text-to-Video Generation with Autoregressive Large Language Models [[Paper]](https://arxiv.org/abs/2503.11513)
+  - **ACM MM**
+    - ***CT-1:*** Vision-Language-Camera Models Transfer Spatial Reasoning Knowledge to Camera-Controllable Video Generation [[Paper]](https://arxiv.org/pdf/2604.09201)
+    - ***Not All Frames Deserve Full Computation:*** Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation [[Paper]](https://arxiv.org/pdf/2604.02979)
+    - ***Step Back to Move Forward:*** Reflection-Aware Preference Optimization for Visual Generation [[Paper]](https://arxiv.org/pdf/2609.04282)
+    - ***When Physical Preferences Meet Semantic Constraints:*** Physical and Semantic Direct Preference Optimization for Text-to-Video Generation [[Paper]](https://arxiv.org/pdf/2607.16947)
+    - ***PanoTask:*** Task-Driven Panoramic Video Generation with Scene-Aware Autoregressive Camera Trajectory Prediction [[Paper]](https://2026.acmmm.org/site/technical-programme.html#entry-session-234)
+    - Motion Concept Unlearning in Video Diffusion Models [[Paper]](https://arxiv.org/pdf/2609.36832)
 - <span id="text-year-2025">**Year 2025**</span>
   - **CVPR**
     - ***AIGV-Assessor:*** *Benchmarking and Evaluating the Perceptual Quality of Text-to-Video Generation with LMM* [[Paper]](https://arxiv.org/abs/2411.17221) [[Code]](https://github.com/wangjiarui153/AIGV-Assessor)
@@ -751,6 +758,11 @@ Recent news of this GitHub repo are listed as follows.
     - ***ReRoPE:*** Repurposing RoPE for Relative Camera Control [[Paper]](https://dl.acm.org/doi/10.1145/3799902.3811226) [[Code]](https://github.com/Sisyphe-lee/ReRoPE_) [[Project]](https://sisyphe-lee.github.io/ReRoPE/)
     - ***UCM:*** Unified Modeling of Camera Control and Memory with Time-aware Positional Encoding Warping for World Models [[Paper]](https://dl.acm.org/doi/10.1145/3799902.3811088)
     - ***EasyVFX:*** Frequency-Driven Decoupling for Resource-Efficient VFX Generation [[Paper]](https://dl.acm.org/doi/10.1145/3799902.3811109) [[Code]](https://github.com/mayuelala/EasyVFX)
+  - **ACM MM**
+    - ***FlashI2V:*** Fourier-Guided Latent Shifting Prevents Conditional Image Leakage in Image-to-Video Generation [[Paper]](https://arxiv.org/pdf/2509.25187)
+    - ***DynaCartoon:*** 3D Dynamics-Guided Cartoon Video Generation from a Single Illustration and Forces [[Paper]](https://2026.acmmm.org/site/technical-programme.html#entry-session-75)
+    - ***Eulerian Motion Guidance:*** Robust Image Animation via Bidirectional Geometric Consistency [[Paper]](https://arxiv.org/pdf/2605.06280)
+    - ***TransText:*** Alpha-as-RGB Representation for Transparent Text Animation [[Paper]](https://arxiv.org/pdf/2603.17944)
   - **arXiv**
     - ***LIFT:*** Layout-In-Future Video Generation under Large Viewpoint Change via On-Policy Self-Distillation [[Paper]](https://arxiv.org/pdf/2609.38146) [[Project]](https://jsxzs.github.io/LIFT) [[Code]](https://github.com/jsxzs/LIFT)
     - ***Honeycomb:*** Constant-Size Scene Memory Representation for Video World Models [[Paper]](https://arxiv.org/pdf/2609.37690) [[Project]](https://jackswl.github.io/honeycomb/) [[Code]](https://github.com/kaichen-z/HoneyComb)
@@ -893,6 +905,9 @@ Recent news of this GitHub repo are listed as follows.
   - **SIGGRAPH**
     - ***MACE-Dance:*** Motion-Appearance Cascaded Experts for Music-Driven Dance Video Generation [[Paper]](https://dl.acm.org/doi/10.1145/3799902.3811202)
     - ***MAViD:*** A Multimodal Framework for Audio-Visual Dialogue Understanding and Generation [[Paper]](https://dl.acm.org/doi/10.1145/3799902.3811223) [[Project]](https://carlyx.github.io/MAViD/)
+  - **ACM MM**
+    - ***EchoCache:*** Energy-Guided Cross-Modal Caching for Efficient Audio-Driven Video Generation [[Paper]](https://arxiv.org/pdf/2608.02474)
+    - ***Talker-T2AV:*** Joint Talking Audio-Video Generation with Autoregressive Diffusion Modeling [[Paper]](https://arxiv.org/pdf/2604.23586)
 - <span id="audio-year-2025">**Year 2025**</span>  
   - **ICCV**
     - ***FixTalk:*** Taming Identity Leakage for High-Quality Talking Head Generation in Extreme Cases [[Paper]](https://arxiv.org/abs/2507.01390)
@@ -970,6 +985,12 @@ Recent news of this GitHub repo are listed as follows.
     - ***MoFu:*** Scale-Aware Modulation and Fourier Fusion for Multi-Subject Video Generation [[Paper]](https://arxiv.org/abs/2512.22310)
   - **SIGGRAPH**
     - ***MV-S2V:*** Multi-View Subject-Consistent Video Generation [[Paper]](https://dl.acm.org/doi/10.1145/3799902.3811131)
+  - **ACM MM**
+    - ***OmniPersona:*** Holistic Identity-Preserving Video Creation and Editing via Spatiotemporal Decoupled Persona Injection in Unified DiT [[Paper]](https://2026.acmmm.org/site/technical-programme.html#entry-session-12)
+    - ***SubjectAnchor:*** Subject-Aware Memory-to-Video for Multi-Shot Storytelling [[Paper]](https://arxiv.org/pdf/2609.34502)
+    - ***MultiBinder:*** Preventing Multi-Subject Identity Leakage in Personalized Video Generation [[Paper]](https://2026.acmmm.org/site/technical-programme.html#entry-session-40)
+    - ***Disco-LoRA:*** Disentangled Composition of Content, Style, and Motion for Multi-concept Video Customization [[Paper]](https://arxiv.org/pdf/2606.26668)
+    - ***Slot-ID:*** Identity-Preserving Video Generation from Reference Videos via Slot-Based Temporal Identity Encoding [[Paper]](https://arxiv.org/pdf/2601.01352)
 - <span id="personalized-year-2025">**Year 2025**</span>
   - **ICCV**
     - ***DualReal:*** Adaptive Joint Training for Lossless Identity-Motion Fusion in Video Customization [[Paper]](https://arxiv.org/abs/2505.02192)
@@ -1113,6 +1134,12 @@ Recent news of this GitHub repo are listed as follows.
     - ***Relit-LiVE:*** Relight Video by Jointly Learning Environment Video [[Paper]](https://dl.acm.org/doi/10.1145/3799902.3811200)
     - Continuous Control of Editing Models via Adaptive-Origin Guidance [[Paper]](https://dl.acm.org/doi/10.1145/3799902.3811077)
     - ***Just-Dub-It:*** Video dubbing via Joint Audio-Visual Diffusion [[Paper]](https://dl.acm.org/doi/10.1145/3799902.3811061)
+  - **ACM MM**
+    - ***RCTR:*** Risk-Calibrated Token Routing for Long-Horizon Online Video Inpainting [[Paper]](https://2026.acmmm.org/site/technical-programme.html#entry-session-58)
+    - ***FlowAnchor:*** Stabilizing the Editing Signal for Inversion-Free Video Editing [[Paper]](https://arxiv.org/pdf/2604.22586)
+    - ***Click2Insert:*** Video Object Insertion via Sparse Click Guidance [[Paper]](https://2026.acmmm.org/site/technical-programme.html#entry-session-85)
+    - ***LumaID:*** Harnessing Illumination-Awareness for High-Fidelity Video Head Identity Editing [[Paper]](https://2026.acmmm.org/site/technical-programme.html#entry-session-40)
+    - ***BooM-VVT:*** Boosting Mask-Free Video Virtual Try-On with Image-Level Pseudo Data [[Paper]](https://arxiv.org/pdf/2609.04120)
   - **IEEE TIP**
     - ***OutDreamer:*** Video Outpainting with a Diffusion Transformer [[Paper]](https://arxiv.org/abs/2506.22298) [[Project]](https://github.com/zhongzero/OutDreamer)
 - <span id="editing-year-2025">**Year 2025**</span>
@@ -1324,6 +1351,17 @@ Recent news of this GitHub repo are listed as follows.
   - **SIGGRAPH**
     - ***DreamActor-M2:*** Universal Character Image Animation via Spatiotemporal In-Context Learning [[Paper]](https://dl.acm.org/doi/10.1145/3799902.3811114)
     - ***Motion4Motion:*** Motion Transfer Across Subjects at Inference [[Paper]](https://dl.acm.org/doi/10.1145/3799902.3811062) [[Project]](https://lhchen.top/Motion4Motion/)
+  - **ACM MM**
+    - Geometry-guided Emotion Modulation for Controllable and Photorealistic Emotional Talking Face Generation [[Paper]](https://arxiv.org/pdf/2608.00663)
+    - ***LiveAct:*** Towards Hour-Scale Real-Time Human Animation with Neighbor Forcing and ConvKV Memory [[Paper]](https://arxiv.org/pdf/2603.11746)
+    - ***AniCrafter:*** Customizing Realistic Human-Centric Animation via Avatar-Background Conditioning in Video Diffusion Models [[Paper]](https://arxiv.org/pdf/2505.20255)
+    - ***CogPortrait:*** Fine-Grained Eye-Region Control in Portrait Animation via Hierarchical Agent Planning [[Paper]](https://arxiv.org/pdf/2605.28056)
+    - ***EMO-PhysioFlow:*** Fine-grained Affective Talking Head Generation with LLM-driven Motion Disentanglement [[Paper]](https://2026.acmmm.org/site/technical-programme.html#entry-session-52)
+    - ***DynaForcing:*** Overcoming Dynamic Collapse in Self-Forcing Distillation for Streaming Avatar Generation [[Paper]](https://arxiv.org/pdf/2608.17707)
+    - ***SeMo:*** A Self-Supervised Motion Latent for Portrait Video Generation [[Paper]](https://2026.acmmm.org/site/technical-programme.html#entry-session-40)
+    - Real-Time Co-Speech Gesture Video Generation [[Paper]](https://2026.acmmm.org/site/technical-programme.html#entry-session-85)
+    - ***IMTalker:*** Efficient Audio-driven Talking Face Generation with Implicit Motion Transfer [[Paper]](https://arxiv.org/pdf/2511.22167)
+    - ***VibeAvatar:*** Aligning Phonetic Kinematics and Human Aesthetics for High-Fidelity Talking Avatar Synthesis [[Paper]](https://arxiv.org/pdf/2609.18632)
   - **arXiv**
     - ***Hand2World:*** Autoregressive Egocentric Interaction Generation via Free-Space Hand Gestures [[Paper]](https://arxiv.org/abs/2602.09600) [[Project]](https://hand2world.github.io/)
 - <span id="human-year-2025">**Year 2025**</span>
@@ -1419,6 +1457,7 @@ Generation via Single Still Image [[Paper]](https://www.ecva.net/papers/eccv_202
 - [CVPR 2025] ***MovieBench:*** A Hierarchical Movie Level Dataset for Long Video Generation [[Paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Wu_MovieBench_A_Hierarchical_Movie_Level_Dataset_for_Long_Video_Generation_CVPR_2025_paper.pdf)
 - [CVPR 2025] ***TASTE-Rob:*** Advancing Video Generation of Task-Oriented Hand-Object Interaction for Generalizable Robotic Manipulation [[Paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhao_TASTE-Rob_Advancing_Video_Generation_of_Task-Oriented_Hand-Object_Interaction_for_Generalizable_CVPR_2025_paper.pdf) [[Dataset]](https://taste-rob.github.io/)
 - [CVPR 2025] ***OpenHumanVid:*** A Large-Scale High-Quality Dataset for Enhancing Human-Centric Video Generation [[Paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Li_OpenHumanVid_A_Large-Scale_High-Quality_Dataset_for_Enhancing_Human-Centric_Video_Generation_CVPR_2025_paper.pdf)
+- [ACM MM 2026] ***MuSS:*** A Large-Scale Dataset and Cinematic Narrative Benchmark for Multi-Shot Subject-to-Video Generation [[Paper]](https://arxiv.org/pdf/2604.23789)
 - ***MiniMax H3 1K Prompt Curation:*** curated index of the MiniMax H3 1K prompt dataset (1,000 prompts + 768p videos) — 3-field prompt anatomy, 10 hand-picked reusable prompts, and a model comparison. [[Curated repo]](https://github.com/yangzhou-chaofan/minimax-h3-1000-prompts) [[Interactive atlas]](https://neta.art/use-cases/en/h3-1000-prompt-list)
 - [ICCV 2025] ***DH-FaceVid-1K:*** A Large-Scale High-Quality Dataset for Face Video Generation [[Paper]](https://openaccess.thecvf.com/content/ICCV2025/papers/Di_DH-FaceVid-1K_A_Large-Scale_High-Quality_Dataset_for_Face_Video_Generation_ICCV_2025_paper.pdf)
 - [AAAI 2026] ***EmoVid:*** A Multimodal Emotion Video Dataset for Emotion-Centric Video Understanding and Generation [[Paper]](https://arxiv.org/abs/2511.11002)
@@ -1445,6 +1484,11 @@ Generation via Single Still Image [[Paper]](https://www.ecva.net/papers/eccv_202
 - [ICML 2026] ***TMD-Bench:*** A Multi-Level Evaluation Paradigm for Music–Dance Co-Generation [[Paper]](https://openreview.net/forum?id=FcklDFAnzF) [[Code]](https://github.com/MM-Speech/TMD-Bench)
 - [ICML 2026] ***LoCoT2V-Bench:*** Benchmarking Long-Form and Complex Text-to-Video Generation [[Paper]](https://openreview.net/forum?id=F22sU0Amh1)
 - [ICML 2026] ***AVGen-Bench:*** A Task-Driven Benchmark for Multi-Granular Evaluation of Text-to-Audio-Video Generation [[Paper]](https://openreview.net/forum?id=aJdgt8xDMy) [[Project]](https://aka.ms/avgenbench)
+- [ACM MM 2026] ***PRISM-Bench:*** An Audio-Centric Diagnostic Benchmark for Text-to-Audio-Video Generation [[Paper]](https://arxiv.org/pdf/2609.04867)
+- [ACM MM 2026] Probing Human-Centric Rule-based Reasoning Abilities of Video Generation Models for Vision Foundation Intelligence [[Paper]](https://2026.acmmm.org/site/technical-programme.html#entry-session-173)
+- [ACM MM 2026] ***The Algebra of Storytelling:*** A State Transition Benchmark for Spanning Multi-Entity Multi-Shot Narratives [[Paper]](https://2026.acmmm.org/site/technical-programme.html#entry-session-40)
+- [ACM MM 2026] ***PhyAVBench:*** A Challenging Audio Physics-Sensitivity Benchmark for Physically Grounded Text-to-Audio-Video Generation [[Paper]](https://arxiv.org/pdf/2512.23994)
+- [ACM MM 2026] ***MTAVG-Bench 2.0:*** Diagnosing Failure Modes of Cinematic Expressiveness in Multi-Talker Audio-Video Generation [[Paper]](https://arxiv.org/pdf/2605.28035)
 - [CVPR 2025] **T2V-CompBench:*** A Comprehensive Benchmark for Compositional Text-to-video Generation [[Paper]](https://arxiv.org/pdf/2407.14505) [[Project]](https://github.com/KaiyueSun98/T2V-CompBench/tree/V2) [[Code]](https://github.com/KaiyueSun98/T2V-CompBench/tree/V2)
 - [AAAI 2025] ***EditBoard:*** Towards a Comprehensive Evaluation Benchmark for Text-Based Video Editing Models [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33754)
 - [ICLR 2025] ***Beyond FVD:*** An Enhanced Evaluation Metrics for Video Generation Distribution Quality [[Paper]](https://openreview.net/forum?id=cC3LxGZasH)
