@@ -1489,6 +1489,7 @@ Generation via Single Still Image [[Paper]](https://www.ecva.net/papers/eccv_202
 - [ACM MM 2026] ***The Algebra of Storytelling:*** A State Transition Benchmark for Spanning Multi-Entity Multi-Shot Narratives [[Paper]](https://2026.acmmm.org/site/technical-programme.html#entry-session-40)
 - [ACM MM 2026] ***PhyAVBench:*** A Challenging Audio Physics-Sensitivity Benchmark for Physically Grounded Text-to-Audio-Video Generation [[Paper]](https://arxiv.org/pdf/2512.23994)
 - [ACM MM 2026] ***MTAVG-Bench 2.0:*** Diagnosing Failure Modes of Cinematic Expressiveness in Multi-Talker Audio-Video Generation [[Paper]](https://arxiv.org/pdf/2605.28035)
+- [arXiv 2026] ***JLD:*** Perceptual Distance Through A Jacobian Lens [[Paper]](https://arxiv.org/abs/2610.05967) [[Project]](https://shreshthsaini.github.io/jld/) [[Code]](https://github.com/shreshthsaini/jld)
 - [CVPR 2025] **T2V-CompBench:*** A Comprehensive Benchmark for Compositional Text-to-video Generation [[Paper]](https://arxiv.org/pdf/2407.14505) [[Project]](https://github.com/KaiyueSun98/T2V-CompBench/tree/V2) [[Code]](https://github.com/KaiyueSun98/T2V-CompBench/tree/V2)
 - [AAAI 2025] ***EditBoard:*** Towards a Comprehensive Evaluation Benchmark for Text-Based Video Editing Models [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33754)
 - [ICLR 2025] ***Beyond FVD:*** An Enhanced Evaluation Metrics for Video Generation Distribution Quality [[Paper]](https://openreview.net/forum?id=cC3LxGZasH)
