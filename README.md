@@ -363,6 +363,8 @@ Recent news of this GitHub repo are listed as follows.
     - ***Flash-VAED:*** Plug-and-Play VAE Decoders for Efficient Video Generation [[Paper]](https://openreview.net/forum?id=PDBLtVDb0d) [[Code]](https://github.com/Aoko955/Flash-VAED)
     - ***MAMBO-G:*** Magnitude-Aware Mitigation for Boosted Guidance [[Paper]](https://openreview.net/forum?id=zSKSZm46DO)
     - ***Causal Forcing:*** Autoregressive Diffusion Distillation Done Right for High-Quality Real-Time Interactive Video Generation [[Paper]](https://openreview.net/forum?id=BYInOck3gr) [[Code]](https://github.com/thu-ml/Causal-Forcing)
+  - **NeurIPS**
+    - ***Disen-Forcing:*** Disentangling Semantic Anchoring from Motion for Autoregressive Video Diffusion [[Paper]](https://arxiv.org/abs/2611.02822) [[Project]](https://disen-forcing.github.io/) [[Code]](https://github.com/Dijkstra14/Disen-Forcing)
   - **ICLR**
     - ***Astraea:*** A Token-wise Acceleration Framework for Video Diffusion Transformers [[Paper]](https://openreview.net/forum?id=e8P4Oo8S6U)
     - ***BLADE:*** Block-Sparse Attention Meets Step Distillation for Efficient Video Generation [[Paper]](https://openreview.net/forum?id=O9J20MsmRl)
