@@ -109,6 +109,7 @@ Recent news of this GitHub repo are listed as follows.
 |Pika|Pika|2023|-|[link](https://pika.art/)|-|
 |PixelDance|ByteDance|2023|[link](https://arxiv.org/abs/2311.10982)|[link](https://makepixelsdance.github.io/)|-|
 |Podframes|Jellypod|2026|-|[link](https://github.com/Jellypod-Inc/podframes)|Open-source topic-to-podcast video pipeline with mixed TTS voices, lip-synced avatars, captions, and b-roll.|
+|Kling AI|Kuaishou|2024|-|[link](https://kling.ai/)|Text-to-video and image-to-video generation, with [official MCP, Plugin, and CLI setup](https://kling.ai/app/mcp/guide).|
 
 
 [<u><small><🎯Back to Top></small></u>](#contents)
